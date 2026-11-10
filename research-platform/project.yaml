@@ -1,0 +1,37 @@
+project:
+  name: "Auditinsyt"
+  principal_investigator: "Zubair"
+  data_root: "d:/datamain"
+  analysis_root: "d:/datamain/DAM_ANALYSIS_READY_2026"
+  raw_output_root: "d:/datamain/dam_output"
+  
+papers:
+  - id: paper-1
+    title: "Do Pre-Harvest Weather Shocks Affect Agricultural Prices?"
+    subtitle: "Evidence from Bangladesh"
+    status: "data-ready-with-conditions"
+    primary_price_var: "price_wholesale_raw_mid_kg"
+    target_sample: "PRIMARY_ANALYSIS"
+    
+  - id: paper-2
+    title: "Weather Shocks and Spatial Price Dispersion in Agricultural Markets"
+    subtitle: "Evidence from Bangladesh"
+    status: "analysis-ready"
+    primary_price_var: "bilateral_log_price_diff"
+    target_sample: "STRICT_SENSITIVITY"
+    
+  - id: paper-3
+    title: "Droughts, Floods, and Spatial Agricultural Market Efficiency"
+    subtitle: "in Bangladesh"
+    status: "data-ready-with-conditions"
+    primary_price_var: "wholesale_retail_spread_kg"
+    target_sample: "PRIMARY_ANALYSIS"
+
+dataset_metrics:
+  total_observations: 3348
+  unique_markets: 117
+  commodity_varieties: 11
+  temporal_span: "June 2025 - August 2026"
+  divisions: 8
+  primary_analysis_obs: 3177
+  strict_sensitivity_obs: 2721

@@ -1,0 +1,94 @@
+filename,commodity,issue_type,column,count,detail
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),ZERO_PRICE,wholesale_price_low,3,3 zero values
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),ZERO_PRICE,wholesale_price_high,3,3 zero values
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),ZERO_PRICE,retail_price_low,4,4 zero values
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),ZERO_PRICE,retail_price_high,4,4 zero values
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),WHOLESALE_LOW_GT_HIGH,wholesale_price_low/high,5,5 rows where wholesale low > high
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),RETAIL_LOW_GT_HIGH,retail_price_low/high,1,1 rows where retail low > high
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,600,"600 rows where wholesale avg outside [low, high]"
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,471,"471 rows where retail avg outside [low, high]"
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),EXTREME_OUTLIER_WHOLESALE_AVG,wholesale_price_avg,7,"7 values outside [Q1-3*IQR, Q3+3*IQR] = [-5557, 14876]"
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,3,"3 values outside [Q1-3*IQR, Q3+3*IQR] = [-49, 154]"
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,ZERO_PRICE,wholesale_price_low,42,42 zero values
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,ZERO_PRICE,wholesale_price_high,42,42 zero values
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,ZERO_PRICE,wholesale_price_avg,8,8 zero values
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,ZERO_PRICE,retail_price_low,42,42 zero values
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,ZERO_PRICE,retail_price_high,43,43 zero values
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,ZERO_PRICE,retail_price_avg,8,8 zero values
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,RETAIL_LOW_GT_HIGH,retail_price_low/high,1,1 rows where retail low > high
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,129,"129 rows where wholesale avg outside [low, high]"
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,107,"107 rows where retail avg outside [low, high]"
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,EXTREME_OUTLIER_WHOLESALE_AVG,wholesale_price_avg,8,"8 values outside [Q1-3*IQR, Q3+3*IQR] = [168, 11676]"
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,8,"8 values outside [Q1-3*IQR, Q3+3*IQR] = [7, 126]"
+DAM_ONION_NEW_2010_2026.csv,Onion (New),RETAIL_LOW_GT_HIGH,retail_price_low/high,1,1 rows where retail low > high
+DAM_ONION_NEW_2010_2026.csv,Onion (New),WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,164,"164 rows where wholesale avg outside [low, high]"
+DAM_ONION_NEW_2010_2026.csv,Onion (New),RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,146,"146 rows where retail avg outside [low, high]"
+DAM_ONION_NEW_2010_2026.csv,Onion (New),EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,2,"2 values outside [Q1-3*IQR, Q3+3*IQR] = [-54, 163]"
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),ZERO_PRICE,wholesale_price_low,3,3 zero values
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),ZERO_PRICE,wholesale_price_high,3,3 zero values
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),ZERO_PRICE,retail_price_low,4,4 zero values
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),ZERO_PRICE,retail_price_high,4,4 zero values
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),WHOLESALE_LOW_GT_HIGH,wholesale_price_low/high,2,2 rows where wholesale low > high
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,192,"192 rows where wholesale avg outside [low, high]"
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,134,"134 rows where retail avg outside [low, high]"
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),EXTREME_OUTLIER_WHOLESALE_AVG,wholesale_price_avg,6,"6 values outside [Q1-3*IQR, Q3+3*IQR] = [-1384, 5706]"
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,3,"3 values outside [Q1-3*IQR, Q3+3*IQR] = [-15, 69]"
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,ZERO_PRICE,wholesale_price_low,23,23 zero values
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,ZERO_PRICE,wholesale_price_high,23,23 zero values
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,ZERO_PRICE,wholesale_price_avg,8,8 zero values
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,ZERO_PRICE,retail_price_low,24,24 zero values
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,ZERO_PRICE,retail_price_high,24,24 zero values
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,ZERO_PRICE,retail_price_avg,9,9 zero values
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,38,"38 rows where wholesale avg outside [low, high]"
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,28,"28 rows where retail avg outside [low, high]"
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,EXTREME_OUTLIER_WHOLESALE_AVG,wholesale_price_avg,15,"15 values outside [Q1-3*IQR, Q3+3*IQR] = [-1864, 6592]"
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,15,"15 values outside [Q1-3*IQR, Q3+3*IQR] = [-16, 75]"
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),ZERO_PRICE,wholesale_price_low,24,24 zero values
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),ZERO_PRICE,wholesale_price_high,24,24 zero values
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),ZERO_PRICE,wholesale_price_avg,8,8 zero values
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),ZERO_PRICE,retail_price_low,25,25 zero values
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),ZERO_PRICE,retail_price_high,25,25 zero values
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),ZERO_PRICE,retail_price_avg,9,9 zero values
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),WHOLESALE_LOW_GT_HIGH,wholesale_price_low/high,3,3 rows where wholesale low > high
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,367,"367 rows where wholesale avg outside [low, high]"
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,247,"247 rows where retail avg outside [low, high]"
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),EXTREME_OUTLIER_WHOLESALE_AVG,wholesale_price_avg,7,"7 values outside [Q1-3*IQR, Q3+3*IQR] = [-158, 3623]"
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,13,"13 values outside [Q1-3*IQR, Q3+3*IQR] = [1, 43]"
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),ZERO_PRICE,wholesale_price_low,29,29 zero values
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),ZERO_PRICE,wholesale_price_high,29,29 zero values
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),ZERO_PRICE,wholesale_price_avg,8,8 zero values
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),ZERO_PRICE,retail_price_low,29,29 zero values
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),ZERO_PRICE,retail_price_high,29,29 zero values
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),ZERO_PRICE,retail_price_avg,8,8 zero values
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,93,"93 rows where wholesale avg outside [low, high]"
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,69,"69 rows where retail avg outside [low, high]"
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),EXTREME_OUTLIER_WHOLESALE_AVG,wholesale_price_avg,15,"15 values outside [Q1-3*IQR, Q3+3*IQR] = [-843, 4031]"
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,18,"18 values outside [Q1-3*IQR, Q3+3*IQR] = [-4, 47]"
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,ZERO_PRICE,wholesale_price_low,2,2 zero values
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,ZERO_PRICE,wholesale_price_high,2,2 zero values
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,ZERO_PRICE,wholesale_price_avg,1,1 zero values
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,ZERO_PRICE,retail_price_low,2,2 zero values
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,ZERO_PRICE,retail_price_high,2,2 zero values
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,ZERO_PRICE,retail_price_avg,1,1 zero values
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,WHOLESALE_LOW_GT_HIGH,wholesale_price_low/high,1,1 rows where wholesale low > high
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,232,"232 rows where wholesale avg outside [low, high]"
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,166,"166 rows where retail avg outside [low, high]"
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,EXTREME_OUTLIER_WHOLESALE_AVG,wholesale_price_avg,2,"2 values outside [Q1-3*IQR, Q3+3*IQR] = [-482, 3835]"
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,1,"1 values outside [Q1-3*IQR, Q3+3*IQR] = [0, 42]"
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),ZERO_PRICE,wholesale_price_low,18,18 zero values
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),ZERO_PRICE,wholesale_price_high,18,18 zero values
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),ZERO_PRICE,wholesale_price_avg,8,8 zero values
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),ZERO_PRICE,retail_price_low,19,19 zero values
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),ZERO_PRICE,retail_price_high,19,19 zero values
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),ZERO_PRICE,retail_price_avg,9,9 zero values
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),WHOLESALE_LOW_GT_HIGH,wholesale_price_low/high,1,1 rows where wholesale low > high
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,72,"72 rows where wholesale avg outside [low, high]"
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,56,"56 rows where retail avg outside [low, high]"
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,1,"1 values outside [Q1-3*IQR, Q3+3*IQR] = [-8, 48]"
+DAM_POTATOES_IMPORTED_2010_2026.csv,Potatoes-imported,WHOLESALE_LOW_GT_HIGH,wholesale_price_low/high,1,1 rows where wholesale low > high
+DAM_POTATOES_IMPORTED_2010_2026.csv,Potatoes-imported,WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,11,"11 rows where wholesale avg outside [low, high]"
+DAM_POTATOES_IMPORTED_2010_2026.csv,Potatoes-imported,RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,6,"6 rows where retail avg outside [low, high]"
+DAM_POTATOES_IMPORTED_2010_2026.csv,Potatoes-imported,EXTREME_OUTLIER_WHOLESALE_AVG,wholesale_price_avg,3,"3 values outside [Q1-3*IQR, Q3+3*IQR] = [1100, 2500]"
+DAM_POTATOES_IMPORTED_2010_2026.csv,Potatoes-imported,EXTREME_OUTLIER_RETAIL_AVG,retail_price_avg,1,"1 values outside [Q1-3*IQR, Q3+3*IQR] = [11, 32]"
+DAM_SWEET_POTATO_2010_2026.csv,Sweet Potato,WHOLESALE_AVG_OUTSIDE_RANGE,wholesale_price_avg,2,"2 rows where wholesale avg outside [low, high]"
+DAM_SWEET_POTATO_2010_2026.csv,Sweet Potato,RETAIL_AVG_OUTSIDE_RANGE,retail_price_avg,2,"2 rows where retail avg outside [low, high]"

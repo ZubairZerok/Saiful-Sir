@@ -1,0 +1,252 @@
+commodity_id,commodity_name,commodity_family,market_id,market_name,division_name,valid_spread_observations,mean_spread_bdt_kg,paper3_suitability
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,13,12.33,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,8,kawran Bazar,Dhaka,8,10.62,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,11,Mirpur 1 no. Bazar,Dhaka,8,11.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,15,7.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,15,5.53,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,17,Narayanganj Sadar Bazar,Dhaka,8,5.62,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,13,6.15,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,15,6.67,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,13,7.04,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,14,4.96,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,15,4.07,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,14,10.46,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,15,6.13,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,15,7.03,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,15,7.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,15,6.1,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,15,6.03,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,15,5.03,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,15,4.92,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,15,4.05,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,15,5.9,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,15,6.7,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,15,8.3,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,15,7.97,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,15,7.33,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,15,4.65,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,15,4.87,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,15,8.27,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,56,Comilla Sadar Bazar,Chattogram,7,6.36,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,15,8.17,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,59,Munshiganj Sadar Bazar,Dhaka,9,5.78,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,15,7.73,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,14,6.93,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,74,Kangshanagar Bazar,Chattogram,6,6.67,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,11,8.95,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,15,4.18,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,15,6.43,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,15,5.97,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,14,4.64,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,15,5.7,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,15,7.87,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,15,6.57,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,15,5.33,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,15,6.9,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,110,Shariatpur Bazar,Dhaka,15,5.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,111,Tangail Bazar,Dhaka,15,7.44,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,112,Jessore Sadar Bazar,Rajshahi,15,7.43,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,116,Habiganj Sadar Bazar,Sylhet,14,5.18,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,119,"Sultanpur Bazar, Satkhira",Rajshahi,15,6.73,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,125,Rupganj Bazar,Rajshahi,15,4.67,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,127,Joydevpur market,Dhaka,15,9.1,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,139,Nageshwari Bazar,Rangpur,6,6.17,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,146,Rangamati Sadar Bazar,Chattogram,15,8.37,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,207,Madhupur Bazar,Dhaka,6,4.67,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,241,Baneshor Bazar,Khulna,6,7.58,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,275,Chandina Bazar,Chattogram,7,6.93,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,325,Sapahar Market,Khulna,9,6.72,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,327,Godagari Sadar Bazar,Khulna,7,5.86,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,331,Dhanbari Bazar,Dhaka,7,5.21,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,341,Mohanganj Bazar,Mymensingh,6,4.29,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,346,Amtali Bazar,Barishal,6,3.42,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,356,Golapganj Bazar,Sylhet,6,7.58,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,360,Singair Bazar,Dhaka,6,5.67,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,367,Raipur Bazar,Chattogram,6,5.75,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,369,Begumganj Bazar,Chattogram,6,4.42,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,372,Chagalnaiya Bazar,Chattogram,7,5.43,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,374,Kaukhali Bazar,Chattogram,6,8.08,HIGH_CONFIDENCE_MARGIN_SAMPLE
+831,Onion (local),ONION,375,Gobindaganj Bazar,Rangpur,6,4.92,HIGH_CONFIDENCE_MARGIN_SAMPLE
+832,Onion-imported,ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,7,6.71,HIGH_CONFIDENCE_MARGIN_SAMPLE
+832,Onion-imported,ONION,24,Moulvibazar Sadar Bazar,Sylhet,6,4.75,HIGH_CONFIDENCE_MARGIN_SAMPLE
+832,Onion-imported,ONION,51,Sylhet Sadar Bazaar,Sylhet,9,8.11,HIGH_CONFIDENCE_MARGIN_SAMPLE
+832,Onion-imported,ONION,56,Comilla Sadar Bazar,Chattogram,10,8.85,HIGH_CONFIDENCE_MARGIN_SAMPLE
+832,Onion-imported,ONION,103,Cox's Bazar Sadar,Chattogram,9,5.94,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,17,Narayanganj Sadar Bazar,Dhaka,8,9.38,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,15,4.93,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,15,5.1,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,15,4.7,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,15,7.53,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,15,5.37,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,53,"Bahadur Bazar, Dinajpur",Rangpur,15,5.87,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,54,Gopaldanj Sadar Boro Bazar,Dhaka,15,6.4,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,56,Comilla Sadar Bazar,Chattogram,7,10.36,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,15,5.37,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,59,Munshiganj Sadar Bazar,Dhaka,7,6.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,62,Bagerhat Sadar Bazar,Rajshahi,15,6.7,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,65,Kushtia Sadar Bazar,Rajshahi,15,6.87,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,66,Joypurhat Sadar Bazar,Khulna,15,5.1,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,70,Patuakhali Sadar Bazar,Barishal,6,8.17,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,114,Nator Bazar,Khulna,15,4.93,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,115,Sirajganj Sadar Bazar,Khulna,7,6.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,232,Chapainawabganj Sadar Bazar,Khulna,14,4.86,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,326,Shibgonj Sadar Bazar,Khulna,9,4.11,HIGH_CONFIDENCE_MARGIN_SAMPLE
+833,Onion (New),ONION,377,"Kaliganj Bazar,",Rajshahi,6,6.25,HIGH_CONFIDENCE_MARGIN_SAMPLE
+942,Potato (Local) - Old,POTATO,30,Naogaon Sadar Bazar,Khulna,7,4.21,HIGH_CONFIDENCE_MARGIN_SAMPLE
+942,Potato (Local) - Old,POTATO,31,"Sadar Bazar, Thakurgaon",Rangpur,7,4.14,HIGH_CONFIDENCE_MARGIN_SAMPLE
+942,Potato (Local) - Old,POTATO,51,Sylhet Sadar Bazaar,Sylhet,8,6.44,HIGH_CONFIDENCE_MARGIN_SAMPLE
+942,Potato (Local) - Old,POTATO,111,Tangail Bazar,Dhaka,7,5.75,HIGH_CONFIDENCE_MARGIN_SAMPLE
+942,Potato (Local) - Old,POTATO,116,Habiganj Sadar Bazar,Sylhet,8,5.56,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,4,Mohammadpur Krishi Market,Dhaka,9,7.22,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,8,kawran Bazar,Dhaka,8,7.06,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,11,Mirpur 1 no. Bazar,Dhaka,8,8.19,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,15,5.7,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,15,4.27,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,20,"Sadar Bazar, Pabna",Khulna,6,4.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,15,6.2,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,10,8.1,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,15,3.97,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,30,Naogaon Sadar Bazar,Khulna,11,4.68,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,31,"Sadar Bazar, Thakurgaon",Rangpur,9,3.17,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,32,Panchagarh Sadar Bazar,Rangpur,9,2.89,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,36,Gaibandha Sadar Bazar,Rangpur,15,4.27,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,15,4.47,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,9,5.22,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,51,Sylhet Sadar Bazaar,Sylhet,8,6.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,66,Joypurhat Sadar Bazar,Khulna,15,3.57,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,67,Bogra Sadar Bazar,Khulna,15,4.43,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,70,Patuakhali Sadar Bazar,Barishal,6,6.21,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,79,Chittagong Sadar Bazar,Chattogram,6,4.77,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,14,5.39,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,105,Khagrachari Sadar Pouro Bazar,Chattogram,8,5.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,110,Shariatpur Bazar,Dhaka,15,5.03,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,111,Tangail Bazar,Dhaka,9,8.03,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,114,Nator Bazar,Khulna,8,3.12,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,115,Sirajganj Sadar Bazar,Khulna,7,5.36,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,116,Habiganj Sadar Bazar,Sylhet,8,6.75,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,139,Nageshwari Bazar,Rangpur,6,6.58,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,146,Rangamati Sadar Bazar,Chattogram,8,5.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,232,Chapainawabganj Sadar Bazar,Khulna,15,3.93,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,325,Sapahar Market,Khulna,9,5.56,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,331,Dhanbari Bazar,Dhaka,7,5.86,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,341,Mohanganj Bazar,Mymensingh,6,5.75,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,352,Mithapukur Bazar,Rangpur,6,7.75,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,356,Golapganj Bazar,Sylhet,6,6.58,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,367,Raipur Bazar,Chattogram,7,6.04,HIGH_CONFIDENCE_MARGIN_SAMPLE
+943,Potato (Local),POTATO,375,Gobindaganj Bazar,Rangpur,6,4.33,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,19,Sunamganj Sadar Bazar,Sylhet,9,4.67,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,29,Jamalpur Sadar Bazar,Mymensingh,9,4.28,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,30,Naogaon Sadar Bazar,Khulna,7,3.86,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,31,"Sadar Bazar, Thakurgaon",Rangpur,7,3.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,51,Sylhet Sadar Bazaar,Sylhet,10,5.4,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,65,Kushtia Sadar Bazar,Rajshahi,15,4.72,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,105,Khagrachari Sadar Pouro Bazar,Chattogram,8,4.62,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,109,Manikganj Bazar,Dhaka,8,3.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,111,Tangail Bazar,Dhaka,7,4.86,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,116,Habiganj Sadar Bazar,Sylhet,8,5.25,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,119,"Sultanpur Bazar, Satkhira",Rajshahi,9,3.72,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,125,Rupganj Bazar,Rajshahi,8,5.87,HIGH_CONFIDENCE_MARGIN_SAMPLE
+944,Potato (Holland) - White (Old),POTATO,146,Rangamati Sadar Bazar,Chattogram,9,5.17,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,13,Rajshahi Sadar Bazar,Khulna,6,4.33,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,15,Pirojpur Sadar Bazar,Barishal,8,4.44,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,19,Sunamganj Sadar Bazar,Sylhet,9,5.39,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,15,3.9,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,15,4.13,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,15,7.9,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,15,6.03,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,29,Jamalpur Sadar Bazar,Mymensingh,9,4.81,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,11,4.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,31,"Sadar Bazar, Thakurgaon",Rangpur,9,2.83,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,15,2.57,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,15,5.27,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,15,4.58,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,14,5.14,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,15,3.73,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,15,2.73,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,10,6.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,15,3.07,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,15,5.6,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,15,4.53,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,58,Meherpur Sadar Bazar,Rajshahi,9,5.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,14,4.8,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,15,1.93,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,15,2.8,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,15,4.82,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,74,Kangshanagar Bazar,Chattogram,6,4.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,79,Chittagong Sadar Bazar,Chattogram,9,-4.39,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,15,4.58,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,15,4.33,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,102,Chandpur Sadaar,Chattogram,15,4.43,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,103,Cox's Bazar Sadar,Chattogram,14,5.79,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,104,Feni Sadar,Chattogram,15,6.27,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,105,Khagrachari Sadar Pouro Bazar,Chattogram,10,4.55,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,106,Noakhali Sadar Bazar,Chattogram,14,4.55,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,108,Kishoreganj Bazar,Dhaka,15,5.48,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,109,Manikganj Bazar,Dhaka,9,4.97,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,111,Tangail Bazar,Dhaka,9,6.25,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,112,Jessore Sadar Bazar,Rajshahi,15,5.97,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,116,Habiganj Sadar Bazar,Sylhet,8,7.12,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,119,"Sultanpur Bazar, Satkhira",Rajshahi,8,3.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,125,Rupganj Bazar,Rajshahi,7,6.07,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,127,Joydevpur market,Dhaka,15,6.73,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,275,Chandina Bazar,Chattogram,7,3.79,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,334,Kalaroa Bazar,Rajshahi,7,3.11,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,341,Mohanganj Bazar,Mymensingh,6,4.75,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,346,Amtali Bazar,Barishal,6,2.54,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,360,Singair Bazar,Dhaka,6,4.42,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,369,Begumganj Bazar,Chattogram,6,4.25,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,372,Chagalnaiya Bazar,Chattogram,7,7.11,HIGH_CONFIDENCE_MARGIN_SAMPLE
+945,Potato (Holland) - White (New),POTATO,374,Kaukhali Bazar,Chattogram,6,4.08,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,19,Sunamganj Sadar Bazar,Sylhet,15,5.7,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,31,"Sadar Bazar, Thakurgaon",Rangpur,7,3.86,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,32,Panchagarh Sadar Bazar,Rangpur,6,2.83,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,51,Sylhet Sadar Bazaar,Sylhet,8,5.88,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,65,Kushtia Sadar Bazar,Rajshahi,15,4.72,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,109,Manikganj Bazar,Dhaka,8,3.25,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,111,Tangail Bazar,Dhaka,7,4.89,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,114,Nator Bazar,Khulna,8,2.56,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,119,"Sultanpur Bazar, Satkhira",Rajshahi,9,3.89,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,125,Rupganj Bazar,Rajshahi,8,5.87,HIGH_CONFIDENCE_MARGIN_SAMPLE
+946,Potato (Holland) - Red (Old),POTATO,325,Sapahar Market,Khulna,9,4.72,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,15,4.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,15,3.47,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,15,4.61,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,15,4.77,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,31,"Sadar Bazar, Thakurgaon",Rangpur,9,3.06,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,32,Panchagarh Sadar Bazar,Rangpur,7,2.64,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,15,2.22,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,15,2.95,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,37,Khulna Sadar Bazar,Rajshahi,8,5.38,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,15,5.2,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,15,3.47,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,15,4.53,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,15,5.3,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,15,2.77,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,13,5.69,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,15,3.99,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,58,Meherpur Sadar Bazar,Rajshahi,9,3.04,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,62,Bagerhat Sadar Bazar,Rajshahi,15,5.53,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,66,Joypurhat Sadar Bazar,Khulna,15,3.3,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,67,Bogra Sadar Bazar,Khulna,15,3.55,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,106,Noakhali Sadar Bazar,Chattogram,8,4.66,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,109,Manikganj Bazar,Dhaka,8,4.88,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,111,Tangail Bazar,Dhaka,9,6.25,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,114,Nator Bazar,Khulna,8,2.62,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,115,Sirajganj Sadar Bazar,Khulna,7,4.93,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,119,"Sultanpur Bazar, Satkhira",Rajshahi,7,3.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,125,Rupganj Bazar,Rajshahi,7,6.14,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,127,Joydevpur market,Dhaka,15,6.73,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,139,Nageshwari Bazar,Rangpur,6,3.96,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,207,Madhupur Bazar,Dhaka,7,5.0,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,232,Chapainawabganj Sadar Bazar,Khulna,15,3.23,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,326,Shibgonj Sadar Bazar,Khulna,9,3.44,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,327,Godagari Sadar Bazar,Khulna,7,3.93,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,331,Dhanbari Bazar,Dhaka,7,4.71,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,334,Kalaroa Bazar,Rajshahi,7,3.18,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,352,Mithapukur Bazar,Rangpur,6,3.29,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,360,Singair Bazar,Dhaka,6,4.17,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,375,Gobindaganj Bazar,Rangpur,6,2.54,HIGH_CONFIDENCE_MARGIN_SAMPLE
+947,Potato (Holland) - Red,POTATO,377,"Kaliganj Bazar,",Rajshahi,6,4.5,HIGH_CONFIDENCE_MARGIN_SAMPLE
+948,Sweet Potato,POTATO,146,Rangamati Sadar Bazar,Chattogram,7,9.64,HIGH_CONFIDENCE_MARGIN_SAMPLE
+21014,Potatoes-imported,POTATO,15,Pirojpur Sadar Bazar,Barishal,7,4.64,HIGH_CONFIDENCE_MARGIN_SAMPLE
+21014,Potatoes-imported,POTATO,27,Barisal Sadar Bazar,Barishal,15,2.93,HIGH_CONFIDENCE_MARGIN_SAMPLE

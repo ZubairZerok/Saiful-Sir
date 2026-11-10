@@ -1,0 +1,153 @@
+market_id,market_name,commodity_id,commodity_name_en,price_date,cpi_market_commodity_price_id,wholesale_price_low,wholesale_price_high,wholesale_price_avg,adjusted_wholesale_price_low,adjusted_wholesale_price_high,retail_price_low,retail_price_high,retail_price_avg,adjusted_retail_price_low,adjusted_retail_price_high
+379,Kaptai Bazar,831,Onion (local),2026-03-01,203940,5000.0,5500.0,32473.0,60538.0,4408.0,55.0,60.0,48.0,46.0,51.0
+379,Kaptai Bazar,831,Onion (local),2026-04-01,205687,350000.0,3600.0,84200.0,164960.0,3440.0,40.0,42.0,39.0,38.0,41.0
+106,Noakhali Sadar Bazar,831,Onion (local),2026-01-01,201014,5600.0,6000.0,18025.0,30544.0,5506.0,65.0,70.0,59.0,57.0,62.0
+39,"Sadar Bazar, Lakshmipur",831,Onion (local),2025-08-03,193999,4700.0,5200.0,11994.0,17344.0,6644.0,55.0,60.0,73.0,72.0,74.0
+367,Raipur Bazar,831,Onion (local),2026-08-02,213662,5400.0,4600.0,4444.0,4300.0,4589.0,52.0,55.0,54.0,50.0,58.0
+103,Cox's Bazar Sadar,831,Onion (local),2026-03-01,203976,3500.0,4000.0,3288.0,2871.0,3706.0,4000.0,45.0,535.0,1027.0,43.0
+380,Lama Bazar,831,Onion (local),2026-08-02,213624,4300.0,45.0,2748.0,4133.0,1363.0,50.0,55.0,51.0,48.0,53.0
+241,Baneshor Bazar,831,Onion (local),2026-07-01,211378,2600.0,3000.0,4342.0,4183.0,4500.0,30.0,35.0,162.0,272.0,52.0
+18,Magura Sadar Bazar,831,Onion (local),2025-11-02,198178,6800.0,6400.0,9040.0,8714.0,9367.0,75.0,80.0,98.0,94.0,102.0
+34,Barguna Sadar Bazar,831,Onion (local),2025-09-01,195292,6700.0,6900.0,7539.0,9067.0,6011.0,70.0,72.0,68.0,66.0,69.0
+19,Sunamganj Sadar Bazar,831,Onion (local),2026-07-01,211424,2700.0,2800.0,3300.0,3493.0,3108.0,32.0,35.0,41.0,40.0,43.0
+26,Narsingdi Sadar Bazar,831,Onion (local),2025-12-01,199625,9800.0,10200.0,11385.0,11525.0,11245.0,105.0,110.0,105.0,86.0,124.0
+32,Panchagarh Sadar Bazar,831,Onion (local),2025-10-05,196897,6400.0,6500.0,6076.0,6315.0,5837.0,68.0,70.0,69.0,68.0,70.0
+43,Lalmonirhat Sadar Bazar,831,Onion (local),2025-09-01,195287,6400.0,6450.0,9113.0,11947.0,6279.0,67.0,68.0,66.0,65.0,67.0
+68,Sherpur Sadar Bazar,831,Onion (local),2025-06-15,191844,4800.0,5200.0,3328.0,4675.0,1981.0,55.0,60.0,56.0,55.0,58.0
+68,Sherpur Sadar Bazar,831,Onion (local),2025-07-01,192668,4600.0,50.0,4589.0,4865.0,4313.0,55.0,56.0,57.0,55.0,58.0
+29,Jamalpur Sadar Bazar,831,Onion (local),2026-02-01,202515,3700.0,3900.0,4088.0,3965.0,4212.0,42.0,50.0,618.0,1187.0,49.0
+79,Chittagong Sadar Bazar,832,Onion-imported,2025-06-15,191881,0.0,0.0,4500.0,0.0,0.0,0.0,0.0,52.0,0.0,0.0
+79,Chittagong Sadar Bazar,832,Onion-imported,2025-07-01,192658,0.0,0.0,4500.0,0.0,0.0,0.0,0.0,52.0,0.0,0.0
+79,Chittagong Sadar Bazar,832,Onion-imported,2025-12-14,200299,9500.0,10000.0,7404.0,6658.0,8150.0,120.0,0.0,77.0,78.0,77.0
+380,Lama Bazar,832,Onion-imported,2026-05-17,208711,0.0,0.0,5700.0,0.0,0.0,0.0,0.0,68.0,0.0,0.0
+380,Lama Bazar,832,Onion-imported,2026-06-01,209452,0.0,0.0,5700.0,0.0,0.0,0.0,0.0,68.0,0.0,0.0
+380,Lama Bazar,832,Onion-imported,2026-07-01,211521,0.0,0.0,5700.0,0.0,0.0,0.0,0.0,68.0,0.0,0.0
+380,Lama Bazar,832,Onion-imported,2026-08-02,213624,0.0,0.0,5700.0,0.0,0.0,0.0,0.0,68.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2025-06-15,191855,0.0,0.0,5100.0,0.0,0.0,0.0,0.0,58.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2025-07-01,192626,0.0,0.0,5100.0,0.0,0.0,0.0,0.0,58.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2025-08-03,194029,0.0,0.0,5460.0,2025.0,2265.0,0.0,0.0,61.0,22.0,25.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2025-09-01,195291,6000.0,6500.0,6727.0,2045.0,2205.0,65.0,70.0,72.0,22.0,24.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2025-10-05,196802,0.0,0.0,6750.0,0.0,0.0,0.0,0.0,73.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2025-11-02,198151,0.0,0.0,6750.0,0.0,0.0,0.0,0.0,73.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2025-12-01,199583,0.0,0.0,6894.0,2789.0,3500.0,0.0,0.0,76.0,31.0,39.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2026-01-01,201026,5500.0,7000.0,6250.0,1375.0,1750.0,60.0,80.0,70.0,15.0,20.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2026-02-01,202546,0.0,0.0,6250.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2026-03-01,203946,0.0,0.0,6250.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2026-04-01,205638,0.0,0.0,6250.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2026-05-03,207739,0.0,0.0,6250.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2026-06-01,209420,0.0,0.0,6250.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2026-07-01,211826,0.0,0.0,6250.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0
+13,Rajshahi Sadar Bazar,832,Onion-imported,2026-08-02,213653,0.0,0.0,6250.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0
+34,Barguna Sadar Bazar,832,Onion-imported,2025-06-15,191839,0.0,0.0,4575.0,0.0,0.0,0.0,0.0,48.0,0.0,0.0
+34,Barguna Sadar Bazar,832,Onion-imported,2025-07-01,192614,0.0,0.0,4575.0,0.0,0.0,0.0,0.0,48.0,0.0,0.0
+34,Barguna Sadar Bazar,832,Onion-imported,2025-08-03,194015,0.0,0.0,4575.0,0.0,0.0,0.0,0.0,48.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2025-06-15,191864,0.0,0.0,4450.0,0.0,0.0,0.0,0.0,49.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2025-07-01,192664,0.0,0.0,4450.0,0.0,0.0,0.0,0.0,49.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2025-08-03,194035,0.0,0.0,4640.0,630.0,640.0,0.0,0.0,51.0,7.0,7.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2025-09-01,195333,6300.0,6400.0,6550.0,4423.0,4509.0,70.0,75.0,71.0,48.0,50.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2025-10-05,196846,0.0,0.0,6550.0,0.0,0.0,0.0,0.0,71.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2025-11-02,198183,0.0,0.0,8379.0,7489.0,7658.0,0.0,0.0,89.0,79.0,82.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2025-12-01,199618,8300.0,8400.0,7553.0,6574.0,6774.0,88.0,90.0,84.0,72.0,76.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2026-01-01,201052,5600.0,6000.0,5552.0,4514.0,4948.0,62.0,65.0,64.0,52.0,58.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2026-02-01,202520,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,64.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2026-03-01,203971,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,64.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2026-04-01,205701,0.0,0.0,3558.0,930.0,1010.0,0.0,0.0,41.0,11.0,12.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2026-05-03,207778,0.0,0.0,2300.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2026-06-01,209438,0.0,0.0,2300.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2026-07-01,211424,0.0,0.0,2300.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0
+19,Sunamganj Sadar Bazar,832,Onion-imported,2026-08-02,213652,0.0,0.0,2300.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0
+32,Panchagarh Sadar Bazar,832,Onion-imported,2025-12-14,200436,7400.0,7600.0,5261.0,5318.0,5204.0,78.0,80.0,55.0,54.0,57.0
+38,"City Bazar, Rangpur",832,Onion-imported,2026-01-01,201050,4000.0,4500.0,4084.0,4294.0,3875.0,50.0,60.0,56.0,53.0,59.0
+56,Comilla Sadar Bazar,833,Onion (New),2025-12-01,199606,10000.0,10500.0,9250.0,9667.0,8833.0,110.0,120.0,111.0,108.0,114.0
+232,Chapainawabganj Sadar Bazar,833,Onion (New),2025-07-01,192659,4800.0,5200.0,8952.0,12513.0,5392.0,50.0,55.0,56.0,53.0,58.0
+232,Chapainawabganj Sadar Bazar,833,Onion (New),2025-11-02,198173,6600.0,6800.0,8519.0,8029.0,9010.0,70.0,75.0,332.0,561.0,102.0
+232,Chapainawabganj Sadar Bazar,833,Onion (New),2025-12-01,199581,9000.0,9600.0,7328.0,6890.0,7765.0,10000.0,105.0,1073.0,2058.0,88.0
+62,Bagerhat Sadar Bazar,833,Onion (New),2026-02-01,202542,3800.0,4000.0,6791.0,9406.0,4175.0,45.0,50.0,49.0,47.0,51.0
+44,"Mechua Bazar, Mymensingh",833,Onion (New),2026-03-01,203918,2800.0,3200.0,2625.0,2461.0,2622.0,34.0,36.0,31.0,30.0,32.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2025-06-15,191855,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2025-07-01,192626,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2025-08-03,194029,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2025-09-01,195291,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2025-10-05,196802,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2025-11-02,198151,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2025-12-01,199583,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2026-01-01,201026,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2026-02-01,202546,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2026-03-01,203946,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2026-04-01,205638,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2026-05-03,207739,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2026-06-01,209420,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2026-07-01,211826,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+13,Rajshahi Sadar Bazar,942,Potato (Local) - Old,2026-08-02,213653,0.0,0.0,7100.0,0.0,0.0,0.0,0.0,78.0,0.0,0.0
+367,Raipur Bazar,943,Potato (Local),2026-04-01,205615,1500.0,1550.0,1462.0,1419.0,1505.0,20.0,22.0,26.0,32.0,20.0
+327,Godagari Sadar Bazar,943,Potato (Local),2026-07-08,211872,38000.0,4400.0,19965.0,35647.0,4282.0,100.0,120.0,89.0,81.0,96.0
+327,Godagari Sadar Bazar,943,Potato (Local),2026-08-02,213655,30000.0,4000.0,17000.0,30000.0,4000.0,35.0,40.0,38.0,35.0,40.0
+8,kawran Bazar,943,Potato (Local),2026-03-02,204118,1000.0,1300.0,3328.0,5335.0,1321.0,16.0,20.0,19.0,17.0,20.0
+81,"Pouro Super Market, Netrokona",943,Potato (Local),2025-06-15,191873,1500.0,1600.0,1550.0,1250.0,1333.0,18.0,20.0,19.0,15.0,17.0
+81,"Pouro Super Market, Netrokona",943,Potato (Local),2025-07-02,192725,0.0,0.0,1875.0,1440.0,1690.0,0.0,0.0,23.0,18.0,20.0
+103,Cox's Bazar Sadar,944,Potato (Holland) - White (Old),2026-02-01,202551,1200.0,1300.0,1243.0,1186.0,1300.0,17.0,20.0,124.0,229.0,20.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2025-06-15,191855,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2025-07-01,192626,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2025-08-03,194029,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2025-09-01,195291,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2025-10-05,196802,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2025-11-02,198151,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2025-12-01,199583,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2026-01-01,201026,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2026-02-01,202546,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2026-03-01,203946,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2026-04-01,205638,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2026-05-03,207739,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2026-06-01,209420,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2026-07-01,211826,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+13,Rajshahi Sadar Bazar,944,Potato (Holland) - White (Old),2026-08-02,213653,0.0,0.0,5750.0,0.0,0.0,0.0,0.0,63.0,0.0,0.0
+51,Sylhet Sadar Bazaar,944,Potato (Holland) - White (Old),2025-12-01,199616,1700.0,2000.0,1455.0,1360.0,1550.0,25.0,26.0,64.0,108.0,20.0
+19,Sunamganj Sadar Bazar,944,Potato (Holland) - White (Old),2026-01-01,201052,1000.0,1200.0,1145.0,810.0,957.0,14.0,15.0,15.0,11.0,12.0
+19,Sunamganj Sadar Bazar,944,Potato (Holland) - White (Old),2026-02-01,202520,1100.0,1200.0,1150.0,324.0,353.0,13.0,15.0,14.0,4.0,4.0
+19,Sunamganj Sadar Bazar,944,Potato (Holland) - White (Old),2026-03-01,203971,0.0,0.0,1150.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0
+19,Sunamganj Sadar Bazar,944,Potato (Holland) - White (Old),2026-04-01,205701,0.0,0.0,1150.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0
+19,Sunamganj Sadar Bazar,944,Potato (Holland) - White (Old),2026-05-03,207778,0.0,0.0,1150.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0
+19,Sunamganj Sadar Bazar,944,Potato (Holland) - White (Old),2026-06-01,209438,0.0,0.0,1150.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0
+19,Sunamganj Sadar Bazar,944,Potato (Holland) - White (Old),2026-07-01,211424,0.0,0.0,1150.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0
+19,Sunamganj Sadar Bazar,944,Potato (Holland) - White (Old),2026-08-02,213652,0.0,0.0,1150.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0
+29,Jamalpur Sadar Bazar,944,Potato (Holland) - White (Old),2025-12-01,199958,1700.0,1850.0,1349.0,1294.0,1403.0,20.0,25.0,417.0,815.0,20.0
+106,Noakhali Sadar Bazar,945,Potato (Holland) - White (New),2025-06-15,191858,13500.0,1400.0,4477.0,7196.0,1758.0,20.0,21.0,22.0,22.0,23.0
+103,Cox's Bazar Sadar,945,Potato (Holland) - White (New),2026-01-01,201047,1200.0,1130.0,1832.0,1743.0,1922.0,18.0,20.0,27.0,25.0,30.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2025-11-02,198151,1200.0,1300.0,1678.0,780.0,875.0,14.0,16.0,19.0,9.0,10.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2025-12-01,199583,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2026-01-01,201026,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2026-02-01,202546,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2026-03-01,203946,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2026-04-01,205638,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2026-05-03,207739,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2026-06-01,209420,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2026-07-01,211826,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+13,Rajshahi Sadar Bazar,945,Potato (Holland) - White (New),2026-08-02,213653,0.0,0.0,1700.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0
+19,Sunamganj Sadar Bazar,945,Potato (Holland) - White (New),2025-06-15,191864,0.0,0.0,1550.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0
+19,Sunamganj Sadar Bazar,945,Potato (Holland) - White (New),2025-07-01,192664,0.0,0.0,1550.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0
+19,Sunamganj Sadar Bazar,945,Potato (Holland) - White (New),2025-08-03,194035,0.0,0.0,1550.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0
+19,Sunamganj Sadar Bazar,945,Potato (Holland) - White (New),2025-09-01,195333,0.0,0.0,1550.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0
+19,Sunamganj Sadar Bazar,945,Potato (Holland) - White (New),2025-10-05,196846,0.0,0.0,1550.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0
+19,Sunamganj Sadar Bazar,945,Potato (Holland) - White (New),2025-11-02,198183,0.0,0.0,1797.0,316.0,342.0,0.0,0.0,24.0,4.0,4.0
+108,Kishoreganj Bazar,945,Potato (Holland) - White (New),2025-11-06,198408,1400.0,1500.0,4581.0,7269.0,1892.0,24.0,25.0,25.0,24.0,25.0
+59,Munshiganj Sadar Bazar,945,Potato (Holland) - White (New),2026-02-01,202558,2200.0,2100.0,1732.0,1700.0,1765.0,25.0,26.0,22.0,21.0,23.0
+54,Gopaldanj Sadar Boro Bazar,945,Potato (Holland) - White (New),2025-07-01,192627,1900.0,2200.0,1774.0,1841.0,1707.0,24.0,25.0,24.0,23.0,25.0
+241,Baneshor Bazar,946,Potato (Holland) - Red (Old),2026-05-14,208675,0.0,0.0,1500.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0
+241,Baneshor Bazar,946,Potato (Holland) - Red (Old),2026-06-01,209423,0.0,0.0,1500.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0
+241,Baneshor Bazar,946,Potato (Holland) - Red (Old),2026-07-01,211378,0.0,0.0,1500.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0
+241,Baneshor Bazar,946,Potato (Holland) - Red (Old),2026-08-02,213639,0.0,0.0,1500.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0
+13,Rajshahi Sadar Bazar,946,Potato (Holland) - Red (Old),2026-02-01,202546,800.0,1000.0,900.0,612.0,765.0,10.0,12.0,11.0,8.0,9.0
+13,Rajshahi Sadar Bazar,946,Potato (Holland) - Red (Old),2026-03-01,203946,0.0,0.0,900.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0
+13,Rajshahi Sadar Bazar,946,Potato (Holland) - Red (Old),2026-04-01,205638,0.0,0.0,900.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0
+13,Rajshahi Sadar Bazar,946,Potato (Holland) - Red (Old),2026-05-03,207739,0.0,0.0,900.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0
+13,Rajshahi Sadar Bazar,946,Potato (Holland) - Red (Old),2026-06-01,209420,0.0,0.0,900.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0
+13,Rajshahi Sadar Bazar,946,Potato (Holland) - Red (Old),2026-07-01,211826,0.0,0.0,900.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0
+13,Rajshahi Sadar Bazar,946,Potato (Holland) - Red (Old),2026-08-02,213653,0.0,0.0,900.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0
+65,Kushtia Sadar Bazar,946,Potato (Holland) - Red (Old),2025-11-02,198145,1300.0,1400.0,1786.0,1729.0,1843.0,16.0,20.0,23.0,20.0,22.0
+19,Sunamganj Sadar Bazar,946,Potato (Holland) - Red (Old),2026-07-01,211424,2400.0,2600.0,2582.0,2486.0,2677.0,28.0,30.0,189.0,345.0,33.0
+32,Panchagarh Sadar Bazar,946,Potato (Holland) - Red (Old),2025-06-04,191831,9000.0,1000.0,1446.0,1733.0,1158.0,14.0,15.0,15.0,14.0,15.0
+54,Gopaldanj Sadar Boro Bazar,947,Potato (Holland) - Red,2025-06-15,191861,1700.0,1800.0,1585165.0,3168379.0,1950.0,22.0,25.0,24.0,22.0,25.0
+54,Gopaldanj Sadar Boro Bazar,947,Potato (Holland) - Red,2025-07-01,192627,19001700.0,2000.0,433706.0,865468.0,1943.0,24.0,25.0,24.0,23.0,25.0
+43,Lalmonirhat Sadar Bazar,947,Potato (Holland) - Red,2025-12-01,199615,1600.0,1700.0,1279.0,1221.0,1337.0,20.0,22.0,215.0,266.0,163.0
+15,Pirojpur Sadar Bazar,21014,Potatoes-imported,2025-07-01,192662,1900.0,2100.0,7741.0,13436.0,2045.0,22.0,25.0,23.0,22.0,24.0
+15,Pirojpur Sadar Bazar,21014,Potatoes-imported,2025-08-03,194036,19000.0,2000.0,4063.0,6150.0,1975.0,22.0,24.0,24.0,23.0,24.0

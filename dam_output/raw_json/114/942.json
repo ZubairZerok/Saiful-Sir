@@ -1,0 +1,98 @@
+{
+  "http_status": 200,
+  "response": {
+    "success": true,
+    "message": "data found!",
+    "data": [
+      {
+        "commodity_id": 942,
+        "w_lowestPrice": "1800.00",
+        "w_highestPrice": "2000.00",
+        "w_supply": "60.00",
+        "r_lowestPrice": "20.00",
+        "r_highestPrice": "22.00",
+        "created_at": "2025-06-15T03:57:30.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "1917",
+        "a_w_highestPrice": "2117",
+        "a_r_lowestPrice": "21",
+        "a_r_howestPrice": "24",
+        "r_avgPrice": "22",
+        "w_avgPrice": "2017",
+        "cpi_market_commodity_price_id": 191830,
+        "price_date": "2025-06-15"
+      },
+      {
+        "commodity_id": 942,
+        "w_lowestPrice": "2000.00",
+        "w_highestPrice": "2200.00",
+        "w_supply": "60.00",
+        "r_lowestPrice": "22.00",
+        "r_highestPrice": "25.00",
+        "created_at": "2025-07-01T04:58:55.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "1982",
+        "a_w_highestPrice": "2182",
+        "a_r_lowestPrice": "22",
+        "a_r_howestPrice": "25",
+        "r_avgPrice": "23",
+        "w_avgPrice": "2082",
+        "cpi_market_commodity_price_id": 192619,
+        "price_date": "2025-07-01"
+      },
+      {
+        "commodity_id": 942,
+        "w_lowestPrice": "2000.00",
+        "w_highestPrice": "2200.00",
+        "w_supply": "60.00",
+        "r_lowestPrice": "24.00",
+        "r_highestPrice": "25.00",
+        "created_at": "2025-08-03T05:53:13.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "2000",
+        "a_w_highestPrice": "2200",
+        "a_r_lowestPrice": "24",
+        "a_r_howestPrice": "25",
+        "r_avgPrice": "25",
+        "w_avgPrice": "2100",
+        "cpi_market_commodity_price_id": 194027,
+        "price_date": "2025-08-03"
+      }
+    ]
+  },
+  "payload": {
+    "division_id": [
+      2
+    ],
+    "district_id": [
+      16
+    ],
+    "upazila_id": [
+      143
+    ],
+    "market_id": [
+      114
+    ],
+    "commodity_group_id": 43,
+    "commodity_sub_group_id": 265,
+    "commodity_id": 942,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Vegetable",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Potato",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Potato (Local) - Old",
+    "commodity_name_bn": "আলু (দেশীয়) - পুরানো",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}

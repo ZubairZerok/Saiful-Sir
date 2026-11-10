@@ -1,0 +1,353 @@
+﻿division_id,division_name,district_id,district_name,upazila_id,upazila_name,market_id,market_name,market_name_bn,market_parent
+6,Dhaka,47,,494,,7,Abdullahpur Bazar,আবদুল্লাহপুর বাজার,district_id
+7,Rangpur,54,,408,,222,Ambari Bazar,আমবাড়ী বাজার,district_id
+4,Barishal,35,,266,,346,Amtali Bazar,আমতলী বাজার,district_id
+2,Khulna,14,,123,,250,Amtoli Bazar,আমতলী বাজার,district_id
+4,Barishal,35,,267,,292,Amtoli Bazar,আমতলী বাজার,district_id
+1,Chattogram,3,,32,,371,Amtoli Bazar,আমতলী বাজার,district_id
+6,Dhaka,43,,332,,184,Ananda Bazar,আনন্দ বাজার,district_id
+6,Dhaka,42,,322,,190,Angaria Bazar,আঙ্গারিয়া বাজার,district_id
+6,Dhaka,43,,328,,183,Araihazar Bazar,আড়াইহাজার বাজার,district_id
+8,Mymensingh,63,,479,,95,Aramnagar Bazar,আরামনগর বাজার,district_id
+3,Rajshahi,26,,202,,174,Arpara Bazar,আড়পাড়া বাজার,district_id
+2,Khulna,13,,120,,234,Ataikula Bazar,আতাইকুলা বাজার,district_id
+1,Chattogram,5,,47,,148,Atakpaliya Bazar,আটকপালিয়া বাজার,district_id
+6,Dhaka,47,,493,,160,Babu Bazar,বাবুবাজার,district_id
+6,Dhaka,47,,493,,163,Badamtali and Wiseghat Bazar,বাদামতলী এবং ওয়াসঘাট বাজার,district_id
+1,Chattogram,1,,11,,261,Badshah Miar Bazar,বাদশা মিয়ার বাজার,district_id
+3,Rajshahi,28,,216,,62,Bagerhat Sadar Bazar,বাগেরহাট সদর বাজার,district_id
+4,Barishal,30,,233,,134,Baghri Bazar,বাঘরী বাজার,district_id
+7,Rangpur,54,,412,,53,"Bahadur Bazar, Dinajpur","বাহাদুর বাজার, দিনাজপুর",district_id
+6,Dhaka,49,,379,,49,Baharpur Bazar,বহরপুর বাজার,district_id
+1,Chattogram,3,,30,,254,Baish Mouza Bazar,বাইশ মৌজা বাজার,district_id
+6,Dhaka,45,,354,,358,Bajitpur Bazar,বাজিতপুর বাজার,district_id
+6,Dhaka,46,,359,,192,Baliyati Bazar,বালিয়াটি বাজার,district_id
+6,Dhaka,47,,494,,12,Banashri Bazar,বনশ্রী বাজার,district_id
+1,Chattogram,11,,97,,35,Bandarban Sadar Bazar,বান্দরবান সদর বাজার,district_id
+2,Khulna,15,,138,,241,Baneshor Bazar,বানেশ্বর বাজার,district_id
+5,Sylhet,38,,295,,383,Banyachong Market,বানিয়াচং বাজার,district_id
+3,Rajshahi,22,,187,,91,Baradi Bazar,বারাদি বাজার,district_id
+3,Rajshahi,23,,189,,291,Baradia Bazar,বড়দিয়া বাজার,district_id
+4,Barishal,35,,267,,34,Barguna Sadar Bazar,বরগুনা সদর বাজার,district_id
+3,Rajshahi,20,,177,,204,Bari Nagar Bazar,বারী নগর বাজার,district_id
+4,Barishal,33,,249,,27,Barisal Sadar Bazar,বরিশাল সদর বাজার,district_id
+3,Rajshahi,29,,227,,90,Baro Bazar,বারো বাজার,district_id
+1,Chattogram,8,,66,,262,Baro Darogar Hat Bazar,বড় দারোগার হাট বাজার,district_id
+6,Dhaka,44,,333,,213,Basail Sadar Market,বাসাইল সদর বাজার,district_id
+6,Dhaka,48,,375,,60,Batka Bazaar,বেতকা বাজার,district_id
+4,Barishal,30,,230,,294,Baukathi Bazar,বাউকাঠী বাজার,district_id
+5,Sylhet,36,,273,,355,Beanibazar Market,বিয়ানীবাজার বাজার,district_id
+1,Chattogram,5,,45,,369,Begumganj Bazar,বেগমগঞ্জ বাজার,district_id
+6,Dhaka,40,,311,,187,Belabo Bazar,বেলাবো বাজার,district_id
+6,Dhaka,40,,311,,363,Belabo Bazar,বেলাবো বাজার,district_id
+6,Dhaka,45,,347,,201,BhairabBazar,ভৈরববাজার,district_id
+3,Rajshahi,29,,225,,89,Bhatai Bazar,ভাটই বাজার,district_id
+7,Rangpur,56,,427,,45,Bhavaniganj Bazar,ভবানীগঞ্জ বাজার,district_id
+6,Dhaka,42,,323,,150,Bhojeshwar Bazar,ভোজেশ্বর বাজার,district_id
+4,Barishal,34,,259,,28,Bhola Sadar Bazar,ভোলা সদর বাজার,district_id
+6,Dhaka,44,,334,,205,Bhuyapur Sadar Bazar,ভুয়াপুর সদর বাজার,district_id
+7,Rangpur,54,,405,,221,Birgonj Bazar,বীরগঞ্জ বাজার,district_id
+5,Sylhet,38,,298,,271,Bishwanath Bazar,বিশ্বনাথ বাজার,district_id
+7,Rangpur,53,,401,,151,Boda Bazar,বোদা বাজার,district_id
+7,Rangpur,53,,399,,236,Boda Nagar Kumari Hat,বোদা নগর কুমারী হাট,district_id
+2,Khulna,14,,123,,67,Bogra Sadar Bazar,বগুড়া সদর বাজার,district_id
+6,Dhaka,43,,329,,181,Bondar Sadar Bazar,বন্দর সদর বাজার,district_id
+1,Chattogram,3,,24,,23,Brahmanbaria Sadar Bazar,ব্রাহ্মণবাড়িয়া সদর বাজার,district_id
+1,Chattogram,1,,11,,266,Burichang Bazar,বুড়িচং বাজার,district_id
+1,Chattogram,1,,16,,370,Burichong Bazar,বুড়িচং বাজার,district_id
+1,Chattogram,2,,18,,372,Chagalnaiya Bazar,ছাগলনাইয়া বাজার,district_id
+1,Chattogram,2,,20,,280,Chagalniya Bazar,ছাগলনাইয়া বাজার,district_id
+1,Chattogram,2,,18,,282,Chagolnaia Bazar,ছাগলনাইয়া বাজার,district_id
+1,Chattogram,9,,81,,364,Chakaria Bazar,চকরিয়া বাজার,district_id
+1,Chattogram,8,,499,,75,Chaktai-Khatunganj Bazar,চাক্তাই-খাতুনগঞ্জ বাজার,district_id
+1,Chattogram,8,,499,,264,Chalk Bazar,চক বাজার,district_id
+2,Khulna,12,,108,,135,Chandaikona Bazar,চান্দাইকোনা বাজার,district_id
+1,Chattogram,1,,4,,275,Chandina Bazar,চান্দিনা বাজার,district_id
+1,Chattogram,1,,4,,373,Chandina Bazar,চান্দিনা বাজার,district_id
+4,Barishal,35,,266,,293,Chandkhali Bazar,চাঁদখালী বাজার,district_id
+1,Chattogram,6,,55,,102,Chandpur Sadaar,চাঁদপুর সদর,district_id
+2,Khulna,18,,155,,232,Chapainawabganj Sadar Bazar,চাঁপাইনবাবগঞ্জ সদর বাজার,district_id
+7,Rangpur,55,,418,,226,Chapar Hat,চাপার হাট,district_id
+4,Barishal,34,,261,,251,Charfashion Bazar,চরফ্যাশন বাজার,district_id
+1,Chattogram,5,,49,,289,Chatarpaiea Bazar,ছাতারপাইয়া বাজার,district_id
+8,Mymensingh,64,,484,,198,Chirang Bazar,চিরাং বাজার,district_id
+1,Chattogram,8,,499,,79,Chittagong Sadar Bazar,চট্টগ্রাম সদর বাজার,district_id
+3,Rajshahi,28,,223,,180,Chittalmari Bazar,চিতলমারী বাজার,district_id
+1,Chattogram,5,,49,,288,Chomohani Bazar,চৌমুহনী বাজার,district_id
+5,Sylhet,39,,300,,157,Chowmuhani Bazar,চৌমুহনী বাজার,district_id
+3,Rajshahi,24,,192,,50,Chuadanga Sadar Bazaar,চুয়াডাঙ্গা সদর বাজার,district_id
+3,Rajshahi,27,,210,,193,Chuknagor Bazar,চুকনগর বাজার,district_id
+7,Rangpur,59,,502,,38,"City Bazar, Rangpur","সিটি বাজার, রংপুর",district_id
+1,Chattogram,1,,11,,263,Comill Chalk Bazar,কুমিল্লা চক বাজার,district_id
+1,Chattogram,1,,11,,56,Comilla Sadar Bazar,কুমিল্লা সদর বাজার,district_id
+1,Chattogram,9,,80,,103,Cox's Bazar Sadar,কক্সবাজার সদর,district_id
+8,Mymensingh,64,,491,,197,Dakhin Bishiurah Bazar,দক্ষিণ বিশিউরা,district_id
+6,Dhaka,42,,327,,186,Damudda Sadar Bazar,ডামুড্যা সদর বাজার,district_id
+3,Rajshahi,24,,194,,338,Damurhuda Bazar,দামুড়হুদা বাজার,district_id
+6,Dhaka,46,,363,,189,Daulatpur Bazar,দৌলতপুর বাজার,district_id
+6,Dhaka,44,,335,,217,Delduar Sadar Market,দেলদুয়ার সদর বাজার,district_id
+2,Khulna,19,,165,,99,Delua Bari Bazaar,দেলুয়া বাড়ি বাজার,district_id
+6,Dhaka,47,,493,,167,Dhaka Mohanogor Bazar,ঢাকা মহানগর বাজার,district_id
+6,Dhaka,47,,493,,162,Dhaka Sadar Bazar,ঢাকা সদর বাজার,district_id
+6,Dhaka,44,,344,,331,Dhanbari Bazar,ধনবাড়ী বাজার,district_id
+6,Dhaka,44,,344,,382,Dhanbari Bazar,ধনবাড়ি বাজার,district_id
+2,Khulna,14,,126,,87,Dhaper Haat Bazar,ধাপেরহাট বাজার,district_id
+7,Rangpur,57,,428,,137,Dhaperhat Bazar,ধাপের হাট বাজার,district_id
+2,Khulna,13,,114,,235,Dhasuria Bazar,ধাসুরিয়া বাজার,district_id
+1,Chattogram,10,,89,,283,Dhighinala Bazar,দীঘিনালা বাজার,district_id
+7,Rangpur,54,,412,,220,Dinajpur Sadar Bazar,দিনাজপুর সদর বাজার,district_id
+6,Dhaka,47,,369,,1,Dohar Boro Market,দোহার বড় বাজার,district_id
+7,Rangpur,56,,423,,351,Domar Bazar,ডোমার বাজার,district_id
+5,Sylhet,36,,279,,82,Dorbosto Bazar,দরবস্ত বাজার,district_id
+3,Rajshahi,27,,211,,335,Dumuria Bazar,ডুমুরিয়া বাজার,district_id
+7,Rangpur,53,,399,,237,Fakirganj Hat,ফকিরগঞ্জ হাট,district_id
+6,Dhaka,52,,390,,52,Faridpur Sadar Bazar,ফরিদপুর সদর বাজার,district_id
+1,Chattogram,2,,19,,104,Feni Sadar,ফেনী সদর,district_id
+7,Rangpur,53,,402,,152,Fokirgonj Bazar,ফকিরগঞ্জ বাজার,district_id
+7,Rangpur,54,,411,,130,Fulbari Bazar,ফুলবাড়ি বাজার,district_id
+2,Khulna,14,,132,,330,Fulbari Market,ফুলবাড়ি বাজার,district_id
+8,Mymensingh,62,,462,,340,Fulbaria Bazar,ফুলবাড়ীয়া বাজার,district_id
+7,Rangpur,57,,429,,36,Gaibandha Sadar Bazar,গাইবান্ধা  সদর বাজার,district_id
+4,Barishal,31,,240,,153,Galachipa Bazar,গলাচিপা বাজার,district_id
+3,Rajshahi,22,,188,,337,Gangni Bazar,গাংনী বাজার,district_id
+7,Rangpur,58,,435,,296,"Garia Bazar, Thakurgaon","গড়েয়া বাজার, ঠাকুরগাঁও",district_id
+6,Dhaka,44,,336,,211,Ghatail Sadar Market,ঘাটাইল সদর বাজার,district_id
+6,Dhaka,46,,361,,191,Gheor Bazar,ঘিওর বাজার,district_id
+4,Barishal,33,,252,,128,Ghutia Bazar,গুটিয়া বাজার,district_id
+7,Rangpur,57,,432,,375,Gobindaganj Bazar,গোবিন্দগঞ্জ বাজার,district_id
+5,Sylhet,39,,303,,156,Gobindoganj Bazar,গোবিন্দগঞ্জ বাজার,district_id
+2,Khulna,15,,140,,344,Godagari Bazar,গোদাগাড়ী বাজার,district_id
+2,Khulna,15,,140,,327,Godagari Sadar Bazar,গোদাগাড়ী সদর বাজার,district_id
+6,Dhaka,43,,331,,182,Golakanda Bazar,গলাকান্দা বাজার,district_id
+7,Rangpur,57,,432,,138,Golapbag Bazar,গোলাপবাগ বাজার,district_id
+5,Sylhet,36,,277,,356,Golapganj Bazar,গোলাপগঞ্জ বাজার,district_id
+3,Rajshahi,20,,177,,208,Gop Market Bazar,গোপ মার্কেট বাজার,district_id
+6,Dhaka,51,,385,,54,Gopaldanj Sadar Boro Bazar,গোপালদঞ্জ সদর বড় বাজার,district_id
+6,Dhaka,44,,337,,218,Gopalpur Sadar Market,গোপালপুর সদর বাজার,district_id
+1,Chattogram,8,,67,,260,Gora Bazar,গোরা বাজার,district_id
+6,Dhaka,47,,493,,6,Goran Kacha Bazar,গোড়ান কাঁচাবাজার,district_id
+6,Dhaka,42,,325,,155,Goshair Hat Bazar,গোসাইর হাট বাজার,district_id
+7,Rangpur,55,,417,,42,"Goshala Bazar, Lalmonirhat","গোশালা বাজার, লালমনিরহাট",district_id
+5,Sylhet,38,,298,,116,Habiganj Sadar Bazar,হবিগঞ্জ সদর বাজার,district_id
+1,Chattogram,6,,57,,365,Hajiganj Bazar,হাজীগঞ্জ বাজার,district_id
+6,Dhaka,47,,494,,9,Hatirpul Bazar,হাতিরপুল বাজার,district_id
+6,Dhaka,45,,349,,203,Hossainpur Bazar,হোসেনপুর বাজার,district_id
+5,Sylhet,38,,298,,269,Islamia Bazar,ইসলামিয়া বাজার,district_id
+7,Rangpur,56,,425,,46,Jaldhaka Bazar,জলঢাকা বাজার,district_id
+8,Mymensingh,63,,475,,29,Jamalpur Sadar Bazar,জামালপুর সদর বাজার,district_id
+3,Rajshahi,21,,184,,120,Jatpur Bazar,যাতপুর বাজার,district_id
+3,Rajshahi,28,,216,,64,Jatrapur Bazar,যাত্রাপুর বাজার,district_id
+6,Dhaka,47,,493,,10,Jattra Bari Market,যাত্রাবাড়ি বাজার,district_id
+3,Rajshahi,20,,177,,112,Jessore Sadar Bazar,যশোর সদর বাজার,district_id
+6,Dhaka,42,,324,,185,Jhajira Sadar Bazar,জাজিরা সদর বাজার,district_id
+4,Barishal,30,,230,,101,Jhalakathi Sadar Bazar,ঝালকাঠী সদর বাজার,district_id
+3,Rajshahi,29,,224,,57,Jhenaidah Sadar Paura Boro Bazar,ঝিনাইদহ সদর পৌর বড় বাজার,district_id
+3,Rajshahi,20,,175,,178,Jhikargacha Bazar,ঝিকরগাছা বাজার,district_id
+3,Rajshahi,24,,195,,80,Jibonnagor Bazar,জীবননগর বাজার,district_id
+6,Dhaka,41,,320,,127,Joydevpur market,জয়দেবপুর বাজার,district_id
+2,Khulna,17,,154,,66,Joypurhat Sadar Bazar,জয়পুরহাট সদর বাজার,district_id
+1,Chattogram,6,,53,,256,Kachua Bazar,কচুয়া বাজার,district_id
+6,Dhaka,52,,392,,98,Kaderdi Bazar,কাদেরদি বাজার,district_id
+2,Khulna,15,,496,,247,Kaderganj Bazar,কাদেরগঞ্জ বাজার,district_id
+6,Dhaka,43,,332,,212,Kaikertake Bazar,কাইকারটেক বাজার,district_id
+4,Barishal,31,,234,,154,Kalaiya Bazar,কালাইয়া বাজার,district_id
+6,Dhaka,47,,365,,170,Kalampur Bazar,কালামপুর বাজার,district_id
+3,Rajshahi,21,,181,,334,Kalaroa Bazar,কলারোয়া বাজার,district_id
+6,Dhaka,41,,318,,173,Kaliakoyr Bazar,কালিয়াকৈর বাজার,district_id
+7,Rangpur,55,,418,,349,Kaliganj Bazar,কালীগঞ্জ বাজার,district_id
+3,Rajshahi,29,,227,,377,"Kaliganj Bazar,",কালীগঞ্জ বাজার,district_id
+5,Sylhet,38,,298,,268,Kalighat Bazar,কালীঘাট বাজার,district_id
+6,Dhaka,44,,343,,215,Kalihati Sadar Market,কালিহাটি সদর বাজার,district_id
+5,Sylhet,37,,286,,353,Kamalganj Bazar,কমলগঞ্জ বাজার,district_id
+6,Dhaka,52,,390,,123,Kanaipur Bazar,কানাইপুর বাজার,district_id
+1,Chattogram,1,,16,,74,Kangshanagar Bazar,কংশনগর বাজার,district_id
+1,Chattogram,4,,35,,290,Kaptai Bazar,কাপ্তাই বাজার,district_id
+1,Chattogram,4,,34,,379,Kaptai Bazar,কাপ্তাই বাজার,district_id
+6,Dhaka,45,,353,,202,Karimgonj Bazar,করিমগঞ্জ বাজার,district_id
+1,Chattogram,4,,35,,374,Kaukhali Bazar,কাউখালী বাজার,district_id
+6,Dhaka,47,,494,,8,kawran Bazar,কাওরান বাজার,district_id
+3,Rajshahi,27,,495,,194,KCC Paikari Kacha Bazar,কেসিসি পাইকারি কাঁচা বাজার,district_id
+3,Rajshahi,22,,186,,92,Kedargonj Bazar,কেদারগঞ্জ বাজার,district_id
+2,Khulna,15,,136,,238,Keshorhat Bazar,কিশোরহাট বাজার,district_id
+1,Chattogram,10,,88,,105,Khagrachari Sadar Pouro Bazar,খাগড়াছড়ি সদর পৌর বাজার,district_id
+6,Dhaka,49,,376,,48,Khankhanapur Bazar,খানখানাপুর বাজার,district_id
+4,Barishal,31,,238,,347,"khepupara Bazar,",খেপুপাড়া বাজার,district_id
+3,Rajshahi,27,,495,,37,Khulna Sadar Bazar,খুলনা সদর বাজার,district_id
+6,Dhaka,50,,381,,41,Khwajpur Bazar,খোয়াজপুর বাজার,district_id
+2,Khulna,19,,168,,100,Kirtipur Market,কীর্তিপুর বাজার,district_id
+6,Dhaka,45,,352,,108,Kishoreganj Bazar,কিশোরগঞ্জ বাজার,district_id
+2,Khulna,19,,161,,229,Kola Bazar,কলা বাজার,district_id
+1,Chattogram,1,,9,,274,Kompanigonj Bazar,কোম্পানীগঞ্জ বাজার,district_id
+6,Dhaka,41,,497,,97,Konabari Bazar,কোনাবাড়ি বাজার,district_id
+3,Rajshahi,27,,206,,200,Kopilmuni Bazar,কপিলমুনি বাজার,district_id
+3,Rajshahi,25,,196,,65,Kushtia Sadar Bazar,কুষ্টিয়া সদর বাজার,district_id
+1,Chattogram,1,,17,,366,Lalmai Bazar,লালমাই বাজার,district_id
+4,Barishal,34,,265,,252,Lalmohan Bazar,লালমোহন বাজার,district_id
+7,Rangpur,55,,417,,43,Lalmonirhat Sadar Bazar,লালমনিরহাট সদর বাজার,district_id
+1,Chattogram,11,,100,,253,Lama Bazar,লামা বাজার,district_id
+1,Chattogram,11,,101,,380,Lama Bazar,লামা বাজার,district_id
+3,Rajshahi,26,,203,,175,Langalbadh Bazar,লাঙ্গলবাধ বাজার,district_id
+3,Rajshahi,23,,190,,124,Lohagora Bazar,লোহাগড়া বাজার,district_id
+1,Chattogram,7,,60,,285,Madari Bazar,মাদারী বাজার,district_id
+6,Dhaka,47,,493,,14,Madartek Bazar,মাদারটেক বাজার,district_id
+5,Sylhet,38,,299,,272,Madhabpur Bazar,মাধবপুর বাজার,district_id
+6,Dhaka,44,,338,,207,Madhupur Bazar,মধুপুর বাজার,district_id
+2,Khulna,19,,162,,228,Maduil Bazar,মাদুইল বাজার,district_id
+3,Rajshahi,26,,204,,18,Magura Sadar Bazar,মাগুরা সদর বাজার,district_id
+2,Khulna,14,,133,,88,Mahasthangarh Bazar,মহাস্থানগড় বাজার,district_id
+7,Rangpur,59,,440,,239,Mahiganj bazar,মাহিগঞ্জ বাজার,district_id
+1,Chattogram,8,,499,,265,Majhir Ghat Bazar,মাঝির ঘাট বাজার,district_id
+2,Khulna,18,,157,,233,Mallikpur Bazar,মল্লিকপুর বাজার,district_id
+2,Khulna,19,,168,,227,Manda Bazar,মান্দা বাজার,district_id
+6,Dhaka,46,,360,,109,Manikganj Bazar,মানিকগঞ্জ বাজার,district_id
+3,Rajshahi,20,,171,,336,"Manirampur Bazar, Jessore","মণিরামপুর বাজার, যশোর",district_id
+1,Chattogram,6,,58,,258,Matalab Bazar,মতলব বাজার,district_id
+1,Chattogram,10,,95,,368,Matiranga Bazar,মাটিরাঙ্গা বাজার,district_id
+6,Dhaka,41,,321,,96,Mawna Chowrasta Bazar,মাওনা চৌরাস্তা বাজার,district_id
+8,Mymensingh,62,,466,,44,"Mechua Bazar, Mymensingh","মেছুয়া বাজার, ময়মনসিংহ",district_id
+3,Rajshahi,22,,187,,58,Meherpur Sadar Bazar,মেহেরপুর সদর বাজার,district_id
+6,Dhaka,48,,370,,195,Mirkadim Bazar,মিরকাদিম বাজার,district_id
+6,Dhaka,47,,494,,11,Mirpur 1 no. Bazar,মিরপুর ১ নং বাজার,district_id
+3,Rajshahi,25,,199,,72,Mirpur Bazar,মিরপুর বাজার,district_id
+5,Sylhet,38,,293,,273,Mirpur Bazar,মিরপুর বাজার,district_id
+6,Dhaka,44,,339,,214,Mirzapur Sadar Market,মির্জাপুর সদর বাজার,district_id
+1,Chattogram,8,,499,,267,Mithachari Bazar,মিঠাছড়ি বাজার,district_id
+7,Rangpur,59,,444,,352,Mithapukur Bazar,মিঠাপুকুর বাজার,district_id
+6,Dhaka,47,,494,,4,Mohammadpur Krishi Market,মোহাম্মদপুর কৃষি মার্কেট,district_id
+4,Barishal,33,,251,,129,Mohanganj Bazar,মোহনগঞ্জ বাজার,district_id
+8,Mymensingh,64,,489,,341,Mohanganj Bazar,মোহনগঞ্জ বাজার,district_id
+2,Khulna,15,,140,,328,Mohisalbari Bazar,মহিষালবাড়ি বাজার,district_id
+3,Rajshahi,20,,177,,209,Monihar Bus Stand Bazar,মনিহার বাসস্ট্যান্ড বাজার,district_id
+6,Dhaka,47,,493,,159,Moulavi Bazar,মৌলভীবাজার,district_id
+5,Sylhet,37,,288,,24,Moulvibazar Sadar Bazar,মৌলভীবাজার সদর বাজার,district_id
+6,Dhaka,48,,370,,59,Munshiganj Sadar Bazar,মুন্সিগঞ্জ সদর বাজার,district_id
+6,Dhaka,48,,370,,61,Munshir Hat Bazar,মুন্সীরহাট বাজার,district_id
+8,Mymensingh,62,,466,,176,Mymensingh Sadar Bazar,ময়মনসিংহ সদর বাজার,district_id
+1,Chattogram,3,,30,,255,Nabinagar Bazar,নবীনগর বাজার,district_id
+7,Rangpur,60,,449,,139,Nageshwari Bazar,নাগেশ্বরী বাজার,district_id
+8,Mymensingh,61,,460,,71,Nakla Bazar,নকলা বাজার,district_id
+4,Barishal,30,,232,,132,Nalchiti Bazar,নলছিটি বাজার,district_id
+3,Rajshahi,28,,223,,63,Nalua Bazar,নালুয়া বাজার,district_id
+8,Mymensingh,62,,473,,177,Nandail Bazar,নান্দাইল বাজার,district_id
+8,Mymensingh,63,,475,,94,Nandina Bazar,নান্দিনা বাজার,district_id
+2,Khulna,19,,168,,30,Naogaon Sadar Bazar,নওগাঁ সদর বাজার,district_id
+3,Rajshahi,23,,189,,113,Narail Sadar Bazar,নড়াইল সদর বাজার,district_id
+6,Dhaka,43,,330,,17,Narayanganj Sadar Bazar,নারায়ণগঞ্জ সদর বাজার,district_id
+6,Dhaka,40,,313,,26,Narsingdi Sadar Bazar,নরসিংদী সদর বাজার,district_id
+2,Khulna,14,,131,,219,Narua Mala Bazar,নারুয়া মালা বাজার,district_id
+2,Khulna,16,,143,,114,Nator Bazar,নাটোর বাজার,district_id
+3,Rajshahi,20,,178,,384,Navaron Bazar,নাভারণ বাজার,district_id
+7,Rangpur,59,,440,,242,Nawabganj Bazar,নবাবগঞ্জ বাজার,district_id
+6,Dhaka,47,,368,,333,Nawabganj Bazar,নবাবগঞ্জ বাজার,district_id
+6,Dhaka,47,,493,,3,Nawabpur Market,নওয়াবপুর বাজার,district_id
+4,Barishal,32,,243,,345,Nazirpur Bazar,নাজিরপুর বাজার,district_id
+6,Dhaka,47,,494,,168,New Market,নিউ মার্কেট,district_id
+7,Rangpur,56,,427,,33,Nilphamari Sadar Bazar,নীলফামারী সদর বাজার,district_id
+1,Chattogram,1,,16,,69,NImsar Bazar,নিমসার বাজার,district_id
+1,Chattogram,5,,43,,106,Noakhali Sadar Bazar,নোয়াখালী সদর বাজার,district_id
+2,Khulna,15,,496,,244,Nowahata Bazar,নওহাটা বাজার,district_id
+1,Chattogram,8,,499,,76,Pahartali Bazar,পাহাড়তলী বাজার,district_id
+7,Rangpur,53,,399,,32,Panchagarh Sadar Bazar,পঞ্চগড় সদর বাজার,district_id
+1,Chattogram,10,,90,,281,Panchari Bazar,পানছড়ি বাজার,district_id
+2,Khulna,17,,153,,77,Panchbibi Bazar,পাঁচবিবি বাজার,district_id
+6,Dhaka,49,,378,,361,Pangsha Bazar,পাংশা বাজার,district_id
+4,Barishal,30,,230,,133,Panjiputhipara Bazar,পাঞ্জিপুথিপাড়া বাজার,district_id
+7,Rangpur,54,,408,,348,Parbatipur Bazar,পার্বতীপুর বাজার,district_id
+4,Barishal,32,,505,,22,"Parerhat Bazar, Pirojpur","পাড়েরহাট বাজার, পিরোজপুর",district_id
+1,Chattogram,8,,68,,381,Patiya Bazar,পটিয়া বাজার,district_id
+1,Chattogram,8,,68,,257,Patiya Sadar Bazar,পটিয়া সদর বাজার,district_id
+4,Barishal,31,,235,,70,Patuakhali Sadar Bazar,পটুয়াখালী সদর বাজার,district_id
+7,Rangpur,58,,436,,249,Pirgonj Bazar,পীরগঞ্জ বাজার,district_id
+4,Barishal,32,,242,,15,Pirojpur Sadar Bazar,পিরোজপুর সদর বাজার,district_id
+8,Mymensingh,64,,491,,81,"Pouro Super Market, Netrokona","পৌর সুপার মার্কেট, নেত্রকোনা",district_id
+2,Khulna,15,,138,,240,Puthia Bazar,পুঠিয়া বাজার,district_id
+6,Dhaka,47,,493,,164,Rahmatgong and Moulavhi Bazar,রহমতগঞ্জ ও মৌলভীবাজার,district_id
+1,Chattogram,7,,62,,367,Raipur Bazar,রায়পুর বাজার,district_id
+2,Khulna,16,,145,,230,Rajapur Bazar,রাজাপুর বাজার,district_id
+6,Dhaka,49,,376,,47,Rajbari Sadar Bazar,রাজবাড়ী সদর বাজার,district_id
+6,Dhaka,47,,365,,171,Rajfulbaria Bazar,রাজফুলবাড়িয়া বাজার,district_id
+1,Chattogram,1,,11,,259,Rajganj Bazar,রাজগঞ্জ বাজার,district_id
+2,Khulna,15,,496,,245,Rajshahi New Market Bazar,রাজশাহী নতুন বাজার,district_id
+2,Khulna,15,,496,,13,Rajshahi Sadar Bazar,রাজশাহী সদর বাজার,district_id
+2,Khulna,18,,155,,117,"Ramchandrapur Bazar, Chapainawabganj","রামচন্দ্রপুর বাজার, চাপাইনবাবগঞ্জ",district_id
+6,Dhaka,51,,386,,55,Ramdia Bazar,রামদিয়া বাজার,district_id
+1,Chattogram,10,,94,,279,Ramgarh Bazar,রামগড় বাজার,district_id
+1,Chattogram,10,,94,,378,Ramgarh Bazar,রামগড় বাজার,district_id
+1,Chattogram,9,,86,,276,Ramu Bazar,রামু বাজার,district_id
+1,Chattogram,4,,33,,146,Rangamati Sadar Bazar,রাঙ্গামাটি সদর বাজার,district_id
+7,Rangpur,59,,502,,5,Rangpur Krishi Market,রংপুর কৃষি মার্কেট,district_id
+7,Rangpur,59,,440,,243,Rangpur Municipality Market,রংপুর পৌরসভার বাজার,district_id
+1,Chattogram,8,,499,,78,Riazuddin Bazar,রিয়াজউদ্দিন বাজার,district_id
+1,Chattogram,11,,100,,40,Rowangchhari Bazar,রোয়াংছড়ি বাজার,district_id
+3,Rajshahi,23,,189,,125,Rupganj Bazar,রুপগঞ্জ বাজার,district_id
+6,Dhaka,43,,331,,210,Rupgonj Sadar Bazar,রূপগঞ্জ সদর বাজার,district_id
+6,Dhaka,47,,494,,2,Rupnogor Kachabazar,রূপনগর কাঁচাবাজার,district_id
+3,Rajshahi,27,,209,,196,Rupsha Bazar,রূপসা বাজার,district_id
+7,Rangpur,60,,448,,21,Sadar (Zia Bazar) Kurigram,সদর (জিয়া বাজার) কুড়িগ্রাম,district_id
+1,Chattogram,7,,60,,39,"Sadar Bazar, Lakshmipur","সদর বাজার, লক্ষ্মীপুর",district_id
+6,Dhaka,50,,381,,25,"Sadar Bazar, Madaripur","সদর বাজার,  মাদারীপুর",district_id
+2,Khulna,13,,116,,20,"Sadar Bazar, Pabna","সদর বাজার, পাবনা",district_id
+7,Rangpur,58,,435,,31,"Sadar Bazar, Thakurgaon","সদর বাজার, ঠাকুরগাঁও",district_id
+7,Rangpur,57,,431,,223,Saghata Bazar,সাঘাটা বাজার,district_id
+7,Rangpur,56,,422,,350,Saidpur Bazar,সৈয়দপুর বাজার,district_id
+6,Dhaka,44,,341,,216,Sakhipur Sadar Market,সখিপুর সদর বাজার,district_id
+2,Khulna,19,,170,,376,Sapahar Bazar,সাপাহার বাজার,district_id
+2,Khulna,19,,170,,325,Sapahar Market,সাপাহার বাজার,district_id
+3,Rajshahi,24,,192,,161,Sarojganj Bazar,সরোজগঞ্জ বাজার,district_id
+6,Dhaka,51,,385,,85,Satpar Haat Sadar Bazar,সাতপাড় হাট সদর বাজার,district_id
+6,Dhaka,46,,359,,359,Saturia Bazar,সাটুরিয়া বাজার,district_id
+6,Dhaka,47,,365,,169,Savar Bazar,সাভার বাজার,district_id
+6,Dhaka,47,,365,,332,Savar Bazar,সাভার বাজার,district_id
+7,Rangpur,54,,409,,131,Setabganj Bazar,সেতাবগন্জ বাজার,district_id
+5,Sylhet,37,,286,,295,Shachana Bazar,সাচনা বাজার,district_id
+2,Khulna,15,,496,,248,Shaheb Bazar,সাহেব বাজার,district_id
+5,Sylhet,36,,278,,284,Shalutikar Bazar,শালুটিকর বাজার,district_id
+6,Dhaka,42,,322,,110,Shariatpur Bazar,শরীয়তপুর বাজার,district_id
+3,Rajshahi,20,,178,,339,Sharsha Bazar,শার্শা বাজার,district_id
+7,Rangpur,59,,444,,121,Shathibari Bazar,শঠিবাড়ি বাজার,district_id
+6,Dhaka,50,,382,,126,Sheikhpur Bazar,শেখপুর বাজার,district_id
+5,Sylhet,38,,298,,270,Shekhghat Bazar,শেখঘাট বাজার,district_id
+2,Khulna,14,,132,,343,Sherpur Bazar,শেরপুর বাজার,district_id
+8,Mymensingh,61,,457,,68,Sherpur Sadar Bazar,শেরপুর সদর বাজার,district_id
+2,Khulna,14,,132,,329,Sherpur Sadar Bazar (Baroduari Bazar),শেরপুর সদর বাজার (বরোদুয়ারি বাজার),district_id
+6,Dhaka,44,,334,,206,Shialkol Bazar,শিয়ালকোল বাজার,district_id
+2,Khulna,18,,159,,143,Shibganj Bazar,শিবগঞ্জ বাজার,district_id
+2,Khulna,18,,159,,342,Shibganj Bazar,শিবগঞ্জ বাজার,district_id
+2,Khulna,18,,159,,326,Shibgonj Sadar Bazar,শিবগঞ্জ সদর বাজার,district_id
+6,Dhaka,40,,316,,362,Shibpur Bazar,শিবপুর বাজার,district_id
+5,Sylhet,37,,288,,145,Shomshergonj Bazar,শমসেরগঞ্জ বাজার,district_id
+1,Chattogram,4,,37,,147,Shuvolong Bazar,শুভলং বাজার,district_id
+6,Dhaka,47,,493,,158,Shyam Bazar,শ্যাম বাজার,district_id
+6,Dhaka,40,,316,,224,Sibpur Bazar,শিবপুর বাজার,district_id
+6,Dhaka,46,,364,,360,Singair Bazar,সিংগাইর বাজার,district_id
+2,Khulna,16,,144,,231,Singra Bazar,সিংড়া বাজার,district_id
+2,Khulna,12,,110,,115,Sirajganj Sadar Bazar,সিরাজগঞ্জ সদর বাজার,district_id
+5,Sylhet,37,,286,,144,Somser Nagar Bazar,শমসেরনগর বাজার,district_id
+1,Chattogram,2,,20,,278,Sonagazi Bazar,সোনাগাজী বাজার,district_id
+2,Khulna,12,,107,,246,Sonamukhi Bazar,সোনামুখী বাজার,district_id
+6,Dhaka,47,,493,,165,Sowarighat and Champatali,সোয়ারীঘাট ও চম্পাতলী,district_id
+4,Barishal,32,,243,,16,Sreeramkathi Bazar,শ্রীরামকাঠী বাজার,district_id
+5,Sylhet,37,,290,,354,Srimangal Bazar,শ্রীমঙ্গল বাজার,district_id
+3,Rajshahi,21,,182,,119,"Sultanpur Bazar, Satkhira","সুলতানপুর বাজার, সাতক্ষীরা",district_id
+5,Sylhet,39,,300,,19,Sunamganj Sadar Bazar,সুনামগঞ্জ সদর বাজার,district_id
+5,Sylhet,36,,281,,51,Sylhet Sadar Bazaar,সিলেট সদর বাজার,district_id
+6,Dhaka,44,,342,,111,Tangail Bazar,টাংগাইল বাজার,district_id
+8,Mymensingh,61,,458,,84,Taraganj Bazar,তারাগঞ্জ বাজার,district_id
+7,Rangpur,59,,442,,122,Taraganj Bazar,তারাগঞ্জ বাজার,district_id
+6,Dhaka,47,,494,,166,Tejgaon Bazar,তেজগাঁও বাজার,district_id
+8,Mymensingh,64,,485,,199,Teligati Bazar,তেলিগাটি বাজার,district_id
+2,Khulna,17,,150,,86,Tilakpur Bazar,তিলকপুর বাজার,district_id
+7,Rangpur,55,,417,,225,Tista Bazar,তিস্তা বাজার,district_id
+6,Dhaka,41,,320,,172,Tongi Bazar,টঙ্গী বাজার,district_id
+1,Chattogram,7,,63,,286,Torabgonj Bazar,তোরাবগঞ্জ বাজার,district_id
+8,Mymensingh,62,,463,,179,Trisal Bazar,ত্রিশাল বাজার,district_id
+6,Dhaka,51,,387,,357,Tungipara Bazar,টুঙ্গিপাড়া বাজার,district_id
+3,Rajshahi,25,,196,,118,Ujangram Hat,উজানগ্রাম হাট,district_id
+1,Chattogram,9,,83,,277,Ukhia Bazar,উখিয়া বাজার,district_id
+7,Rangpur,60,,453,,140,Ulipur Bazar,উলিপুর বাজার,district_id
+2,Khulna,12,,112,,136,Ullapara Bazar,উল্লাপাড়া বাজার,district_id
+6,Dhaka,42,,326,,188,Vadorgonj Shadar Bazar,ভেদরগঞ্জ সদর বাজার,district_id
+1,Chattogram,4,,33,,287,Veptari Bazar,ভেপ্তারি বাজার,district_id
+5,Sylhet,36,,274,,73,Vishwanath Bazar,বিশ্বনাথ বাজার,district_id
+1,Chattogram,5,,45,,149,Zaminder Hat Bazar,জমিদার হাট,district_id
+3,Rajshahi,21,,182,,83,Zhoudanga Bazar,ঝাউডাংগা বাজার,district_id

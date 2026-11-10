@@ -1,0 +1,78 @@
+{
+  "http_status": 200,
+  "response": {
+    "success": true,
+    "message": "data found!",
+    "data": [
+      {
+        "commodity_id": 944,
+        "w_lowestPrice": "700.00",
+        "w_highestPrice": "1100.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "12.00",
+        "r_highestPrice": "14.00",
+        "created_at": "2026-01-07T05:47:21.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "1118",
+        "a_w_highestPrice": "1203",
+        "a_r_lowestPrice": "14",
+        "a_r_howestPrice": "15",
+        "r_avgPrice": "14",
+        "w_avgPrice": "1160",
+        "cpi_market_commodity_price_id": 201347,
+        "price_date": "2026-01-07"
+      },
+      {
+        "commodity_id": 944,
+        "w_lowestPrice": "1200.00",
+        "w_highestPrice": "1300.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "14.00",
+        "r_highestPrice": "15.00",
+        "created_at": "2026-02-01T04:31:28.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "1200",
+        "a_w_highestPrice": "1300",
+        "a_r_lowestPrice": "14",
+        "a_r_howestPrice": "15",
+        "r_avgPrice": "15",
+        "w_avgPrice": "1250",
+        "cpi_market_commodity_price_id": 202512,
+        "price_date": "2026-02-01"
+      }
+    ]
+  },
+  "payload": {
+    "division_id": [
+      4
+    ],
+    "district_id": [
+      35
+    ],
+    "upazila_id": [
+      267
+    ],
+    "market_id": [
+      34
+    ],
+    "commodity_group_id": 43,
+    "commodity_sub_group_id": 265,
+    "commodity_id": 944,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Vegetable",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Potato",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Potato (Holland) - White (Old)",
+    "commodity_name_bn": "আলু (হলান্ড)- সাদা (পুরানো)",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}

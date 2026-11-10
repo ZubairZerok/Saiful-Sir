@@ -1,0 +1,12 @@
+commodity_id,commodity_name,commodity_family,commodity_variant,recommended_use,reason
+831,Onion (local),ONION,Local / Domestic,"PRIMARY_SAMPLE (Paper 1, Paper 2, Paper 3)","Dominant domestic onion series with largest market footprint (97 markets, 911 obs), strong temporal continuity."
+832,Onion-imported,ONION,Imported,ROBUSTNESS_SAMPLE (Trade / Import Shock Sensitivity),Captures import parity pricing; useful for testing border vs. interior market transmission.
+833,Onion (New),ONION,New Harvest (Early Season),ROBUSTNESS_SAMPLE (Early Harvest Shocks),"Captures early harvest price dynamics; 29 markets, high seasonal concentration."
+943,Potato (Local),POTATO,Indigenous / Deshi Local,"PRIMARY_SAMPLE (Paper 1, Paper 2, Paper 3)","Core domestic potato series; 54 markets, 416 observations, extensive spatial dispersion."
+945,Potato (Holland) - White (New),POTATO,High Yielding Variety (HYV) White New,"PRIMARY_SAMPLE (Paper 1, Paper 2, Paper 3)","Largest commercial potato series (82 markets, 688 obs); vital for high-volume commercial market integration."
+947,Potato (Holland) - Red,POTATO,HYV Red,"PRIMARY_SAMPLE (Paper 1, Paper 2, Paper 3)","Secondary commercial staple (52 markets, 452 obs); strong geographic coverage across Northern production belts."
+944,Potato (Holland) - White (Old),POTATO,Cold Storage White Old,ROBUSTNESS_SAMPLE (Storage / Off-Season Analysis),"Reflects cold storage liquidation prices before new crop arrival (23 markets, 160 obs)."
+946,Potato (Holland) - Red (Old),POTATO,Cold Storage Red Old,ROBUSTNESS_SAMPLE (Storage / Off-Season Analysis),"Cold storage red potato series (26 markets, 145 obs)."
+942,Potato (Local) - Old,POTATO,Local Old Crop,ROBUSTNESS_SAMPLE (Limited Panel),"Specialized local old crop; 15 markets, 75 observations."
+21014,Potatoes-imported,POTATO,Imported Potato,EXCLUDE FROM PRIMARY (Supplementary only),"Small sample size (3 markets, 24 obs); insufficient for spatial panel modeling."
+948,Sweet Potato,SWEET_POTATO,Tuber / Sweet Potato,EXCLUDE FROM MAIN PAPERS (Distinct crop biology/market),"Botanically distinct tuber, very small sample (2 markets, 10 obs); unsuitable for potato panel regressions."

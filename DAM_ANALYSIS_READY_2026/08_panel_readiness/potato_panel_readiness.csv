@@ -1,0 +1,9 @@
+commodity_id,commodity_name,total_observations,total_markets,mean_obs_per_market,median_obs_per_market,min_obs_per_market,max_obs_per_market,markets_ge_6_obs,markets_ge_12_obs,markets_ge_18_obs,markets_ge_24_obs,markets_ge_36_obs,markets_ge_60_obs,suitability_assessment
+942,Potato (Local) - Old,51,12,4.25,4.0,1,8,5,0,0,0,0,0,MODERATE_PANEL
+943,Potato (Local),408,53,7.7,7.0,1,15,37,11,0,0,0,0,STRONG_PANEL
+944,Potato (Holland) - White (Old),131,21,6.24,7.0,1,15,13,1,0,0,0,0,MODERATE_PANEL
+945,Potato (Holland) - White (New),659,79,8.34,7.0,1,15,50,26,0,0,0,0,STRONG_PANEL
+946,Potato (Holland) - Red (Old),125,23,5.43,3.0,1,15,11,2,0,0,0,0,MODERATE_PANEL
+947,Potato (Holland) - Red,448,51,8.78,8.0,1,15,39,18,0,0,0,0,STRONG_PANEL
+948,Sweet Potato,10,2,5.0,5.0,3,7,1,0,0,0,0,0,WEAK_PANEL
+21014,Potatoes-imported,23,3,7.67,7.0,1,15,2,1,0,0,0,0,WEAK_PANEL

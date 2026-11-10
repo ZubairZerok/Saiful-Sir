@@ -1,0 +1,58 @@
+{
+  "http_status": 200,
+  "response": {
+    "success": true,
+    "message": "data found!",
+    "data": [
+      {
+        "commodity_id": 942,
+        "w_lowestPrice": "1400.00",
+        "w_highestPrice": "1600.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "18.00",
+        "r_highestPrice": "20.00",
+        "created_at": "2025-06-15T04:06:29.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "1475",
+        "a_w_highestPrice": "1600",
+        "a_r_lowestPrice": "18",
+        "a_r_howestPrice": "20",
+        "r_avgPrice": "19",
+        "w_avgPrice": "1538",
+        "cpi_market_commodity_price_id": 191831,
+        "price_date": "2025-06-04"
+      }
+    ]
+  },
+  "payload": {
+    "division_id": [
+      7
+    ],
+    "district_id": [
+      53
+    ],
+    "upazila_id": [
+      399
+    ],
+    "market_id": [
+      32
+    ],
+    "commodity_group_id": 43,
+    "commodity_sub_group_id": 265,
+    "commodity_id": 942,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Vegetable",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Potato",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Potato (Local) - Old",
+    "commodity_name_bn": "আলু (দেশীয়) - পুরানো",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}

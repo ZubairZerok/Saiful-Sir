@@ -1,0 +1,118 @@
+market_id,market_name,division_name,total_observations,unique_commodities,first_date,last_date,unique_months,month_span
+4,Mohammadpur Krishi Market,Dhaka,35,6,2025-06-15,2026-08-02,15,15
+8,kawran Bazar,Dhaka,17,3,2026-01-25,2026-08-02,8,8
+11,Mirpur 1 no. Bazar,Dhaka,16,2,2026-01-28,2026-08-02,8,8
+13,Rajshahi Sadar Bazar,Khulna,114,8,2025-06-15,2026-08-02,15,15
+15,Pirojpur Sadar Bazar,Barishal,35,5,2025-06-15,2026-08-02,15,15
+17,Narayanganj Sadar Bazar,Dhaka,31,3,2025-06-18,2026-08-04,15,15
+18,Magura Sadar Bazar,Rajshahi,37,5,2025-06-15,2026-08-02,15,15
+19,Sunamganj Sadar Bazar,Sylhet,75,5,2025-06-15,2026-08-02,15,15
+20,"Sadar Bazar, Pabna",Khulna,46,7,2025-06-15,2026-08-02,15,15
+21,Sadar (Zia Bazar) Kurigram,Rangpur,54,6,2025-06-15,2026-08-02,15,15
+23,Brahmanbaria Sadar Bazar,Chattogram,37,6,2025-06-15,2026-08-02,15,15
+24,Moulvibazar Sadar Bazar,Sylhet,41,4,2025-06-15,2026-08-02,15,15
+25,"Sadar Bazar, Madaripur",Dhaka,30,2,2025-06-15,2026-08-02,15,15
+26,Narsingdi Sadar Bazar,Dhaka,48,6,2025-06-15,2026-08-02,15,15
+27,Barisal Sadar Bazar,Barishal,30,2,2025-06-15,2026-08-02,15,15
+28,Bhola Sadar Bazar,Barishal,33,3,2025-06-04,2026-08-02,15,15
+29,Jamalpur Sadar Bazar,Mymensingh,33,3,2025-06-15,2026-08-02,15,15
+30,Naogaon Sadar Bazar,Khulna,52,6,2025-06-15,2026-08-02,15,15
+31,"Sadar Bazar, Thakurgaon",Rangpur,66,8,2025-06-15,2026-08-02,15,15
+32,Panchagarh Sadar Bazar,Rangpur,46,7,2025-06-04,2026-08-02,15,15
+33,Nilphamari Sadar Bazar,Rangpur,35,4,2025-06-15,2026-08-02,15,15
+34,Barguna Sadar Bazar,Barishal,39,5,2025-06-15,2026-08-02,15,15
+35,Bandarban Sadar Bazar,Chattogram,35,3,2025-06-15,2026-08-02,15,15
+36,Gaibandha Sadar Bazar,Rangpur,50,6,2025-06-15,2026-08-02,15,15
+37,Khulna Sadar Bazar,Rajshahi,38,3,2025-06-16,2026-08-02,15,15
+38,"City Bazar, Rangpur",Rangpur,37,4,2025-06-15,2026-08-02,15,15
+39,"Sadar Bazar, Lakshmipur",Chattogram,35,3,2025-06-15,2026-08-02,15,15
+42,"Goshala Bazar, Lalmonirhat",Rangpur,6,3,2025-09-18,2025-12-04,2,4
+43,Lalmonirhat Sadar Bazar,Rangpur,49,4,2025-06-15,2026-08-02,15,15
+44,"Mechua Bazar, Mymensingh",Mymensingh,39,4,2025-06-15,2026-08-02,15,15
+47,Rajbari Sadar Bazar,Dhaka,30,2,2025-06-15,2026-08-02,15,15
+50,Chuadanga Sadar Bazaar,Rajshahi,42,5,2025-06-15,2026-08-02,15,15
+51,Sylhet Sadar Bazaar,Sylhet,68,7,2025-06-15,2026-08-02,15,15
+52,Faridpur Sadar Bazar,Dhaka,30,2,2025-06-15,2026-08-02,15,15
+53,"Bahadur Bazar, Dinajpur",Rangpur,49,4,2025-06-16,2026-08-02,15,15
+54,Gopaldanj Sadar Boro Bazar,Dhaka,45,3,2025-06-15,2026-08-02,15,15
+56,Comilla Sadar Bazar,Chattogram,39,4,2025-06-15,2026-08-02,15,15
+57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,37,4,2025-06-15,2026-08-02,15,15
+58,Meherpur Sadar Bazar,Rajshahi,33,3,2025-06-15,2026-08-02,15,15
+59,Munshiganj Sadar Bazar,Dhaka,40,6,2025-06-15,2026-08-02,15,15
+62,Bagerhat Sadar Bazar,Rajshahi,46,4,2025-06-15,2026-08-02,15,15
+65,Kushtia Sadar Bazar,Rajshahi,46,4,2025-06-14,2026-08-02,15,15
+66,Joypurhat Sadar Bazar,Khulna,46,4,2025-06-16,2026-08-02,15,15
+67,Bogra Sadar Bazar,Khulna,60,4,2025-06-15,2026-08-02,15,15
+68,Sherpur Sadar Bazar,Mymensingh,34,4,2025-06-15,2026-08-02,15,15
+70,Patuakhali Sadar Bazar,Barishal,12,2,2025-06-15,2025-11-04,6,6
+74,Kangshanagar Bazar,Chattogram,12,2,2026-02-23,2026-07-02,6,6
+79,Chittagong Sadar Bazar,Chattogram,31,4,2025-06-15,2026-08-03,11,15
+81,"Pouro Super Market, Netrokona",Mymensingh,47,4,2025-06-15,2026-08-02,15,15
+101,Jhalakathi Sadar Bazar,Barishal,32,3,2025-06-15,2026-08-02,15,15
+102,Chandpur Sadaar,Chattogram,33,3,2025-06-15,2026-08-02,15,15
+103,Cox's Bazar Sadar,Chattogram,41,4,2025-06-15,2026-08-02,15,15
+104,Feni Sadar,Chattogram,33,3,2025-06-15,2026-08-02,15,15
+105,Khagrachari Sadar Pouro Bazar,Chattogram,44,5,2025-06-15,2026-08-02,15,15
+106,Noakhali Sadar Bazar,Chattogram,42,5,2025-06-15,2026-08-02,15,15
+108,Kishoreganj Bazar,Dhaka,34,3,2025-06-15,2026-08-02,15,15
+109,Manikganj Bazar,Dhaka,48,5,2025-06-15,2026-08-02,15,15
+110,Shariatpur Bazar,Dhaka,31,3,2025-06-15,2026-08-02,15,15
+111,Tangail Bazar,Dhaka,63,7,2025-06-15,2026-08-02,15,15
+112,Jessore Sadar Bazar,Rajshahi,30,2,2025-06-15,2026-08-02,15,15
+114,Nator Bazar,Khulna,43,6,2025-06-15,2026-08-02,15,15
+115,Sirajganj Sadar Bazar,Khulna,21,3,2025-06-18,2026-07-02,7,14
+116,Habiganj Sadar Bazar,Sylhet,50,7,2025-06-15,2026-08-02,15,15
+119,"Sultanpur Bazar, Satkhira",Rajshahi,55,7,2025-06-15,2026-08-02,15,15
+125,Rupganj Bazar,Rajshahi,48,7,2025-06-15,2026-08-02,15,15
+127,Joydevpur market,Dhaka,47,4,2025-06-15,2026-08-02,15,15
+139,Nageshwari Bazar,Rangpur,18,3,2026-03-01,2026-08-02,6,6
+146,Rangamati Sadar Bazar,Chattogram,49,6,2025-06-15,2026-08-02,15,15
+169,Savar Bazar,Dhaka,4,2,2026-07-27,2026-08-03,2,2
+179,Trisal Bazar,Mymensingh,12,4,2026-02-22,2026-08-12,5,7
+207,Madhupur Bazar,Dhaka,17,5,2026-02-22,2026-08-02,7,7
+232,Chapainawabganj Sadar Bazar,Khulna,49,4,2025-06-15,2026-08-02,15,15
+241,Baneshor Bazar,Khulna,14,3,2025-12-22,2026-08-02,6,9
+275,Chandina Bazar,Chattogram,14,2,2026-02-25,2026-08-02,7,7
+325,Sapahar Market,Khulna,29,5,2025-12-23,2026-08-02,9,9
+326,Shibgonj Sadar Bazar,Khulna,23,4,2025-12-24,2026-08-02,9,9
+327,Godagari Sadar Bazar,Khulna,64,8,2026-01-04,2026-08-02,8,8
+329,Sherpur Sadar Bazar (Baroduari Bazar),Khulna,8,4,2026-01-07,2026-02-01,2,2
+331,Dhanbari Bazar,Dhaka,21,3,2026-02-19,2026-08-02,7,7
+334,Kalaroa Bazar,Rajshahi,15,3,2026-02-24,2026-08-06,7,7
+335,Dumuria Bazar,Rajshahi,6,2,2026-06-15,2026-08-02,3,3
+336,"Manirampur Bazar, Jessore",Rajshahi,4,2,2026-07-28,2026-08-02,2,2
+337,Gangni Bazar,Rajshahi,4,2,2026-07-23,2026-08-02,2,2
+338,Damurhuda Bazar,Rajshahi,4,2,2026-07-07,2026-08-02,2,2
+339,Sharsha Bazar,Rajshahi,2,2,2026-07-26,2026-07-26,1,1
+340,Fulbaria Bazar,Mymensingh,7,4,2026-07-15,2026-08-02,2,2
+341,Mohanganj Bazar,Mymensingh,18,3,2026-03-01,2026-08-02,6,6
+345,Nazirpur Bazar,Barishal,4,2,2026-07-26,2026-08-02,2,2
+346,Amtali Bazar,Barishal,12,2,2026-03-10,2026-08-02,6,6
+348,Parbatipur Bazar,Rangpur,15,3,2026-04-28,2026-08-02,5,5
+349,Kaliganj Bazar,Rangpur,3,3,2026-08-03,2026-08-03,1,1
+350,Saidpur Bazar,Rangpur,3,3,2026-08-01,2026-08-03,1,1
+351,Domar Bazar,Rangpur,2,2,2026-08-03,2026-08-03,1,1
+352,Mithapukur Bazar,Rangpur,16,3,2026-03-12,2026-08-02,6,6
+353,Kamalganj Bazar,Sylhet,4,2,2026-07-08,2026-08-02,2,2
+354,Srimangal Bazar,Sylhet,6,2,2026-06-25,2026-08-02,3,3
+355,Beanibazar Market,Sylhet,16,5,2026-02-22,2026-05-03,4,4
+356,Golapganj Bazar,Sylhet,15,3,2026-03-10,2026-08-02,6,6
+357,Tungipara Bazar,Dhaka,6,3,2026-07-26,2026-08-02,2,2
+358,Bajitpur Bazar,Dhaka,11,3,2026-03-01,2026-08-02,5,6
+359,Saturia Bazar,Dhaka,15,3,2026-04-02,2026-08-02,5,5
+360,Singair Bazar,Dhaka,18,3,2026-03-04,2026-08-02,6,6
+362,Shibpur Bazar,Dhaka,7,3,2026-02-23,2026-04-05,3,3
+364,Chakaria Bazar,Chattogram,2,2,2026-08-04,2026-08-04,1,1
+366,Lalmai Bazar,Chattogram,4,2,2026-04-07,2026-08-13,2,5
+367,Raipur Bazar,Chattogram,14,2,2026-02-26,2026-08-02,7,7
+369,Begumganj Bazar,Chattogram,12,2,2026-03-01,2026-08-02,6,6
+370,Burichong Bazar,Chattogram,2,2,2026-08-02,2026-08-02,1,1
+371,Amtoli Bazar,Chattogram,10,2,2026-04-01,2026-08-02,5,5
+372,Chagalnaiya Bazar,Chattogram,14,2,2026-02-26,2026-08-02,7,7
+374,Kaukhali Bazar,Chattogram,12,2,2026-03-01,2026-08-02,6,6
+375,Gobindaganj Bazar,Rangpur,18,3,2026-03-02,2026-08-02,6,6
+377,"Kaliganj Bazar,",Rajshahi,12,2,2026-03-29,2026-08-02,6,6
+379,Kaptai Bazar,Chattogram,7,2,2026-03-01,2026-08-02,6,6
+380,Lama Bazar,Chattogram,15,3,2026-04-16,2026-08-02,5,5
+383,Banyachong Market,Sylhet,8,2,2026-05-18,2026-08-02,4,4
+384,Navaron Bazar,Rajshahi,2,2,2026-08-02,2026-08-02,1,1

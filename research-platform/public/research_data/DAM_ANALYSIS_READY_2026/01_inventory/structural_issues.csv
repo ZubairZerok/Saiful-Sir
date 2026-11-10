@@ -1,0 +1,87 @@
+filename,issue_category,column_or_field,severity,detail
+DAM_ONION_LOCAL_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (911/911 rows).
+DAM_ONION_LOCAL_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (911/911 rows).
+DAM_ONION_LOCAL_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_ONION_LOCAL_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_ONION_LOCAL_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_ONION_LOCAL_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_ONION_LOCAL_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_ONION_IMPORTED_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (201/201 rows).
+DAM_ONION_IMPORTED_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (201/201 rows).
+DAM_ONION_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_ONION_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_ONION_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_ONION_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_ONION_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_ONION_NEW_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (266/266 rows).
+DAM_ONION_NEW_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (266/266 rows).
+DAM_ONION_NEW_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_ONION_NEW_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_ONION_NEW_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_ONION_NEW_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_ONION_NEW_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (75/75 rows).
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (75/75 rows).
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_POTATO_LOCAL_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (416/416 rows).
+DAM_POTATO_LOCAL_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (416/416 rows).
+DAM_POTATO_LOCAL_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_POTATO_LOCAL_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_POTATO_LOCAL_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_POTATO_LOCAL_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_POTATO_LOCAL_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (160/160 rows).
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (160/160 rows).
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,CONSTANT_COLUMN,wholesale_supply,INFO,Column 'wholesale_supply' has only 1 unique value across all rows: 0.0
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (688/688 rows).
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (688/688 rows).
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (145/145 rows).
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (145/145 rows).
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (452/452 rows).
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (452/452 rows).
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_SWEET_POTATO_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (10/10 rows).
+DAM_SWEET_POTATO_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (10/10 rows).
+DAM_SWEET_POTATO_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_SWEET_POTATO_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_SWEET_POTATO_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_SWEET_POTATO_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_SWEET_POTATO_2010_2026.csv,CONSTANT_COLUMN,wholesale_supply,INFO,Column 'wholesale_supply' has only 1 unique value across all rows: 0.0
+DAM_SWEET_POTATO_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 1
+DAM_POTATOES_IMPORTED_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (24/24 rows).
+DAM_POTATOES_IMPORTED_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (24/24 rows).
+DAM_POTATOES_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_POTATOES_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_POTATOES_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_POTATOES_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram
+DAM_POTATOES_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,wholesale_supply,INFO,Column 'wholesale_supply' has only 1 unique value across all rows: 0.0
+DAM_POTATOES_IMPORTED_2010_2026.csv,CONSTANT_COLUMN,unit_grower_id,INFO,Column 'unit_grower_id' has only 1 unique value across all rows: 2
+DAM_ALL_11_COMMODITIES_2010_2026.csv,EMPTY_COLUMN,district_name,WARNING,Column 'district_name' is 100% missing (3348/3348 rows).
+DAM_ALL_11_COMMODITIES_2010_2026.csv,EMPTY_COLUMN,upazila_name,WARNING,Column 'upazila_name' is 100% missing (3348/3348 rows).
+DAM_ALL_11_COMMODITIES_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit_id,INFO,Column 'wholesale_unit_id' has only 1 unique value across all rows: 1
+DAM_ALL_11_COMMODITIES_2010_2026.csv,CONSTANT_COLUMN,wholesale_unit,INFO,Column 'wholesale_unit' has only 1 unique value across all rows: Quintal
+DAM_ALL_11_COMMODITIES_2010_2026.csv,CONSTANT_COLUMN,retail_unit_id,INFO,Column 'retail_unit_id' has only 1 unique value across all rows: 2
+DAM_ALL_11_COMMODITIES_2010_2026.csv,CONSTANT_COLUMN,retail_unit,INFO,Column 'retail_unit' has only 1 unique value across all rows: Kilogram

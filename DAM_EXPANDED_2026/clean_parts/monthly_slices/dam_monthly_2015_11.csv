@@ -1,0 +1,6 @@
+﻿source,division_name_bn,district_name_bn,upazila_name_bn,market_name_bn,commodity_name_raw_bn,price_type_raw_bn,price_type,commodity_id,commodity_name_en,commodity_name_bn,price_date,price_year,price_month,price_month_name,price_low,price_high,price_avg,query_date_from,query_date_to
+dam_historical_web,,,,বরিশাল সদর,বেগুন - সাধারণ মানসম্পন্ন,খুচরা,retail,950,Brinjal - Ordinary Quality,বেগুন- সাধারণ মানসম্পন্ন,2015-11-15,2015,11,November,35.0,40.0,37.5,2015-11-01,2015-11-30
+dam_historical_web,,,,বরিশাল সদর,বেগুন - উচ্চ মানসম্পন্ন,খুচরা,retail,949,Brinjal - Superior Quality,বেগুন - উচ্চ মানসম্পন্ন,2015-11-15,2015,11,November,40.0,45.0,42.5,2015-11-01,2015-11-30
+dam_historical_web,,,,বরিশাল সদর,পেঁয়াজ - আমদানিকৃত,খুচরা,retail,832,Onion-imported,পেঁয়াজ- আমদানীকৃত,2015-11-15,2015,11,November,44.0,48.0,46.0,2015-11-01,2015-11-30
+dam_historical_web,,,,বরিশাল সদর,পেঁয়াজ - দেশী,খুচরা,retail,831,Onion (local),পেঁয়াজ- দেশীয়,2015-11-15,2015,11,November,55.0,60.0,57.5,2015-11-01,2015-11-30
+dam_historical_web,,,,বরিশাল সদর,আলু (হল্যান্ড) - সাদা,খুচরা,retail,944,Potato (Holland) - White (Old),আলু (হলান্ড)- সাদা (পুরানো),2015-11-15,2015,11,November,25.0,27.0,26.0,2015-11-01,2015-11-30

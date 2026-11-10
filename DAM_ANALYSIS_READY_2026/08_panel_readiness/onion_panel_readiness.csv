@@ -1,0 +1,4 @@
+commodity_id,commodity_name,total_observations,total_markets,mean_obs_per_market,median_obs_per_market,min_obs_per_market,max_obs_per_market,markets_ge_6_obs,markets_ge_12_obs,markets_ge_18_obs,markets_ge_24_obs,markets_ge_36_obs,markets_ge_60_obs,suitability_assessment
+831,Onion (local),899,95,9.46,9.0,1,15,68,45,0,0,0,0,STRONG_PANEL
+832,Onion-imported,158,49,3.22,3.0,1,10,5,0,0,0,0,0,MODERATE_PANEL
+833,Onion (New),265,29,9.14,8.0,1,15,20,13,0,0,0,0,STRONG_PANEL

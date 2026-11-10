@@ -1,0 +1,12 @@
+﻿commodity_id,commodity_group_id,commodity_group_name_en,commodity_sub_group_id,commodity_sub_group_name_en,commodity_name_en,commodity_name_bn,unit_id,unit_grower,unit_wholesale,unit_retail
+831,32,Spices,217,Onion,Onion (local),পেঁয়াজ- দেশীয়,,1,1,2
+832,32,Spices,217,Onion,Onion-imported,পেঁয়াজ- আমদানীকৃত,,1,1,2
+833,32,Spices,217,Onion,Onion (New),পেঁয়াজ,,1,1,2
+942,43,Vegetable,265,Potato,Potato (Local) - Old,আলু (দেশীয়) - পুরানো,,1,1,2
+943,43,Vegetable,265,Potato,Potato (Local),আলু (দেশীয়),,1,1,2
+944,43,Vegetable,265,Potato,Potato (Holland) - White (Old),আলু (হলান্ড)- সাদা (পুরানো),,1,1,2
+945,43,Vegetable,265,Potato,Potato (Holland) - White (New),আলু (হল্যান্ড) - সাদা,,1,1,2
+946,43,Vegetable,265,Potato,Potato (Holland) - Red (Old),আলু (হল্যান্ড) - লাল (পুরানো),,1,1,2
+947,43,Vegetable,265,Potato,Potato (Holland) - Red,আলু (হল্যান্ড) - লাল,,1,1,2
+948,43,Vegetable,265,Potato,Sweet Potato,মিষ্টি আলু,,1,1,2
+21014,43,Vegetable,265,Potato,Potatoes-imported,আলু-আমদানীকৃৃত,,2,1,2

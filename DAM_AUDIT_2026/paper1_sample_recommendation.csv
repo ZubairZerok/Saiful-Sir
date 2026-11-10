@@ -1,0 +1,12 @@
+commodity,suitability,total_obs,total_markets,recommended_min_obs_per_market,recommended_min_consecutive_months,markets_after_filter,expected_obs_after_filter,recommendation
+Onion (local),STRONG,911,97,6,6,68,831,INCLUDE in Paper 1 sample
+Potato (Holland) - White (New),STRONG,688,82,6,6,51,601,INCLUDE in Paper 1 sample
+Potato (Holland) - Red,STRONG,452,52,6,6,38,418,INCLUDE in Paper 1 sample
+Potato (Local),STRONG,416,54,6,6,36,360,INCLUDE in Paper 1 sample
+Onion (New),STRONG,266,29,6,6,19,238,INCLUDE in Paper 1 sample
+Onion-imported,STRONG,201,50,6,6,6,66,INCLUDE in Paper 1 sample
+Potato (Holland) - White (Old),STRONG,160,23,6,6,15,143,INCLUDE in Paper 1 sample
+Potato (Holland) - Red (Old),STRONG,145,26,6,6,13,118,INCLUDE in Paper 1 sample
+Potato (Local) - Old,MODERATE,75,15,6,6,7,60,CONSIDER for Paper 1 (supplementary / robustness)
+Potatoes-imported,MODERATE,24,3,6,6,2,23,CONSIDER for Paper 1 (supplementary / robustness)
+Sweet Potato,WEAK,10,2,6,6,1,7,EXCLUDE — insufficient data for panel analysis

@@ -1,0 +1,434 @@
+﻿commodity_id,commodity_name_en,market_id,market_name,first_date,last_date,observations,years
+831,Onion (local),4,Mohammadpur Krishi Market,2025-08-07,2026-08-02,13,2
+831,Onion (local),8,kawran Bazar,2026-01-25,2026-08-02,8,1
+831,Onion (local),11,Mirpur 1 no. Bazar,2026-01-28,2026-08-02,8,1
+831,Onion (local),13,Rajshahi Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),15,Pirojpur Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),17,Narayanganj Sadar Bazar,2026-01-21,2026-08-04,8,1
+831,Onion (local),18,Magura Sadar Bazar,2025-07-07,2026-08-02,14,2
+831,Onion (local),19,Sunamganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),20,"Sadar Bazar, Pabna",2025-12-04,2026-01-01,2,2
+831,Onion (local),21,Sadar (Zia Bazar) Kurigram,2025-08-21,2026-08-02,13,2
+831,Onion (local),23,Brahmanbaria Sadar Bazar,2025-07-23,2026-08-02,14,2
+831,Onion (local),24,Moulvibazar Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),25,"Sadar Bazar, Madaripur",2025-06-15,2026-08-02,15,2
+831,Onion (local),26,Narsingdi Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),27,Barisal Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),28,Bhola Sadar Bazar,2025-06-04,2026-08-02,15,2
+831,Onion (local),29,Jamalpur Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),31,"Sadar Bazar, Thakurgaon",2025-06-15,2026-08-02,15,2
+831,Onion (local),32,Panchagarh Sadar Bazar,2025-06-04,2026-08-02,15,2
+831,Onion (local),33,Nilphamari Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),34,Barguna Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),35,Bandarban Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),36,Gaibandha Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),37,Khulna Sadar Bazar,2025-06-16,2026-08-02,15,2
+831,Onion (local),38,"City Bazar, Rangpur",2025-06-15,2026-08-02,15,2
+831,Onion (local),39,"Sadar Bazar, Lakshmipur",2025-06-15,2026-08-02,15,2
+831,Onion (local),42,"Goshala Bazar, Lalmonirhat",2025-09-18,2025-12-04,2,1
+831,Onion (local),43,Lalmonirhat Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),47,Rajbari Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),51,Sylhet Sadar Bazaar,2025-06-15,2026-08-02,15,2
+831,Onion (local),56,Comilla Sadar Bazar,2026-02-18,2026-08-02,7,1
+831,Onion (local),58,Meherpur Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),59,Munshiganj Sadar Bazar,2025-12-23,2026-08-02,9,2
+831,Onion (local),67,Bogra Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),68,Sherpur Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),74,Kangshanagar Bazar,2026-02-23,2026-07-02,6,1
+831,Onion (local),79,Chittagong Sadar Bazar,2025-06-15,2026-08-03,11,2
+831,Onion (local),81,"Pouro Super Market, Netrokona",2025-06-15,2026-08-02,15,2
+831,Onion (local),101,Jhalakathi Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),102,Chandpur Sadaar,2025-06-15,2026-08-02,15,2
+831,Onion (local),103,Cox's Bazar Sadar,2025-06-15,2026-08-02,15,2
+831,Onion (local),104,Feni Sadar,2025-06-15,2026-08-02,15,2
+831,Onion (local),105,Khagrachari Sadar Pouro Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),106,Noakhali Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),108,Kishoreganj Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),109,Manikganj Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),110,Shariatpur Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),111,Tangail Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),112,Jessore Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),116,Habiganj Sadar Bazar,2025-07-10,2026-08-02,14,2
+831,Onion (local),119,"Sultanpur Bazar, Satkhira",2025-06-15,2026-08-02,15,2
+831,Onion (local),125,Rupganj Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),127,Joydevpur market,2025-06-15,2026-08-02,15,2
+831,Onion (local),139,Nageshwari Bazar,2026-03-01,2026-08-02,6,1
+831,Onion (local),146,Rangamati Sadar Bazar,2025-06-15,2026-08-02,15,2
+831,Onion (local),169,Savar Bazar,2026-07-27,2026-08-03,2,1
+831,Onion (local),179,Trisal Bazar,2026-02-22,2026-08-02,5,1
+831,Onion (local),207,Madhupur Bazar,2026-02-22,2026-08-02,7,1
+831,Onion (local),241,Baneshor Bazar,2025-12-22,2026-08-02,6,2
+831,Onion (local),275,Chandina Bazar,2026-02-25,2026-08-02,7,1
+831,Onion (local),325,Sapahar Market,2025-12-23,2026-08-02,9,2
+831,Onion (local),327,Godagari Sadar Bazar,2026-01-04,2026-08-02,8,1
+831,Onion (local),329,Sherpur Sadar Bazar (Baroduari Bazar),2026-01-07,2026-02-01,2,1
+831,Onion (local),331,Dhanbari Bazar,2026-02-19,2026-08-02,7,1
+831,Onion (local),334,Kalaroa Bazar,2026-08-06,2026-08-06,1,1
+831,Onion (local),336,"Manirampur Bazar, Jessore",2026-07-28,2026-08-02,2,1
+831,Onion (local),337,Gangni Bazar,2026-07-23,2026-08-02,2,1
+831,Onion (local),340,Fulbaria Bazar,2026-07-16,2026-08-02,2,1
+831,Onion (local),341,Mohanganj Bazar,2026-03-01,2026-08-02,6,1
+831,Onion (local),345,Nazirpur Bazar,2026-07-26,2026-08-02,2,1
+831,Onion (local),346,Amtali Bazar,2026-03-10,2026-08-02,6,1
+831,Onion (local),348,Parbatipur Bazar,2026-04-28,2026-08-02,5,1
+831,Onion (local),349,Kaliganj Bazar,2026-08-03,2026-08-03,1,1
+831,Onion (local),350,Saidpur Bazar,2026-08-01,2026-08-01,1,1
+831,Onion (local),351,Domar Bazar,2026-08-03,2026-08-03,1,1
+831,Onion (local),352,Mithapukur Bazar,2026-05-07,2026-08-02,4,1
+831,Onion (local),353,Kamalganj Bazar,2026-07-08,2026-08-02,2,1
+831,Onion (local),355,Beanibazar Market,2026-02-22,2026-05-03,4,1
+831,Onion (local),356,Golapganj Bazar,2026-03-10,2026-08-02,6,1
+831,Onion (local),357,Tungipara Bazar,2026-07-26,2026-08-02,2,1
+831,Onion (local),358,Bajitpur Bazar,2026-03-01,2026-08-02,5,1
+831,Onion (local),359,Saturia Bazar,2026-04-05,2026-08-02,5,1
+831,Onion (local),360,Singair Bazar,2026-03-04,2026-08-02,6,1
+831,Onion (local),362,Shibpur Bazar,2026-02-23,2026-04-01,3,1
+831,Onion (local),364,Chakaria Bazar,2026-08-04,2026-08-04,1,1
+831,Onion (local),366,Lalmai Bazar,2026-04-07,2026-08-13,2,1
+831,Onion (local),367,Raipur Bazar,2026-02-26,2026-08-02,7,1
+831,Onion (local),369,Begumganj Bazar,2026-03-01,2026-08-02,6,1
+831,Onion (local),370,Burichong Bazar,2026-08-02,2026-08-02,1,1
+831,Onion (local),371,Amtoli Bazar,2026-04-01,2026-08-02,5,1
+831,Onion (local),372,Chagalnaiya Bazar,2026-02-26,2026-08-02,7,1
+831,Onion (local),374,Kaukhali Bazar,2026-03-01,2026-08-02,6,1
+831,Onion (local),375,Gobindaganj Bazar,2026-03-02,2026-08-02,6,1
+831,Onion (local),379,Kaptai Bazar,2026-03-01,2026-08-02,6,1
+831,Onion (local),380,Lama Bazar,2026-04-16,2026-08-02,5,1
+831,Onion (local),383,Banyachong Market,2026-05-18,2026-08-02,4,1
+831,Onion (local),384,Navaron Bazar,2026-08-02,2026-08-02,1,1
+832,Onion-imported,4,Mohammadpur Krishi Market,2025-12-30,2026-01-01,2,2
+832,Onion-imported,8,kawran Bazar,2026-01-25,2026-01-25,1,1
+832,Onion-imported,13,Rajshahi Sadar Bazar,2025-06-15,2026-08-02,15,2
+832,Onion-imported,15,Pirojpur Sadar Bazar,2025-12-22,2026-01-01,2,2
+832,Onion-imported,19,Sunamganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+832,Onion-imported,21,Sadar (Zia Bazar) Kurigram,2025-08-21,2026-03-01,7,2
+832,Onion-imported,23,Brahmanbaria Sadar Bazar,2025-12-17,2026-01-01,2,2
+832,Onion-imported,24,Moulvibazar Sadar Bazar,2025-06-15,2026-02-01,6,2
+832,Onion-imported,26,Narsingdi Sadar Bazar,2025-12-18,2026-01-01,2,2
+832,Onion-imported,28,Bhola Sadar Bazar,2025-12-21,2026-02-01,3,2
+832,Onion-imported,31,"Sadar Bazar, Thakurgaon",2025-12-17,2026-02-01,3,2
+832,Onion-imported,32,Panchagarh Sadar Bazar,2025-08-19,2026-02-09,5,2
+832,Onion-imported,33,Nilphamari Sadar Bazar,2025-12-21,2026-01-01,2,2
+832,Onion-imported,34,Barguna Sadar Bazar,2025-06-15,2026-01-01,5,2
+832,Onion-imported,35,Bandarban Sadar Bazar,2025-08-21,2026-02-01,5,2
+832,Onion-imported,36,Gaibandha Sadar Bazar,2025-08-25,2025-08-25,1,1
+832,Onion-imported,38,"City Bazar, Rangpur",2025-08-27,2026-01-01,4,2
+832,Onion-imported,39,"Sadar Bazar, Lakshmipur",2025-08-28,2026-02-01,5,2
+832,Onion-imported,42,"Goshala Bazar, Lalmonirhat",2025-09-18,2025-12-04,2,1
+832,Onion-imported,43,Lalmonirhat Sadar Bazar,2025-08-24,2026-01-01,4,2
+832,Onion-imported,44,"Mechua Bazar, Mymensingh",2025-08-19,2026-01-01,4,2
+832,Onion-imported,50,Chuadanga Sadar Bazaar,2025-12-21,2026-01-01,2,2
+832,Onion-imported,51,Sylhet Sadar Bazaar,2025-06-15,2026-03-01,9,2
+832,Onion-imported,53,"Bahadur Bazar, Dinajpur",2025-08-19,2026-01-01,4,2
+832,Onion-imported,56,Comilla Sadar Bazar,2025-06-15,2026-03-01,10,2
+832,Onion-imported,59,Munshiganj Sadar Bazar,2025-12-17,2026-03-02,4,2
+832,Onion-imported,62,Bagerhat Sadar Bazar,2025-12-17,2025-12-17,1,1
+832,Onion-imported,66,Joypurhat Sadar Bazar,2025-12-18,2025-12-18,1,1
+832,Onion-imported,68,Sherpur Sadar Bazar,2025-10-05,2025-12-18,3,1
+832,Onion-imported,79,Chittagong Sadar Bazar,2025-06-15,2026-02-01,5,2
+832,Onion-imported,81,"Pouro Super Market, Netrokona",2025-08-28,2025-09-01,2,1
+832,Onion-imported,101,Jhalakathi Sadar Bazar,2025-12-18,2026-01-01,2,2
+832,Onion-imported,102,Chandpur Sadaar,2025-12-28,2026-02-01,3,2
+832,Onion-imported,103,Cox's Bazar Sadar,2025-06-15,2026-02-01,9,2
+832,Onion-imported,104,Feni Sadar,2025-12-10,2026-02-01,3,2
+832,Onion-imported,105,Khagrachari Sadar Pouro Bazar,2025-12-17,2026-02-01,3,2
+832,Onion-imported,106,Noakhali Sadar Bazar,2026-01-25,2026-02-01,2,1
+832,Onion-imported,108,Kishoreganj Bazar,2025-08-18,2026-01-01,4,2
+832,Onion-imported,110,Shariatpur Bazar,2025-12-17,2025-12-17,1,1
+832,Onion-imported,116,Habiganj Sadar Bazar,2025-12-17,2026-01-01,2,2
+832,Onion-imported,119,"Sultanpur Bazar, Satkhira",2025-08-24,2026-02-01,4,2
+832,Onion-imported,125,Rupganj Bazar,2025-12-21,2025-12-21,1,1
+832,Onion-imported,127,Joydevpur market,2025-12-17,2026-01-01,2,2
+832,Onion-imported,146,Rangamati Sadar Bazar,2025-08-27,2026-02-01,5,2
+832,Onion-imported,232,Chapainawabganj Sadar Bazar,2025-08-19,2026-01-01,4,2
+832,Onion-imported,326,Shibgonj Sadar Bazar,2025-12-24,2026-01-04,2,2
+832,Onion-imported,327,Godagari Sadar Bazar,2026-01-04,2026-08-02,8,1
+832,Onion-imported,355,Beanibazar Market,2026-02-22,2026-03-01,2,1
+832,Onion-imported,356,Golapganj Bazar,2026-03-10,2026-05-03,3,1
+832,Onion-imported,380,Lama Bazar,2026-04-16,2026-08-02,5,1
+833,Onion (New),4,Mohammadpur Krishi Market,2025-06-15,2025-08-03,3,1
+833,Onion (New),17,Narayanganj Sadar Bazar,2025-06-18,2026-01-04,8,2
+833,Onion (New),18,Magura Sadar Bazar,2025-06-15,2025-07-01,2,1
+833,Onion (New),20,"Sadar Bazar, Pabna",2025-06-15,2026-08-02,15,2
+833,Onion (New),21,Sadar (Zia Bazar) Kurigram,2025-06-15,2025-08-03,3,1
+833,Onion (New),23,Brahmanbaria Sadar Bazar,2025-06-15,2025-07-01,2,1
+833,Onion (New),30,Naogaon Sadar Bazar,2025-06-15,2026-08-02,15,2
+833,Onion (New),44,"Mechua Bazar, Mymensingh",2025-06-15,2026-08-02,15,2
+833,Onion (New),50,Chuadanga Sadar Bazaar,2025-06-15,2026-08-02,15,2
+833,Onion (New),52,Faridpur Sadar Bazar,2025-06-15,2026-08-02,15,2
+833,Onion (New),53,"Bahadur Bazar, Dinajpur",2025-06-16,2026-08-02,15,2
+833,Onion (New),54,Gopaldanj Sadar Boro Bazar,2025-06-15,2026-08-02,15,2
+833,Onion (New),56,Comilla Sadar Bazar,2025-06-15,2025-12-01,7,1
+833,Onion (New),57,Jhenaidah Sadar Paura Boro Bazar,2025-06-15,2026-08-02,15,2
+833,Onion (New),59,Munshiganj Sadar Bazar,2025-06-15,2025-12-01,7,1
+833,Onion (New),62,Bagerhat Sadar Bazar,2025-06-15,2026-08-02,15,2
+833,Onion (New),65,Kushtia Sadar Bazar,2025-06-14,2026-08-02,15,2
+833,Onion (New),66,Joypurhat Sadar Bazar,2025-06-16,2026-08-02,15,2
+833,Onion (New),68,Sherpur Sadar Bazar,2025-12-01,2025-12-01,1,1
+833,Onion (New),70,Patuakhali Sadar Bazar,2025-06-15,2025-11-04,6,1
+833,Onion (New),114,Nator Bazar,2025-06-15,2026-08-02,15,2
+833,Onion (New),115,Sirajganj Sadar Bazar,2025-06-18,2026-07-02,7,2
+833,Onion (New),116,Habiganj Sadar Bazar,2025-06-15,2025-07-01,2,1
+833,Onion (New),232,Chapainawabganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+833,Onion (New),326,Shibgonj Sadar Bazar,2025-12-24,2026-08-02,9,2
+833,Onion (New),335,Dumuria Bazar,2026-06-25,2026-08-02,3,1
+833,Onion (New),338,Damurhuda Bazar,2026-07-07,2026-08-02,2,1
+833,Onion (New),354,Srimangal Bazar,2026-06-25,2026-08-02,3,1
+833,Onion (New),377,"Kaliganj Bazar,",2026-03-29,2026-08-02,6,1
+942,Potato (Local) - Old,4,Mohammadpur Krishi Market,2025-08-07,2025-12-01,5,1
+942,Potato (Local) - Old,13,Rajshahi Sadar Bazar,2025-06-15,2026-08-02,15,2
+942,Potato (Local) - Old,20,"Sadar Bazar, Pabna",2025-12-08,2025-12-08,1,1
+942,Potato (Local) - Old,26,Narsingdi Sadar Bazar,2025-11-30,2025-12-01,2,1
+942,Potato (Local) - Old,30,Naogaon Sadar Bazar,2025-07-27,2026-01-01,7,2
+942,Potato (Local) - Old,31,"Sadar Bazar, Thakurgaon",2025-07-08,2026-01-01,7,2
+942,Potato (Local) - Old,32,Panchagarh Sadar Bazar,2025-06-04,2025-06-04,1,1
+942,Potato (Local) - Old,51,Sylhet Sadar Bazaar,2025-06-15,2026-01-01,8,2
+942,Potato (Local) - Old,65,Kushtia Sadar Bazar,2025-06-16,2025-06-16,1,1
+942,Potato (Local) - Old,111,Tangail Bazar,2025-06-15,2025-12-01,7,1
+942,Potato (Local) - Old,114,Nator Bazar,2025-06-15,2025-08-03,3,1
+942,Potato (Local) - Old,116,Habiganj Sadar Bazar,2025-06-15,2026-01-01,8,2
+942,Potato (Local) - Old,207,Madhupur Bazar,2026-02-22,2026-02-22,1,1
+942,Potato (Local) - Old,327,Godagari Sadar Bazar,2026-01-04,2026-08-02,8,1
+942,Potato (Local) - Old,349,Kaliganj Bazar,2026-08-03,2026-08-03,1,1
+943,Potato (Local),4,Mohammadpur Krishi Market,2025-12-22,2026-08-02,9,2
+943,Potato (Local),8,kawran Bazar,2026-01-25,2026-08-02,8,1
+943,Potato (Local),11,Mirpur 1 no. Bazar,2026-01-28,2026-08-02,8,1
+943,Potato (Local),13,Rajshahi Sadar Bazar,2025-06-15,2026-08-02,15,2
+943,Potato (Local),15,Pirojpur Sadar Bazar,2025-12-17,2026-01-01,2,2
+943,Potato (Local),17,Narayanganj Sadar Bazar,2025-06-18,2026-08-04,15,2
+943,Potato (Local),20,"Sadar Bazar, Pabna",2025-12-08,2026-05-03,6,2
+943,Potato (Local),21,Sadar (Zia Bazar) Kurigram,2025-06-15,2026-08-02,15,2
+943,Potato (Local),23,Brahmanbaria Sadar Bazar,2026-06-29,2026-08-02,3,1
+943,Potato (Local),24,Moulvibazar Sadar Bazar,2025-11-30,2026-03-01,5,2
+943,Potato (Local),26,Narsingdi Sadar Bazar,2025-06-15,2026-06-01,10,2
+943,Potato (Local),28,Bhola Sadar Bazar,2025-06-04,2026-08-02,15,2
+943,Potato (Local),30,Naogaon Sadar Bazar,2025-06-15,2026-08-02,11,2
+943,Potato (Local),31,"Sadar Bazar, Thakurgaon",2025-06-15,2026-08-02,9,2
+943,Potato (Local),32,Panchagarh Sadar Bazar,2025-12-17,2026-08-02,9,2
+943,Potato (Local),36,Gaibandha Sadar Bazar,2025-06-15,2026-08-02,15,2
+943,Potato (Local),43,Lalmonirhat Sadar Bazar,2025-06-15,2026-08-02,15,2
+943,Potato (Local),44,"Mechua Bazar, Mymensingh",2026-04-22,2026-08-02,5,1
+943,Potato (Local),50,Chuadanga Sadar Bazaar,2025-12-08,2026-08-02,9,2
+943,Potato (Local),51,Sylhet Sadar Bazaar,2026-01-20,2026-08-02,8,1
+943,Potato (Local),66,Joypurhat Sadar Bazar,2025-06-16,2026-08-02,15,2
+943,Potato (Local),67,Bogra Sadar Bazar,2025-06-15,2026-08-02,15,2
+943,Potato (Local),70,Patuakhali Sadar Bazar,2025-06-15,2025-11-04,6,1
+943,Potato (Local),79,Chittagong Sadar Bazar,2025-06-15,2026-03-01,6,2
+943,Potato (Local),81,"Pouro Super Market, Netrokona",2025-06-15,2026-08-02,15,2
+943,Potato (Local),105,Khagrachari Sadar Pouro Bazar,2025-12-30,2026-07-01,8,2
+943,Potato (Local),110,Shariatpur Bazar,2025-06-15,2026-08-02,15,2
+943,Potato (Local),111,Tangail Bazar,2025-12-23,2026-08-02,9,2
+943,Potato (Local),114,Nator Bazar,2025-12-23,2026-07-01,8,2
+943,Potato (Local),115,Sirajganj Sadar Bazar,2025-06-18,2026-07-02,7,2
+943,Potato (Local),116,Habiganj Sadar Bazar,2026-01-04,2026-08-02,8,1
+943,Potato (Local),119,"Sultanpur Bazar, Satkhira",2025-12-23,2026-02-01,3,2
+943,Potato (Local),125,Rupganj Bazar,2025-12-07,2026-01-01,2,2
+943,Potato (Local),139,Nageshwari Bazar,2026-03-01,2026-08-02,6,1
+943,Potato (Local),146,Rangamati Sadar Bazar,2025-12-30,2026-07-02,8,2
+943,Potato (Local),169,Savar Bazar,2026-07-27,2026-08-03,2,1
+943,Potato (Local),179,Trisal Bazar,2026-02-22,2026-08-02,5,1
+943,Potato (Local),232,Chapainawabganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+943,Potato (Local),325,Sapahar Market,2025-12-24,2026-08-02,9,2
+943,Potato (Local),326,Shibgonj Sadar Bazar,2025-12-24,2026-02-02,3,2
+943,Potato (Local),327,Godagari Sadar Bazar,2026-01-04,2026-08-02,8,1
+943,Potato (Local),329,Sherpur Sadar Bazar (Baroduari Bazar),2026-01-07,2026-02-01,2,1
+943,Potato (Local),331,Dhanbari Bazar,2026-02-19,2026-08-02,7,1
+943,Potato (Local),338,Damurhuda Bazar,2026-07-07,2026-08-02,2,1
+943,Potato (Local),340,Fulbaria Bazar,2026-07-16,2026-08-02,2,1
+943,Potato (Local),341,Mohanganj Bazar,2026-03-01,2026-08-02,6,1
+943,Potato (Local),350,Saidpur Bazar,2026-08-03,2026-08-03,1,1
+943,Potato (Local),352,Mithapukur Bazar,2026-03-31,2026-08-02,6,1
+943,Potato (Local),355,Beanibazar Market,2026-02-22,2026-05-03,4,1
+943,Potato (Local),356,Golapganj Bazar,2026-03-10,2026-08-02,6,1
+943,Potato (Local),362,Shibpur Bazar,2026-04-05,2026-04-05,1,1
+943,Potato (Local),367,Raipur Bazar,2026-02-26,2026-08-02,7,1
+943,Potato (Local),375,Gobindaganj Bazar,2026-03-02,2026-08-02,6,1
+943,Potato (Local),379,Kaptai Bazar,2026-03-01,2026-03-01,1,1
+944,Potato (Holland) - White (Old),13,Rajshahi Sadar Bazar,2025-06-15,2026-08-02,15,2
+944,Potato (Holland) - White (Old),19,Sunamganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+944,Potato (Holland) - White (Old),23,Brahmanbaria Sadar Bazar,2026-01-04,2026-01-04,1,1
+944,Potato (Holland) - White (Old),26,Narsingdi Sadar Bazar,2025-11-30,2026-02-01,4,2
+944,Potato (Holland) - White (Old),29,Jamalpur Sadar Bazar,2025-06-15,2026-02-01,9,2
+944,Potato (Holland) - White (Old),30,Naogaon Sadar Bazar,2025-07-27,2026-01-01,7,2
+944,Potato (Holland) - White (Old),31,"Sadar Bazar, Thakurgaon",2025-07-16,2026-01-01,7,2
+944,Potato (Holland) - White (Old),34,Barguna Sadar Bazar,2026-01-07,2026-02-01,2,1
+944,Potato (Holland) - White (Old),51,Sylhet Sadar Bazaar,2025-06-15,2026-03-01,10,2
+944,Potato (Holland) - White (Old),59,Munshiganj Sadar Bazar,2026-01-14,2026-02-01,2,1
+944,Potato (Holland) - White (Old),65,Kushtia Sadar Bazar,2025-06-14,2026-08-02,15,2
+944,Potato (Holland) - White (Old),103,Cox's Bazar Sadar,2026-01-12,2026-02-01,2,1
+944,Potato (Holland) - White (Old),105,Khagrachari Sadar Pouro Bazar,2025-07-27,2026-02-01,8,2
+944,Potato (Holland) - White (Old),106,Noakhali Sadar Bazar,2026-01-14,2026-02-01,2,1
+944,Potato (Holland) - White (Old),109,Manikganj Bazar,2025-06-15,2026-01-01,8,2
+944,Potato (Holland) - White (Old),111,Tangail Bazar,2025-06-15,2025-12-01,7,1
+944,Potato (Holland) - White (Old),116,Habiganj Sadar Bazar,2025-06-15,2026-01-01,8,2
+944,Potato (Holland) - White (Old),119,"Sultanpur Bazar, Satkhira",2025-06-15,2026-02-01,9,2
+944,Potato (Holland) - White (Old),125,Rupganj Bazar,2025-06-15,2026-01-01,8,2
+944,Potato (Holland) - White (Old),146,Rangamati Sadar Bazar,2025-07-20,2026-03-01,9,2
+944,Potato (Holland) - White (Old),327,Godagari Sadar Bazar,2026-01-04,2026-08-02,8,1
+944,Potato (Holland) - White (Old),353,Kamalganj Bazar,2026-07-08,2026-08-02,2,1
+944,Potato (Holland) - White (Old),355,Beanibazar Market,2026-02-22,2026-03-01,2,1
+945,Potato (Holland) - White (New),4,Mohammadpur Krishi Market,2025-06-15,2025-08-03,3,1
+945,Potato (Holland) - White (New),13,Rajshahi Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),15,Pirojpur Sadar Bazar,2026-01-05,2026-08-02,8,1
+945,Potato (Holland) - White (New),18,Magura Sadar Bazar,2025-12-17,2026-02-01,3,2
+945,Potato (Holland) - White (New),19,Sunamganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),20,"Sadar Bazar, Pabna",2025-12-17,2026-04-01,5,2
+945,Potato (Holland) - White (New),21,Sadar (Zia Bazar) Kurigram,2025-12-10,2025-12-10,1,1
+945,Potato (Holland) - White (New),23,Brahmanbaria Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),24,Moulvibazar Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),25,"Sadar Bazar, Madaripur",2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),26,Narsingdi Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),29,Jamalpur Sadar Bazar,2025-12-18,2026-08-02,9,2
+945,Potato (Holland) - White (New),30,Naogaon Sadar Bazar,2025-06-15,2026-08-02,11,2
+945,Potato (Holland) - White (New),31,"Sadar Bazar, Thakurgaon",2025-06-15,2026-08-02,9,2
+945,Potato (Holland) - White (New),32,Panchagarh Sadar Bazar,2026-01-01,2026-02-01,2,1
+945,Potato (Holland) - White (New),34,Barguna Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),35,Bandarban Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),36,Gaibandha Sadar Bazar,2025-12-18,2026-01-01,2,2
+945,Potato (Holland) - White (New),37,Khulna Sadar Bazar,2025-06-16,2026-08-02,15,2
+945,Potato (Holland) - White (New),39,"Sadar Bazar, Lakshmipur",2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),44,"Mechua Bazar, Mymensingh",2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),47,Rajbari Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),51,Sylhet Sadar Bazaar,2025-11-30,2026-08-02,10,2
+945,Potato (Holland) - White (New),53,"Bahadur Bazar, Dinajpur",2025-06-16,2026-08-02,15,2
+945,Potato (Holland) - White (New),54,Gopaldanj Sadar Boro Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),56,Comilla Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),57,Jhenaidah Sadar Paura Boro Bazar,2025-12-15,2026-03-01,4,2
+945,Potato (Holland) - White (New),58,Meherpur Sadar Bazar,2025-12-11,2026-08-02,9,2
+945,Potato (Holland) - White (New),59,Munshiganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),62,Bagerhat Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),67,Bogra Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),68,Sherpur Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),74,Kangshanagar Bazar,2026-02-23,2026-07-02,6,1
+945,Potato (Holland) - White (New),79,Chittagong Sadar Bazar,2025-12-21,2026-08-03,9,2
+945,Potato (Holland) - White (New),81,"Pouro Super Market, Netrokona",2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),101,Jhalakathi Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),102,Chandpur Sadaar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),103,Cox's Bazar Sadar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),104,Feni Sadar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),105,Khagrachari Sadar Pouro Bazar,2025-06-15,2026-08-02,10,2
+945,Potato (Holland) - White (New),106,Noakhali Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),108,Kishoreganj Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),109,Manikganj Bazar,2025-12-28,2026-08-02,9,2
+945,Potato (Holland) - White (New),111,Tangail Bazar,2025-12-23,2026-08-02,9,2
+945,Potato (Holland) - White (New),112,Jessore Sadar Bazar,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),114,Nator Bazar,2025-12-14,2025-12-14,1,1
+945,Potato (Holland) - White (New),116,Habiganj Sadar Bazar,2026-01-04,2026-08-02,8,1
+945,Potato (Holland) - White (New),119,"Sultanpur Bazar, Satkhira",2025-12-17,2026-08-02,8,2
+945,Potato (Holland) - White (New),125,Rupganj Bazar,2026-02-01,2026-08-02,7,1
+945,Potato (Holland) - White (New),127,Joydevpur market,2025-06-15,2026-08-02,15,2
+945,Potato (Holland) - White (New),146,Rangamati Sadar Bazar,2025-06-15,2026-08-02,5,2
+945,Potato (Holland) - White (New),179,Trisal Bazar,2026-08-12,2026-08-12,1,1
+945,Potato (Holland) - White (New),207,Madhupur Bazar,2026-02-22,2026-02-22,1,1
+945,Potato (Holland) - White (New),275,Chandina Bazar,2026-02-25,2026-08-02,7,1
+945,Potato (Holland) - White (New),325,Sapahar Market,2025-12-23,2025-12-23,1,1
+945,Potato (Holland) - White (New),327,Godagari Sadar Bazar,2026-01-04,2026-08-02,8,1
+945,Potato (Holland) - White (New),329,Sherpur Sadar Bazar (Baroduari Bazar),2026-01-07,2026-02-01,2,1
+945,Potato (Holland) - White (New),334,Kalaroa Bazar,2026-02-24,2026-08-02,7,1
+945,Potato (Holland) - White (New),335,Dumuria Bazar,2026-06-15,2026-08-02,3,1
+945,Potato (Holland) - White (New),336,"Manirampur Bazar, Jessore",2026-07-28,2026-08-02,2,1
+945,Potato (Holland) - White (New),337,Gangni Bazar,2026-07-23,2026-08-02,2,1
+945,Potato (Holland) - White (New),340,Fulbaria Bazar,2026-07-15,2026-08-02,2,1
+945,Potato (Holland) - White (New),341,Mohanganj Bazar,2026-03-01,2026-08-02,6,1
+945,Potato (Holland) - White (New),345,Nazirpur Bazar,2026-07-26,2026-08-02,2,1
+945,Potato (Holland) - White (New),346,Amtali Bazar,2026-03-10,2026-08-02,6,1
+945,Potato (Holland) - White (New),348,Parbatipur Bazar,2026-04-28,2026-08-02,5,1
+945,Potato (Holland) - White (New),354,Srimangal Bazar,2026-06-25,2026-08-02,3,1
+945,Potato (Holland) - White (New),355,Beanibazar Market,2026-02-22,2026-05-03,4,1
+945,Potato (Holland) - White (New),357,Tungipara Bazar,2026-07-26,2026-08-02,2,1
+945,Potato (Holland) - White (New),358,Bajitpur Bazar,2026-03-01,2026-08-02,5,1
+945,Potato (Holland) - White (New),359,Saturia Bazar,2026-04-02,2026-08-02,5,1
+945,Potato (Holland) - White (New),360,Singair Bazar,2026-03-04,2026-08-02,6,1
+945,Potato (Holland) - White (New),362,Shibpur Bazar,2026-02-23,2026-04-01,3,1
+945,Potato (Holland) - White (New),364,Chakaria Bazar,2026-08-04,2026-08-04,1,1
+945,Potato (Holland) - White (New),366,Lalmai Bazar,2026-04-07,2026-08-13,2,1
+945,Potato (Holland) - White (New),369,Begumganj Bazar,2026-03-01,2026-08-02,6,1
+945,Potato (Holland) - White (New),370,Burichong Bazar,2026-08-02,2026-08-02,1,1
+945,Potato (Holland) - White (New),371,Amtoli Bazar,2026-04-01,2026-08-02,5,1
+945,Potato (Holland) - White (New),372,Chagalnaiya Bazar,2026-02-26,2026-08-02,7,1
+945,Potato (Holland) - White (New),374,Kaukhali Bazar,2026-03-01,2026-08-02,6,1
+945,Potato (Holland) - White (New),380,Lama Bazar,2026-04-16,2026-08-02,5,1
+945,Potato (Holland) - White (New),383,Banyachong Market,2026-05-18,2026-08-02,4,1
+946,Potato (Holland) - Red (Old),13,Rajshahi Sadar Bazar,2025-12-11,2026-08-02,9,2
+946,Potato (Holland) - Red (Old),18,Magura Sadar Bazar,2025-12-17,2026-02-01,3,2
+946,Potato (Holland) - Red (Old),19,Sunamganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+946,Potato (Holland) - Red (Old),20,"Sadar Bazar, Pabna",2025-12-23,2026-01-01,2,2
+946,Potato (Holland) - Red (Old),31,"Sadar Bazar, Thakurgaon",2025-07-08,2026-01-01,7,2
+946,Potato (Holland) - Red (Old),32,Panchagarh Sadar Bazar,2025-06-04,2025-12-02,7,1
+946,Potato (Holland) - Red (Old),33,Nilphamari Sadar Bazar,2025-12-15,2026-02-01,3,2
+946,Potato (Holland) - Red (Old),36,Gaibandha Sadar Bazar,2025-12-11,2026-01-01,2,2
+946,Potato (Holland) - Red (Old),38,"City Bazar, Rangpur",2025-12-14,2026-02-01,3,2
+946,Potato (Holland) - Red (Old),42,"Goshala Bazar, Lalmonirhat",2025-09-18,2025-12-04,2,1
+946,Potato (Holland) - Red (Old),51,Sylhet Sadar Bazaar,2025-06-15,2026-01-01,8,2
+946,Potato (Holland) - Red (Old),57,Jhenaidah Sadar Paura Boro Bazar,2025-12-15,2026-02-01,3,2
+946,Potato (Holland) - Red (Old),65,Kushtia Sadar Bazar,2025-06-14,2026-08-02,15,2
+946,Potato (Holland) - Red (Old),109,Manikganj Bazar,2025-06-15,2026-01-01,8,2
+946,Potato (Holland) - Red (Old),111,Tangail Bazar,2025-06-15,2025-12-01,7,1
+946,Potato (Holland) - Red (Old),114,Nator Bazar,2025-06-15,2026-01-01,8,2
+946,Potato (Holland) - Red (Old),119,"Sultanpur Bazar, Satkhira",2025-06-15,2026-02-01,9,2
+946,Potato (Holland) - Red (Old),125,Rupganj Bazar,2025-06-15,2026-01-01,8,2
+946,Potato (Holland) - Red (Old),179,Trisal Bazar,2026-08-11,2026-08-11,1,1
+946,Potato (Holland) - Red (Old),207,Madhupur Bazar,2026-02-22,2026-02-22,1,1
+946,Potato (Holland) - Red (Old),241,Baneshor Bazar,2026-05-14,2026-08-02,4,1
+946,Potato (Holland) - Red (Old),325,Sapahar Market,2025-12-23,2026-08-02,9,2
+946,Potato (Holland) - Red (Old),327,Godagari Sadar Bazar,2026-01-04,2026-08-02,8,1
+946,Potato (Holland) - Red (Old),339,Sharsha Bazar,2026-07-26,2026-07-26,1,1
+946,Potato (Holland) - Red (Old),349,Kaliganj Bazar,2026-08-03,2026-08-03,1,1
+946,Potato (Holland) - Red (Old),384,Navaron Bazar,2026-08-02,2026-08-02,1,1
+947,Potato (Holland) - Red,13,Rajshahi Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,18,Magura Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,20,"Sadar Bazar, Pabna",2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,21,Sadar (Zia Bazar) Kurigram,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,30,Naogaon Sadar Bazar,2025-12-14,2025-12-14,1,1
+947,Potato (Holland) - Red,31,"Sadar Bazar, Thakurgaon",2025-06-15,2026-08-02,9,2
+947,Potato (Holland) - Red,32,Panchagarh Sadar Bazar,2026-02-05,2026-08-02,7,1
+947,Potato (Holland) - Red,33,Nilphamari Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,34,Barguna Sadar Bazar,2025-12-28,2026-01-01,2,2
+947,Potato (Holland) - Red,36,Gaibandha Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,37,Khulna Sadar Bazar,2026-01-28,2026-08-02,8,1
+947,Potato (Holland) - Red,38,"City Bazar, Rangpur",2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,43,Lalmonirhat Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,50,Chuadanga Sadar Bazaar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,52,Faridpur Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,53,"Bahadur Bazar, Dinajpur",2025-06-16,2026-08-02,15,2
+947,Potato (Holland) - Red,54,Gopaldanj Sadar Boro Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,57,Jhenaidah Sadar Paura Boro Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,58,Meherpur Sadar Bazar,2025-06-15,2026-02-01,9,2
+947,Potato (Holland) - Red,62,Bagerhat Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,66,Joypurhat Sadar Bazar,2025-06-16,2026-08-02,15,2
+947,Potato (Holland) - Red,67,Bogra Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,106,Noakhali Sadar Bazar,2025-06-15,2026-01-01,8,2
+947,Potato (Holland) - Red,109,Manikganj Bazar,2026-01-26,2026-08-02,8,1
+947,Potato (Holland) - Red,111,Tangail Bazar,2025-12-23,2026-08-02,9,2
+947,Potato (Holland) - Red,114,Nator Bazar,2026-01-01,2026-08-02,8,1
+947,Potato (Holland) - Red,115,Sirajganj Sadar Bazar,2025-06-18,2026-07-02,7,2
+947,Potato (Holland) - Red,119,"Sultanpur Bazar, Satkhira",2026-02-05,2026-08-02,7,1
+947,Potato (Holland) - Red,125,Rupganj Bazar,2026-02-01,2026-08-02,7,1
+947,Potato (Holland) - Red,127,Joydevpur market,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,139,Nageshwari Bazar,2026-03-01,2026-08-02,6,1
+947,Potato (Holland) - Red,207,Madhupur Bazar,2026-02-23,2026-08-02,7,1
+947,Potato (Holland) - Red,232,Chapainawabganj Sadar Bazar,2025-06-15,2026-08-02,15,2
+947,Potato (Holland) - Red,241,Baneshor Bazar,2026-05-14,2026-08-02,4,1
+947,Potato (Holland) - Red,325,Sapahar Market,2025-12-23,2025-12-23,1,1
+947,Potato (Holland) - Red,326,Shibgonj Sadar Bazar,2025-12-24,2026-08-02,9,2
+947,Potato (Holland) - Red,327,Godagari Sadar Bazar,2026-01-04,2026-08-02,8,1
+947,Potato (Holland) - Red,329,Sherpur Sadar Bazar (Baroduari Bazar),2026-01-07,2026-02-01,2,1
+947,Potato (Holland) - Red,331,Dhanbari Bazar,2026-02-19,2026-08-02,7,1
+947,Potato (Holland) - Red,334,Kalaroa Bazar,2026-02-24,2026-08-02,7,1
+947,Potato (Holland) - Red,339,Sharsha Bazar,2026-07-26,2026-07-26,1,1
+947,Potato (Holland) - Red,340,Fulbaria Bazar,2026-07-16,2026-07-16,1,1
+947,Potato (Holland) - Red,348,Parbatipur Bazar,2026-04-28,2026-08-02,5,1
+947,Potato (Holland) - Red,350,Saidpur Bazar,2026-08-01,2026-08-01,1,1
+947,Potato (Holland) - Red,351,Domar Bazar,2026-08-03,2026-08-03,1,1
+947,Potato (Holland) - Red,352,Mithapukur Bazar,2026-03-12,2026-08-02,6,1
+947,Potato (Holland) - Red,357,Tungipara Bazar,2026-07-26,2026-08-02,2,1
+947,Potato (Holland) - Red,358,Bajitpur Bazar,2026-03-01,2026-03-01,1,1
+947,Potato (Holland) - Red,359,Saturia Bazar,2026-04-02,2026-08-02,5,1
+947,Potato (Holland) - Red,360,Singair Bazar,2026-03-04,2026-08-02,6,1
+947,Potato (Holland) - Red,375,Gobindaganj Bazar,2026-03-02,2026-08-02,6,1
+947,Potato (Holland) - Red,377,"Kaliganj Bazar,",2026-03-29,2026-08-02,6,1
+948,Sweet Potato,59,Munshiganj Sadar Bazar,2025-06-15,2025-08-03,3,1
+948,Sweet Potato,146,Rangamati Sadar Bazar,2026-01-27,2026-07-02,7,1
+21014,Potatoes-imported,15,Pirojpur Sadar Bazar,2025-06-15,2026-01-01,8,2
+21014,Potatoes-imported,27,Barisal Sadar Bazar,2025-06-15,2026-08-02,15,2
+21014,Potatoes-imported,50,Chuadanga Sadar Bazaar,2025-12-18,2025-12-18,1,1

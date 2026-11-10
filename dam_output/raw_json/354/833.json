@@ -1,0 +1,98 @@
+{
+  "http_status": 200,
+  "response": {
+    "success": true,
+    "message": "data found!",
+    "data": [
+      {
+        "commodity_id": 833,
+        "w_lowestPrice": "2400.00",
+        "w_highestPrice": "2800.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "28.00",
+        "r_highestPrice": "33.00",
+        "created_at": "2026-06-28T09:00:31.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "2400",
+        "a_w_highestPrice": "2800",
+        "a_r_lowestPrice": "28",
+        "a_r_howestPrice": "33",
+        "r_avgPrice": "30",
+        "w_avgPrice": "2600",
+        "cpi_market_commodity_price_id": 211159,
+        "price_date": "2026-06-25"
+      },
+      {
+        "commodity_id": 833,
+        "w_lowestPrice": "2200.00",
+        "w_highestPrice": "3000.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "25.00",
+        "r_highestPrice": "35.00",
+        "created_at": "2026-07-02T08:24:22.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "2733",
+        "a_w_highestPrice": "3493",
+        "a_r_lowestPrice": "32",
+        "a_r_howestPrice": "40",
+        "r_avgPrice": "36",
+        "w_avgPrice": "3113",
+        "cpi_market_commodity_price_id": 211542,
+        "price_date": "2026-07-01"
+      },
+      {
+        "commodity_id": 833,
+        "w_lowestPrice": "3500.00",
+        "w_highestPrice": "4500.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "40.00",
+        "r_highestPrice": "50.00",
+        "created_at": "2026-08-02T07:01:56.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "3500",
+        "a_w_highestPrice": "4330",
+        "a_r_lowestPrice": "40",
+        "a_r_howestPrice": "48",
+        "r_avgPrice": "44",
+        "w_avgPrice": "3915",
+        "cpi_market_commodity_price_id": 213631,
+        "price_date": "2026-08-02"
+      }
+    ]
+  },
+  "payload": {
+    "division_id": [
+      5
+    ],
+    "district_id": [
+      37
+    ],
+    "upazila_id": [
+      290
+    ],
+    "market_id": [
+      354
+    ],
+    "commodity_group_id": 32,
+    "commodity_sub_group_id": 217,
+    "commodity_id": 833,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Spices",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Onion",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Onion (New)",
+    "commodity_name_bn": "পেঁয়াজ",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}

@@ -1,0 +1,434 @@
+market_id,market_name,division_name,commodity_id,commodity_name,total_observations,first_date,last_date,first_month,last_month,month_span,observed_unique_months,missing_months_count,longest_continuous_run_months,is_continuous_series,has_ge_6_consecutive,has_ge_12_consecutive
+4,Mohammadpur Krishi Market,Dhaka,831,Onion (local),13,2025-08-07,2026-08-02,2025-08,2026-08,13,13,0,13,True,True,True
+4,Mohammadpur Krishi Market,Dhaka,832,Onion-imported,2,2025-12-30,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+4,Mohammadpur Krishi Market,Dhaka,833,Onion (New),3,2025-06-15,2025-08-03,2025-06,2025-08,3,3,0,3,True,False,False
+4,Mohammadpur Krishi Market,Dhaka,942,Potato (Local) - Old,5,2025-08-07,2025-12-01,2025-08,2025-12,5,5,0,5,True,False,False
+4,Mohammadpur Krishi Market,Dhaka,943,Potato (Local),9,2025-12-22,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+4,Mohammadpur Krishi Market,Dhaka,945,Potato (Holland) - White (New),3,2025-06-15,2025-08-03,2025-06,2025-08,3,3,0,3,True,False,False
+8,kawran Bazar,Dhaka,831,Onion (local),8,2026-01-25,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+8,kawran Bazar,Dhaka,832,Onion-imported,1,2026-01-25,2026-01-25,2026-01,2026-01,1,1,0,1,True,False,False
+8,kawran Bazar,Dhaka,943,Potato (Local),8,2026-01-25,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+11,Mirpur 1 no. Bazar,Dhaka,831,Onion (local),8,2026-01-28,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+11,Mirpur 1 no. Bazar,Dhaka,943,Potato (Local),8,2026-01-28,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+13,Rajshahi Sadar Bazar,Khulna,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+13,Rajshahi Sadar Bazar,Khulna,832,Onion-imported,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+13,Rajshahi Sadar Bazar,Khulna,942,Potato (Local) - Old,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+13,Rajshahi Sadar Bazar,Khulna,943,Potato (Local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+13,Rajshahi Sadar Bazar,Khulna,944,Potato (Holland) - White (Old),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+13,Rajshahi Sadar Bazar,Khulna,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+13,Rajshahi Sadar Bazar,Khulna,946,Potato (Holland) - Red (Old),9,2025-12-11,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+13,Rajshahi Sadar Bazar,Khulna,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+15,Pirojpur Sadar Bazar,Barishal,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+15,Pirojpur Sadar Bazar,Barishal,832,Onion-imported,2,2025-12-22,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+15,Pirojpur Sadar Bazar,Barishal,943,Potato (Local),2,2025-12-17,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+15,Pirojpur Sadar Bazar,Barishal,945,Potato (Holland) - White (New),8,2026-01-05,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+15,Pirojpur Sadar Bazar,Barishal,21014,Potatoes-imported,8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+17,Narayanganj Sadar Bazar,Dhaka,831,Onion (local),8,2026-01-21,2026-08-04,2026-01,2026-08,8,8,0,8,True,True,False
+17,Narayanganj Sadar Bazar,Dhaka,833,Onion (New),8,2025-06-18,2026-01-04,2025-06,2026-01,8,8,0,8,True,True,False
+17,Narayanganj Sadar Bazar,Dhaka,943,Potato (Local),15,2025-06-18,2026-08-04,2025-06,2026-08,15,15,0,15,True,True,True
+18,Magura Sadar Bazar,Rajshahi,831,Onion (local),14,2025-07-07,2026-08-02,2025-07,2026-08,14,14,0,14,True,True,True
+18,Magura Sadar Bazar,Rajshahi,833,Onion (New),2,2025-06-15,2025-07-01,2025-06,2025-07,2,2,0,2,True,False,False
+18,Magura Sadar Bazar,Rajshahi,945,Potato (Holland) - White (New),3,2025-12-17,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+18,Magura Sadar Bazar,Rajshahi,946,Potato (Holland) - Red (Old),3,2025-12-17,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+18,Magura Sadar Bazar,Rajshahi,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+19,Sunamganj Sadar Bazar,Sylhet,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+19,Sunamganj Sadar Bazar,Sylhet,832,Onion-imported,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+19,Sunamganj Sadar Bazar,Sylhet,944,Potato (Holland) - White (Old),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+19,Sunamganj Sadar Bazar,Sylhet,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+19,Sunamganj Sadar Bazar,Sylhet,946,Potato (Holland) - Red (Old),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+20,"Sadar Bazar, Pabna",Khulna,831,Onion (local),2,2025-12-04,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+20,"Sadar Bazar, Pabna",Khulna,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+20,"Sadar Bazar, Pabna",Khulna,942,Potato (Local) - Old,1,2025-12-08,2025-12-08,2025-12,2025-12,1,1,0,1,True,False,False
+20,"Sadar Bazar, Pabna",Khulna,943,Potato (Local),6,2025-12-08,2026-05-03,2025-12,2026-05,6,6,0,6,True,True,False
+20,"Sadar Bazar, Pabna",Khulna,945,Potato (Holland) - White (New),5,2025-12-17,2026-04-01,2025-12,2026-04,5,5,0,5,True,False,False
+20,"Sadar Bazar, Pabna",Khulna,946,Potato (Holland) - Red (Old),2,2025-12-23,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+20,"Sadar Bazar, Pabna",Khulna,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+21,Sadar (Zia Bazar) Kurigram,Rangpur,831,Onion (local),13,2025-08-21,2026-08-02,2025-08,2026-08,13,13,0,13,True,True,True
+21,Sadar (Zia Bazar) Kurigram,Rangpur,832,Onion-imported,7,2025-08-21,2026-03-01,2025-08,2026-03,8,7,1,4,False,False,False
+21,Sadar (Zia Bazar) Kurigram,Rangpur,833,Onion (New),3,2025-06-15,2025-08-03,2025-06,2025-08,3,3,0,3,True,False,False
+21,Sadar (Zia Bazar) Kurigram,Rangpur,943,Potato (Local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+21,Sadar (Zia Bazar) Kurigram,Rangpur,945,Potato (Holland) - White (New),1,2025-12-10,2025-12-10,2025-12,2025-12,1,1,0,1,True,False,False
+21,Sadar (Zia Bazar) Kurigram,Rangpur,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+23,Brahmanbaria Sadar Bazar,Chattogram,831,Onion (local),14,2025-07-23,2026-08-02,2025-07,2026-08,14,14,0,14,True,True,True
+23,Brahmanbaria Sadar Bazar,Chattogram,832,Onion-imported,2,2025-12-17,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+23,Brahmanbaria Sadar Bazar,Chattogram,833,Onion (New),2,2025-06-15,2025-07-01,2025-06,2025-07,2,2,0,2,True,False,False
+23,Brahmanbaria Sadar Bazar,Chattogram,943,Potato (Local),3,2026-06-29,2026-08-02,2026-06,2026-08,3,3,0,3,True,False,False
+23,Brahmanbaria Sadar Bazar,Chattogram,944,Potato (Holland) - White (Old),1,2026-01-04,2026-01-04,2026-01,2026-01,1,1,0,1,True,False,False
+23,Brahmanbaria Sadar Bazar,Chattogram,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+24,Moulvibazar Sadar Bazar,Sylhet,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+24,Moulvibazar Sadar Bazar,Sylhet,832,Onion-imported,6,2025-06-15,2026-02-01,2025-06,2026-02,9,6,3,3,False,False,False
+24,Moulvibazar Sadar Bazar,Sylhet,943,Potato (Local),5,2025-11-30,2026-03-01,2025-11,2026-03,5,5,0,5,True,False,False
+24,Moulvibazar Sadar Bazar,Sylhet,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+25,"Sadar Bazar, Madaripur",Dhaka,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+25,"Sadar Bazar, Madaripur",Dhaka,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+26,Narsingdi Sadar Bazar,Dhaka,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+26,Narsingdi Sadar Bazar,Dhaka,832,Onion-imported,2,2025-12-18,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+26,Narsingdi Sadar Bazar,Dhaka,942,Potato (Local) - Old,2,2025-11-30,2025-12-01,2025-11,2025-12,2,2,0,2,True,False,False
+26,Narsingdi Sadar Bazar,Dhaka,943,Potato (Local),10,2025-06-15,2026-06-01,2025-06,2026-06,13,10,3,9,False,True,False
+26,Narsingdi Sadar Bazar,Dhaka,944,Potato (Holland) - White (Old),4,2025-11-30,2026-02-01,2025-11,2026-02,4,4,0,4,True,False,False
+26,Narsingdi Sadar Bazar,Dhaka,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+27,Barisal Sadar Bazar,Barishal,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+27,Barisal Sadar Bazar,Barishal,21014,Potatoes-imported,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+28,Bhola Sadar Bazar,Barishal,831,Onion (local),15,2025-06-04,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+28,Bhola Sadar Bazar,Barishal,832,Onion-imported,3,2025-12-21,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+28,Bhola Sadar Bazar,Barishal,943,Potato (Local),15,2025-06-04,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+29,Jamalpur Sadar Bazar,Mymensingh,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+29,Jamalpur Sadar Bazar,Mymensingh,944,Potato (Holland) - White (Old),9,2025-06-15,2026-02-01,2025-06,2026-02,9,9,0,9,True,True,False
+29,Jamalpur Sadar Bazar,Mymensingh,945,Potato (Holland) - White (New),9,2025-12-18,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+30,Naogaon Sadar Bazar,Khulna,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+30,Naogaon Sadar Bazar,Khulna,942,Potato (Local) - Old,7,2025-07-27,2026-01-01,2025-07,2026-01,7,7,0,7,True,True,False
+30,Naogaon Sadar Bazar,Khulna,943,Potato (Local),11,2025-06-15,2026-08-02,2025-06,2026-08,15,11,4,9,False,True,False
+30,Naogaon Sadar Bazar,Khulna,944,Potato (Holland) - White (Old),7,2025-07-27,2026-01-01,2025-07,2026-01,7,7,0,7,True,True,False
+30,Naogaon Sadar Bazar,Khulna,945,Potato (Holland) - White (New),11,2025-06-15,2026-08-02,2025-06,2026-08,15,11,4,9,False,True,False
+30,Naogaon Sadar Bazar,Khulna,947,Potato (Holland) - Red,1,2025-12-14,2025-12-14,2025-12,2025-12,1,1,0,1,True,False,False
+31,"Sadar Bazar, Thakurgaon",Rangpur,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+31,"Sadar Bazar, Thakurgaon",Rangpur,832,Onion-imported,3,2025-12-17,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+31,"Sadar Bazar, Thakurgaon",Rangpur,942,Potato (Local) - Old,7,2025-07-08,2026-01-01,2025-07,2026-01,7,7,0,7,True,True,False
+31,"Sadar Bazar, Thakurgaon",Rangpur,943,Potato (Local),9,2025-06-15,2026-08-02,2025-06,2026-08,15,9,6,7,False,True,False
+31,"Sadar Bazar, Thakurgaon",Rangpur,944,Potato (Holland) - White (Old),7,2025-07-16,2026-01-01,2025-07,2026-01,7,7,0,7,True,True,False
+31,"Sadar Bazar, Thakurgaon",Rangpur,945,Potato (Holland) - White (New),9,2025-06-15,2026-08-02,2025-06,2026-08,15,9,6,7,False,True,False
+31,"Sadar Bazar, Thakurgaon",Rangpur,946,Potato (Holland) - Red (Old),7,2025-07-08,2026-01-01,2025-07,2026-01,7,7,0,7,True,True,False
+31,"Sadar Bazar, Thakurgaon",Rangpur,947,Potato (Holland) - Red,9,2025-06-15,2026-08-02,2025-06,2026-08,15,9,6,7,False,True,False
+32,Panchagarh Sadar Bazar,Rangpur,831,Onion (local),15,2025-06-04,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+32,Panchagarh Sadar Bazar,Rangpur,832,Onion-imported,5,2025-08-19,2026-02-09,2025-08,2026-02,7,5,2,3,False,False,False
+32,Panchagarh Sadar Bazar,Rangpur,942,Potato (Local) - Old,1,2025-06-04,2025-06-04,2025-06,2025-06,1,1,0,1,True,False,False
+32,Panchagarh Sadar Bazar,Rangpur,943,Potato (Local),9,2025-12-17,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+32,Panchagarh Sadar Bazar,Rangpur,945,Potato (Holland) - White (New),2,2026-01-01,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+32,Panchagarh Sadar Bazar,Rangpur,946,Potato (Holland) - Red (Old),7,2025-06-04,2025-12-02,2025-06,2025-12,7,7,0,7,True,True,False
+32,Panchagarh Sadar Bazar,Rangpur,947,Potato (Holland) - Red,7,2026-02-05,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+33,Nilphamari Sadar Bazar,Rangpur,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+33,Nilphamari Sadar Bazar,Rangpur,832,Onion-imported,2,2025-12-21,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+33,Nilphamari Sadar Bazar,Rangpur,946,Potato (Holland) - Red (Old),3,2025-12-15,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+33,Nilphamari Sadar Bazar,Rangpur,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+34,Barguna Sadar Bazar,Barishal,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+34,Barguna Sadar Bazar,Barishal,832,Onion-imported,5,2025-06-15,2026-01-01,2025-06,2026-01,8,5,3,3,False,False,False
+34,Barguna Sadar Bazar,Barishal,944,Potato (Holland) - White (Old),2,2026-01-07,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+34,Barguna Sadar Bazar,Barishal,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+34,Barguna Sadar Bazar,Barishal,947,Potato (Holland) - Red,2,2025-12-28,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+35,Bandarban Sadar Bazar,Chattogram,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+35,Bandarban Sadar Bazar,Chattogram,832,Onion-imported,5,2025-08-21,2026-02-01,2025-08,2026-02,7,5,2,3,False,False,False
+35,Bandarban Sadar Bazar,Chattogram,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+36,Gaibandha Sadar Bazar,Rangpur,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+36,Gaibandha Sadar Bazar,Rangpur,832,Onion-imported,1,2025-08-25,2025-08-25,2025-08,2025-08,1,1,0,1,True,False,False
+36,Gaibandha Sadar Bazar,Rangpur,943,Potato (Local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+36,Gaibandha Sadar Bazar,Rangpur,945,Potato (Holland) - White (New),2,2025-12-18,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+36,Gaibandha Sadar Bazar,Rangpur,946,Potato (Holland) - Red (Old),2,2025-12-11,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+36,Gaibandha Sadar Bazar,Rangpur,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+37,Khulna Sadar Bazar,Rajshahi,831,Onion (local),15,2025-06-16,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+37,Khulna Sadar Bazar,Rajshahi,945,Potato (Holland) - White (New),15,2025-06-16,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+37,Khulna Sadar Bazar,Rajshahi,947,Potato (Holland) - Red,8,2026-01-28,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+38,"City Bazar, Rangpur",Rangpur,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+38,"City Bazar, Rangpur",Rangpur,832,Onion-imported,4,2025-08-27,2026-01-01,2025-08,2026-01,6,4,2,2,False,False,False
+38,"City Bazar, Rangpur",Rangpur,946,Potato (Holland) - Red (Old),3,2025-12-14,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+38,"City Bazar, Rangpur",Rangpur,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+39,"Sadar Bazar, Lakshmipur",Chattogram,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+39,"Sadar Bazar, Lakshmipur",Chattogram,832,Onion-imported,5,2025-08-28,2026-02-01,2025-08,2026-02,7,5,2,3,False,False,False
+39,"Sadar Bazar, Lakshmipur",Chattogram,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+42,"Goshala Bazar, Lalmonirhat",Rangpur,831,Onion (local),2,2025-09-18,2025-12-04,2025-09,2025-12,4,2,2,1,False,False,False
+42,"Goshala Bazar, Lalmonirhat",Rangpur,832,Onion-imported,2,2025-09-18,2025-12-04,2025-09,2025-12,4,2,2,1,False,False,False
+42,"Goshala Bazar, Lalmonirhat",Rangpur,946,Potato (Holland) - Red (Old),2,2025-09-18,2025-12-04,2025-09,2025-12,4,2,2,1,False,False,False
+43,Lalmonirhat Sadar Bazar,Rangpur,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+43,Lalmonirhat Sadar Bazar,Rangpur,832,Onion-imported,4,2025-08-24,2026-01-01,2025-08,2026-01,6,4,2,2,False,False,False
+43,Lalmonirhat Sadar Bazar,Rangpur,943,Potato (Local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+43,Lalmonirhat Sadar Bazar,Rangpur,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+44,"Mechua Bazar, Mymensingh",Mymensingh,832,Onion-imported,4,2025-08-19,2026-01-01,2025-08,2026-01,6,4,2,2,False,False,False
+44,"Mechua Bazar, Mymensingh",Mymensingh,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+44,"Mechua Bazar, Mymensingh",Mymensingh,943,Potato (Local),5,2026-04-22,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+44,"Mechua Bazar, Mymensingh",Mymensingh,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+47,Rajbari Sadar Bazar,Dhaka,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+47,Rajbari Sadar Bazar,Dhaka,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+50,Chuadanga Sadar Bazaar,Rajshahi,832,Onion-imported,2,2025-12-21,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+50,Chuadanga Sadar Bazaar,Rajshahi,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+50,Chuadanga Sadar Bazaar,Rajshahi,943,Potato (Local),9,2025-12-08,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+50,Chuadanga Sadar Bazaar,Rajshahi,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+50,Chuadanga Sadar Bazaar,Rajshahi,21014,Potatoes-imported,1,2025-12-18,2025-12-18,2025-12,2025-12,1,1,0,1,True,False,False
+51,Sylhet Sadar Bazaar,Sylhet,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+51,Sylhet Sadar Bazaar,Sylhet,832,Onion-imported,9,2025-06-15,2026-03-01,2025-06,2026-03,10,9,1,8,False,True,False
+51,Sylhet Sadar Bazaar,Sylhet,942,Potato (Local) - Old,8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+51,Sylhet Sadar Bazaar,Sylhet,943,Potato (Local),8,2026-01-20,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+51,Sylhet Sadar Bazaar,Sylhet,944,Potato (Holland) - White (Old),10,2025-06-15,2026-03-01,2025-06,2026-03,10,10,0,10,True,True,False
+51,Sylhet Sadar Bazaar,Sylhet,945,Potato (Holland) - White (New),10,2025-11-30,2026-08-02,2025-11,2026-08,10,10,0,10,True,True,False
+51,Sylhet Sadar Bazaar,Sylhet,946,Potato (Holland) - Red (Old),8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+52,Faridpur Sadar Bazar,Dhaka,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+52,Faridpur Sadar Bazar,Dhaka,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+53,"Bahadur Bazar, Dinajpur",Rangpur,832,Onion-imported,4,2025-08-19,2026-01-01,2025-08,2026-01,6,4,2,2,False,False,False
+53,"Bahadur Bazar, Dinajpur",Rangpur,833,Onion (New),15,2025-06-16,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+53,"Bahadur Bazar, Dinajpur",Rangpur,945,Potato (Holland) - White (New),15,2025-06-16,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+53,"Bahadur Bazar, Dinajpur",Rangpur,947,Potato (Holland) - Red,15,2025-06-16,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+54,Gopaldanj Sadar Boro Bazar,Dhaka,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+54,Gopaldanj Sadar Boro Bazar,Dhaka,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+54,Gopaldanj Sadar Boro Bazar,Dhaka,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+56,Comilla Sadar Bazar,Chattogram,831,Onion (local),7,2026-02-18,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+56,Comilla Sadar Bazar,Chattogram,832,Onion-imported,10,2025-06-15,2026-03-01,2025-06,2026-03,10,10,0,10,True,True,False
+56,Comilla Sadar Bazar,Chattogram,833,Onion (New),7,2025-06-15,2025-12-01,2025-06,2025-12,7,7,0,7,True,True,False
+56,Comilla Sadar Bazar,Chattogram,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,945,Potato (Holland) - White (New),4,2025-12-15,2026-03-01,2025-12,2026-03,4,4,0,4,True,False,False
+57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,946,Potato (Holland) - Red (Old),3,2025-12-15,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+58,Meherpur Sadar Bazar,Rajshahi,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+58,Meherpur Sadar Bazar,Rajshahi,945,Potato (Holland) - White (New),9,2025-12-11,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+58,Meherpur Sadar Bazar,Rajshahi,947,Potato (Holland) - Red,9,2025-06-15,2026-02-01,2025-06,2026-02,9,9,0,9,True,True,False
+59,Munshiganj Sadar Bazar,Dhaka,831,Onion (local),9,2025-12-23,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+59,Munshiganj Sadar Bazar,Dhaka,832,Onion-imported,4,2025-12-17,2026-03-02,2025-12,2026-03,4,4,0,4,True,False,False
+59,Munshiganj Sadar Bazar,Dhaka,833,Onion (New),7,2025-06-15,2025-12-01,2025-06,2025-12,7,7,0,7,True,True,False
+59,Munshiganj Sadar Bazar,Dhaka,944,Potato (Holland) - White (Old),2,2026-01-14,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+59,Munshiganj Sadar Bazar,Dhaka,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+59,Munshiganj Sadar Bazar,Dhaka,948,Sweet Potato,3,2025-06-15,2025-08-03,2025-06,2025-08,3,3,0,3,True,False,False
+62,Bagerhat Sadar Bazar,Rajshahi,832,Onion-imported,1,2025-12-17,2025-12-17,2025-12,2025-12,1,1,0,1,True,False,False
+62,Bagerhat Sadar Bazar,Rajshahi,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+62,Bagerhat Sadar Bazar,Rajshahi,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+62,Bagerhat Sadar Bazar,Rajshahi,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+65,Kushtia Sadar Bazar,Rajshahi,833,Onion (New),15,2025-06-14,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+65,Kushtia Sadar Bazar,Rajshahi,942,Potato (Local) - Old,1,2025-06-16,2025-06-16,2025-06,2025-06,1,1,0,1,True,False,False
+65,Kushtia Sadar Bazar,Rajshahi,944,Potato (Holland) - White (Old),15,2025-06-14,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+65,Kushtia Sadar Bazar,Rajshahi,946,Potato (Holland) - Red (Old),15,2025-06-14,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+66,Joypurhat Sadar Bazar,Khulna,832,Onion-imported,1,2025-12-18,2025-12-18,2025-12,2025-12,1,1,0,1,True,False,False
+66,Joypurhat Sadar Bazar,Khulna,833,Onion (New),15,2025-06-16,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+66,Joypurhat Sadar Bazar,Khulna,943,Potato (Local),15,2025-06-16,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+66,Joypurhat Sadar Bazar,Khulna,947,Potato (Holland) - Red,15,2025-06-16,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+67,Bogra Sadar Bazar,Khulna,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+67,Bogra Sadar Bazar,Khulna,943,Potato (Local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+67,Bogra Sadar Bazar,Khulna,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+67,Bogra Sadar Bazar,Khulna,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+68,Sherpur Sadar Bazar,Mymensingh,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+68,Sherpur Sadar Bazar,Mymensingh,832,Onion-imported,3,2025-10-05,2025-12-18,2025-10,2025-12,3,3,0,3,True,False,False
+68,Sherpur Sadar Bazar,Mymensingh,833,Onion (New),1,2025-12-01,2025-12-01,2025-12,2025-12,1,1,0,1,True,False,False
+68,Sherpur Sadar Bazar,Mymensingh,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+70,Patuakhali Sadar Bazar,Barishal,833,Onion (New),6,2025-06-15,2025-11-04,2025-06,2025-11,6,6,0,6,True,True,False
+70,Patuakhali Sadar Bazar,Barishal,943,Potato (Local),6,2025-06-15,2025-11-04,2025-06,2025-11,6,6,0,6,True,True,False
+74,Kangshanagar Bazar,Chattogram,831,Onion (local),6,2026-02-23,2026-07-02,2026-02,2026-07,6,6,0,6,True,True,False
+74,Kangshanagar Bazar,Chattogram,945,Potato (Holland) - White (New),6,2026-02-23,2026-07-02,2026-02,2026-07,6,6,0,6,True,True,False
+79,Chittagong Sadar Bazar,Chattogram,831,Onion (local),11,2025-06-15,2026-08-03,2025-06,2026-08,15,11,4,9,False,True,False
+79,Chittagong Sadar Bazar,Chattogram,832,Onion-imported,5,2025-06-15,2026-02-01,2025-06,2026-02,9,5,4,3,False,False,False
+79,Chittagong Sadar Bazar,Chattogram,943,Potato (Local),6,2025-06-15,2026-03-01,2025-06,2026-03,10,6,4,4,False,False,False
+79,Chittagong Sadar Bazar,Chattogram,945,Potato (Holland) - White (New),9,2025-12-21,2026-08-03,2025-12,2026-08,9,9,0,9,True,True,False
+81,"Pouro Super Market, Netrokona",Mymensingh,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+81,"Pouro Super Market, Netrokona",Mymensingh,832,Onion-imported,2,2025-08-28,2025-09-01,2025-08,2025-09,2,2,0,2,True,False,False
+81,"Pouro Super Market, Netrokona",Mymensingh,943,Potato (Local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+81,"Pouro Super Market, Netrokona",Mymensingh,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+101,Jhalakathi Sadar Bazar,Barishal,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+101,Jhalakathi Sadar Bazar,Barishal,832,Onion-imported,2,2025-12-18,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+101,Jhalakathi Sadar Bazar,Barishal,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+102,Chandpur Sadaar,Chattogram,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+102,Chandpur Sadaar,Chattogram,832,Onion-imported,3,2025-12-28,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+102,Chandpur Sadaar,Chattogram,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+103,Cox's Bazar Sadar,Chattogram,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+103,Cox's Bazar Sadar,Chattogram,832,Onion-imported,9,2025-06-15,2026-02-01,2025-06,2026-02,9,9,0,9,True,True,False
+103,Cox's Bazar Sadar,Chattogram,944,Potato (Holland) - White (Old),2,2026-01-12,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+103,Cox's Bazar Sadar,Chattogram,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+104,Feni Sadar,Chattogram,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+104,Feni Sadar,Chattogram,832,Onion-imported,3,2025-12-10,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+104,Feni Sadar,Chattogram,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+105,Khagrachari Sadar Pouro Bazar,Chattogram,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+105,Khagrachari Sadar Pouro Bazar,Chattogram,832,Onion-imported,3,2025-12-17,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+105,Khagrachari Sadar Pouro Bazar,Chattogram,943,Potato (Local),8,2025-12-30,2026-07-01,2025-12,2026-07,8,8,0,8,True,True,False
+105,Khagrachari Sadar Pouro Bazar,Chattogram,944,Potato (Holland) - White (Old),8,2025-07-27,2026-02-01,2025-07,2026-02,8,8,0,8,True,True,False
+105,Khagrachari Sadar Pouro Bazar,Chattogram,945,Potato (Holland) - White (New),10,2025-06-15,2026-08-02,2025-06,2026-08,15,10,5,8,False,True,False
+106,Noakhali Sadar Bazar,Chattogram,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+106,Noakhali Sadar Bazar,Chattogram,832,Onion-imported,2,2026-01-25,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+106,Noakhali Sadar Bazar,Chattogram,944,Potato (Holland) - White (Old),2,2026-01-14,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+106,Noakhali Sadar Bazar,Chattogram,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+106,Noakhali Sadar Bazar,Chattogram,947,Potato (Holland) - Red,8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+108,Kishoreganj Bazar,Dhaka,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+108,Kishoreganj Bazar,Dhaka,832,Onion-imported,4,2025-08-18,2026-01-01,2025-08,2026-01,6,4,2,2,False,False,False
+108,Kishoreganj Bazar,Dhaka,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+109,Manikganj Bazar,Dhaka,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+109,Manikganj Bazar,Dhaka,944,Potato (Holland) - White (Old),8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+109,Manikganj Bazar,Dhaka,945,Potato (Holland) - White (New),9,2025-12-28,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+109,Manikganj Bazar,Dhaka,946,Potato (Holland) - Red (Old),8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+109,Manikganj Bazar,Dhaka,947,Potato (Holland) - Red,8,2026-01-26,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+110,Shariatpur Bazar,Dhaka,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+110,Shariatpur Bazar,Dhaka,832,Onion-imported,1,2025-12-17,2025-12-17,2025-12,2025-12,1,1,0,1,True,False,False
+110,Shariatpur Bazar,Dhaka,943,Potato (Local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+111,Tangail Bazar,Dhaka,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+111,Tangail Bazar,Dhaka,942,Potato (Local) - Old,7,2025-06-15,2025-12-01,2025-06,2025-12,7,7,0,7,True,True,False
+111,Tangail Bazar,Dhaka,943,Potato (Local),9,2025-12-23,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+111,Tangail Bazar,Dhaka,944,Potato (Holland) - White (Old),7,2025-06-15,2025-12-01,2025-06,2025-12,7,7,0,7,True,True,False
+111,Tangail Bazar,Dhaka,945,Potato (Holland) - White (New),9,2025-12-23,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+111,Tangail Bazar,Dhaka,946,Potato (Holland) - Red (Old),7,2025-06-15,2025-12-01,2025-06,2025-12,7,7,0,7,True,True,False
+111,Tangail Bazar,Dhaka,947,Potato (Holland) - Red,9,2025-12-23,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+112,Jessore Sadar Bazar,Rajshahi,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+112,Jessore Sadar Bazar,Rajshahi,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+114,Nator Bazar,Khulna,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+114,Nator Bazar,Khulna,942,Potato (Local) - Old,3,2025-06-15,2025-08-03,2025-06,2025-08,3,3,0,3,True,False,False
+114,Nator Bazar,Khulna,943,Potato (Local),8,2025-12-23,2026-07-01,2025-12,2026-07,8,8,0,8,True,True,False
+114,Nator Bazar,Khulna,945,Potato (Holland) - White (New),1,2025-12-14,2025-12-14,2025-12,2025-12,1,1,0,1,True,False,False
+114,Nator Bazar,Khulna,946,Potato (Holland) - Red (Old),8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+114,Nator Bazar,Khulna,947,Potato (Holland) - Red,8,2026-01-01,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+115,Sirajganj Sadar Bazar,Khulna,833,Onion (New),7,2025-06-18,2026-07-02,2025-06,2026-07,14,7,7,2,False,False,False
+115,Sirajganj Sadar Bazar,Khulna,943,Potato (Local),7,2025-06-18,2026-07-02,2025-06,2026-07,14,7,7,2,False,False,False
+115,Sirajganj Sadar Bazar,Khulna,947,Potato (Holland) - Red,7,2025-06-18,2026-07-02,2025-06,2026-07,14,7,7,2,False,False,False
+116,Habiganj Sadar Bazar,Sylhet,831,Onion (local),14,2025-07-10,2026-08-02,2025-07,2026-08,14,14,0,14,True,True,True
+116,Habiganj Sadar Bazar,Sylhet,832,Onion-imported,2,2025-12-17,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+116,Habiganj Sadar Bazar,Sylhet,833,Onion (New),2,2025-06-15,2025-07-01,2025-06,2025-07,2,2,0,2,True,False,False
+116,Habiganj Sadar Bazar,Sylhet,942,Potato (Local) - Old,8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+116,Habiganj Sadar Bazar,Sylhet,943,Potato (Local),8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+116,Habiganj Sadar Bazar,Sylhet,944,Potato (Holland) - White (Old),8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+116,Habiganj Sadar Bazar,Sylhet,945,Potato (Holland) - White (New),8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+119,"Sultanpur Bazar, Satkhira",Rajshahi,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+119,"Sultanpur Bazar, Satkhira",Rajshahi,832,Onion-imported,4,2025-08-24,2026-02-01,2025-08,2026-02,7,4,3,3,False,False,False
+119,"Sultanpur Bazar, Satkhira",Rajshahi,943,Potato (Local),3,2025-12-23,2026-02-01,2025-12,2026-02,3,3,0,3,True,False,False
+119,"Sultanpur Bazar, Satkhira",Rajshahi,944,Potato (Holland) - White (Old),9,2025-06-15,2026-02-01,2025-06,2026-02,9,9,0,9,True,True,False
+119,"Sultanpur Bazar, Satkhira",Rajshahi,945,Potato (Holland) - White (New),8,2025-12-17,2026-08-02,2025-12,2026-08,9,8,1,7,False,True,False
+119,"Sultanpur Bazar, Satkhira",Rajshahi,946,Potato (Holland) - Red (Old),9,2025-06-15,2026-02-01,2025-06,2026-02,9,9,0,9,True,True,False
+119,"Sultanpur Bazar, Satkhira",Rajshahi,947,Potato (Holland) - Red,7,2026-02-05,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+125,Rupganj Bazar,Rajshahi,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+125,Rupganj Bazar,Rajshahi,832,Onion-imported,1,2025-12-21,2025-12-21,2025-12,2025-12,1,1,0,1,True,False,False
+125,Rupganj Bazar,Rajshahi,943,Potato (Local),2,2025-12-07,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+125,Rupganj Bazar,Rajshahi,944,Potato (Holland) - White (Old),8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+125,Rupganj Bazar,Rajshahi,945,Potato (Holland) - White (New),7,2026-02-01,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+125,Rupganj Bazar,Rajshahi,946,Potato (Holland) - Red (Old),8,2025-06-15,2026-01-01,2025-06,2026-01,8,8,0,8,True,True,False
+125,Rupganj Bazar,Rajshahi,947,Potato (Holland) - Red,7,2026-02-01,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+127,Joydevpur market,Dhaka,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+127,Joydevpur market,Dhaka,832,Onion-imported,2,2025-12-17,2026-01-01,2025-12,2026-01,2,2,0,2,True,False,False
+127,Joydevpur market,Dhaka,945,Potato (Holland) - White (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+127,Joydevpur market,Dhaka,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+139,Nageshwari Bazar,Rangpur,831,Onion (local),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+139,Nageshwari Bazar,Rangpur,943,Potato (Local),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+139,Nageshwari Bazar,Rangpur,947,Potato (Holland) - Red,6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+146,Rangamati Sadar Bazar,Chattogram,831,Onion (local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+146,Rangamati Sadar Bazar,Chattogram,832,Onion-imported,5,2025-08-27,2026-02-01,2025-08,2026-02,7,5,2,3,False,False,False
+146,Rangamati Sadar Bazar,Chattogram,943,Potato (Local),8,2025-12-30,2026-07-02,2025-12,2026-07,8,8,0,8,True,True,False
+146,Rangamati Sadar Bazar,Chattogram,944,Potato (Holland) - White (Old),9,2025-07-20,2026-03-01,2025-07,2026-03,9,9,0,9,True,True,False
+146,Rangamati Sadar Bazar,Chattogram,945,Potato (Holland) - White (New),5,2025-06-15,2026-08-02,2025-06,2026-08,15,5,10,3,False,False,False
+146,Rangamati Sadar Bazar,Chattogram,948,Sweet Potato,7,2026-01-27,2026-07-02,2026-01,2026-07,7,7,0,7,True,True,False
+169,Savar Bazar,Dhaka,831,Onion (local),2,2026-07-27,2026-08-03,2026-07,2026-08,2,2,0,2,True,False,False
+169,Savar Bazar,Dhaka,943,Potato (Local),2,2026-07-27,2026-08-03,2026-07,2026-08,2,2,0,2,True,False,False
+179,Trisal Bazar,Mymensingh,831,Onion (local),5,2026-02-22,2026-08-02,2026-02,2026-08,7,5,2,2,False,False,False
+179,Trisal Bazar,Mymensingh,943,Potato (Local),5,2026-02-22,2026-08-02,2026-02,2026-08,7,5,2,2,False,False,False
+179,Trisal Bazar,Mymensingh,945,Potato (Holland) - White (New),1,2026-08-12,2026-08-12,2026-08,2026-08,1,1,0,1,True,False,False
+179,Trisal Bazar,Mymensingh,946,Potato (Holland) - Red (Old),1,2026-08-11,2026-08-11,2026-08,2026-08,1,1,0,1,True,False,False
+207,Madhupur Bazar,Dhaka,831,Onion (local),7,2026-02-22,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+207,Madhupur Bazar,Dhaka,942,Potato (Local) - Old,1,2026-02-22,2026-02-22,2026-02,2026-02,1,1,0,1,True,False,False
+207,Madhupur Bazar,Dhaka,945,Potato (Holland) - White (New),1,2026-02-22,2026-02-22,2026-02,2026-02,1,1,0,1,True,False,False
+207,Madhupur Bazar,Dhaka,946,Potato (Holland) - Red (Old),1,2026-02-22,2026-02-22,2026-02,2026-02,1,1,0,1,True,False,False
+207,Madhupur Bazar,Dhaka,947,Potato (Holland) - Red,7,2026-02-23,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+232,Chapainawabganj Sadar Bazar,Khulna,832,Onion-imported,4,2025-08-19,2026-01-01,2025-08,2026-01,6,4,2,2,False,False,False
+232,Chapainawabganj Sadar Bazar,Khulna,833,Onion (New),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+232,Chapainawabganj Sadar Bazar,Khulna,943,Potato (Local),15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+232,Chapainawabganj Sadar Bazar,Khulna,947,Potato (Holland) - Red,15,2025-06-15,2026-08-02,2025-06,2026-08,15,15,0,15,True,True,True
+241,Baneshor Bazar,Khulna,831,Onion (local),6,2025-12-22,2026-08-02,2025-12,2026-08,9,6,3,4,False,False,False
+241,Baneshor Bazar,Khulna,946,Potato (Holland) - Red (Old),4,2026-05-14,2026-08-02,2026-05,2026-08,4,4,0,4,True,False,False
+241,Baneshor Bazar,Khulna,947,Potato (Holland) - Red,4,2026-05-14,2026-08-02,2026-05,2026-08,4,4,0,4,True,False,False
+275,Chandina Bazar,Chattogram,831,Onion (local),7,2026-02-25,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+275,Chandina Bazar,Chattogram,945,Potato (Holland) - White (New),7,2026-02-25,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+325,Sapahar Market,Khulna,831,Onion (local),9,2025-12-23,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+325,Sapahar Market,Khulna,943,Potato (Local),9,2025-12-24,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+325,Sapahar Market,Khulna,945,Potato (Holland) - White (New),1,2025-12-23,2025-12-23,2025-12,2025-12,1,1,0,1,True,False,False
+325,Sapahar Market,Khulna,946,Potato (Holland) - Red (Old),9,2025-12-23,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+325,Sapahar Market,Khulna,947,Potato (Holland) - Red,1,2025-12-23,2025-12-23,2025-12,2025-12,1,1,0,1,True,False,False
+326,Shibgonj Sadar Bazar,Khulna,832,Onion-imported,2,2025-12-24,2026-01-04,2025-12,2026-01,2,2,0,2,True,False,False
+326,Shibgonj Sadar Bazar,Khulna,833,Onion (New),9,2025-12-24,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+326,Shibgonj Sadar Bazar,Khulna,943,Potato (Local),3,2025-12-24,2026-02-02,2025-12,2026-02,3,3,0,3,True,False,False
+326,Shibgonj Sadar Bazar,Khulna,947,Potato (Holland) - Red,9,2025-12-24,2026-08-02,2025-12,2026-08,9,9,0,9,True,True,False
+327,Godagari Sadar Bazar,Khulna,831,Onion (local),8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+327,Godagari Sadar Bazar,Khulna,832,Onion-imported,8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+327,Godagari Sadar Bazar,Khulna,942,Potato (Local) - Old,8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+327,Godagari Sadar Bazar,Khulna,943,Potato (Local),8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+327,Godagari Sadar Bazar,Khulna,944,Potato (Holland) - White (Old),8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+327,Godagari Sadar Bazar,Khulna,945,Potato (Holland) - White (New),8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+327,Godagari Sadar Bazar,Khulna,946,Potato (Holland) - Red (Old),8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+327,Godagari Sadar Bazar,Khulna,947,Potato (Holland) - Red,8,2026-01-04,2026-08-02,2026-01,2026-08,8,8,0,8,True,True,False
+329,Sherpur Sadar Bazar (Baroduari Bazar),Khulna,831,Onion (local),2,2026-01-07,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+329,Sherpur Sadar Bazar (Baroduari Bazar),Khulna,943,Potato (Local),2,2026-01-07,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+329,Sherpur Sadar Bazar (Baroduari Bazar),Khulna,945,Potato (Holland) - White (New),2,2026-01-07,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+329,Sherpur Sadar Bazar (Baroduari Bazar),Khulna,947,Potato (Holland) - Red,2,2026-01-07,2026-02-01,2026-01,2026-02,2,2,0,2,True,False,False
+331,Dhanbari Bazar,Dhaka,831,Onion (local),7,2026-02-19,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+331,Dhanbari Bazar,Dhaka,943,Potato (Local),7,2026-02-19,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+331,Dhanbari Bazar,Dhaka,947,Potato (Holland) - Red,7,2026-02-19,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+334,Kalaroa Bazar,Rajshahi,831,Onion (local),1,2026-08-06,2026-08-06,2026-08,2026-08,1,1,0,1,True,False,False
+334,Kalaroa Bazar,Rajshahi,945,Potato (Holland) - White (New),7,2026-02-24,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+334,Kalaroa Bazar,Rajshahi,947,Potato (Holland) - Red,7,2026-02-24,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+335,Dumuria Bazar,Rajshahi,833,Onion (New),3,2026-06-25,2026-08-02,2026-06,2026-08,3,3,0,3,True,False,False
+335,Dumuria Bazar,Rajshahi,945,Potato (Holland) - White (New),3,2026-06-15,2026-08-02,2026-06,2026-08,3,3,0,3,True,False,False
+336,"Manirampur Bazar, Jessore",Rajshahi,831,Onion (local),2,2026-07-28,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+336,"Manirampur Bazar, Jessore",Rajshahi,945,Potato (Holland) - White (New),2,2026-07-28,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+337,Gangni Bazar,Rajshahi,831,Onion (local),2,2026-07-23,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+337,Gangni Bazar,Rajshahi,945,Potato (Holland) - White (New),2,2026-07-23,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+338,Damurhuda Bazar,Rajshahi,833,Onion (New),2,2026-07-07,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+338,Damurhuda Bazar,Rajshahi,943,Potato (Local),2,2026-07-07,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+339,Sharsha Bazar,Rajshahi,946,Potato (Holland) - Red (Old),1,2026-07-26,2026-07-26,2026-07,2026-07,1,1,0,1,True,False,False
+339,Sharsha Bazar,Rajshahi,947,Potato (Holland) - Red,1,2026-07-26,2026-07-26,2026-07,2026-07,1,1,0,1,True,False,False
+340,Fulbaria Bazar,Mymensingh,831,Onion (local),2,2026-07-16,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+340,Fulbaria Bazar,Mymensingh,943,Potato (Local),2,2026-07-16,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+340,Fulbaria Bazar,Mymensingh,945,Potato (Holland) - White (New),2,2026-07-15,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+340,Fulbaria Bazar,Mymensingh,947,Potato (Holland) - Red,1,2026-07-16,2026-07-16,2026-07,2026-07,1,1,0,1,True,False,False
+341,Mohanganj Bazar,Mymensingh,831,Onion (local),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+341,Mohanganj Bazar,Mymensingh,943,Potato (Local),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+341,Mohanganj Bazar,Mymensingh,945,Potato (Holland) - White (New),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+345,Nazirpur Bazar,Barishal,831,Onion (local),2,2026-07-26,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+345,Nazirpur Bazar,Barishal,945,Potato (Holland) - White (New),2,2026-07-26,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+346,Amtali Bazar,Barishal,831,Onion (local),6,2026-03-10,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+346,Amtali Bazar,Barishal,945,Potato (Holland) - White (New),6,2026-03-10,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+348,Parbatipur Bazar,Rangpur,831,Onion (local),5,2026-04-28,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+348,Parbatipur Bazar,Rangpur,945,Potato (Holland) - White (New),5,2026-04-28,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+348,Parbatipur Bazar,Rangpur,947,Potato (Holland) - Red,5,2026-04-28,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+349,Kaliganj Bazar,Rangpur,831,Onion (local),1,2026-08-03,2026-08-03,2026-08,2026-08,1,1,0,1,True,False,False
+349,Kaliganj Bazar,Rangpur,942,Potato (Local) - Old,1,2026-08-03,2026-08-03,2026-08,2026-08,1,1,0,1,True,False,False
+349,Kaliganj Bazar,Rangpur,946,Potato (Holland) - Red (Old),1,2026-08-03,2026-08-03,2026-08,2026-08,1,1,0,1,True,False,False
+350,Saidpur Bazar,Rangpur,831,Onion (local),1,2026-08-01,2026-08-01,2026-08,2026-08,1,1,0,1,True,False,False
+350,Saidpur Bazar,Rangpur,943,Potato (Local),1,2026-08-03,2026-08-03,2026-08,2026-08,1,1,0,1,True,False,False
+350,Saidpur Bazar,Rangpur,947,Potato (Holland) - Red,1,2026-08-01,2026-08-01,2026-08,2026-08,1,1,0,1,True,False,False
+351,Domar Bazar,Rangpur,831,Onion (local),1,2026-08-03,2026-08-03,2026-08,2026-08,1,1,0,1,True,False,False
+351,Domar Bazar,Rangpur,947,Potato (Holland) - Red,1,2026-08-03,2026-08-03,2026-08,2026-08,1,1,0,1,True,False,False
+352,Mithapukur Bazar,Rangpur,831,Onion (local),4,2026-05-07,2026-08-02,2026-05,2026-08,4,4,0,4,True,False,False
+352,Mithapukur Bazar,Rangpur,943,Potato (Local),6,2026-03-31,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+352,Mithapukur Bazar,Rangpur,947,Potato (Holland) - Red,6,2026-03-12,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+353,Kamalganj Bazar,Sylhet,831,Onion (local),2,2026-07-08,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+353,Kamalganj Bazar,Sylhet,944,Potato (Holland) - White (Old),2,2026-07-08,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+354,Srimangal Bazar,Sylhet,833,Onion (New),3,2026-06-25,2026-08-02,2026-06,2026-08,3,3,0,3,True,False,False
+354,Srimangal Bazar,Sylhet,945,Potato (Holland) - White (New),3,2026-06-25,2026-08-02,2026-06,2026-08,3,3,0,3,True,False,False
+355,Beanibazar Market,Sylhet,831,Onion (local),4,2026-02-22,2026-05-03,2026-02,2026-05,4,4,0,4,True,False,False
+355,Beanibazar Market,Sylhet,832,Onion-imported,2,2026-02-22,2026-03-01,2026-02,2026-03,2,2,0,2,True,False,False
+355,Beanibazar Market,Sylhet,943,Potato (Local),4,2026-02-22,2026-05-03,2026-02,2026-05,4,4,0,4,True,False,False
+355,Beanibazar Market,Sylhet,944,Potato (Holland) - White (Old),2,2026-02-22,2026-03-01,2026-02,2026-03,2,2,0,2,True,False,False
+355,Beanibazar Market,Sylhet,945,Potato (Holland) - White (New),4,2026-02-22,2026-05-03,2026-02,2026-05,4,4,0,4,True,False,False
+356,Golapganj Bazar,Sylhet,831,Onion (local),6,2026-03-10,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+356,Golapganj Bazar,Sylhet,832,Onion-imported,3,2026-03-10,2026-05-03,2026-03,2026-05,3,3,0,3,True,False,False
+356,Golapganj Bazar,Sylhet,943,Potato (Local),6,2026-03-10,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+357,Tungipara Bazar,Dhaka,831,Onion (local),2,2026-07-26,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+357,Tungipara Bazar,Dhaka,945,Potato (Holland) - White (New),2,2026-07-26,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+357,Tungipara Bazar,Dhaka,947,Potato (Holland) - Red,2,2026-07-26,2026-08-02,2026-07,2026-08,2,2,0,2,True,False,False
+358,Bajitpur Bazar,Dhaka,831,Onion (local),5,2026-03-01,2026-08-02,2026-03,2026-08,6,5,1,3,False,False,False
+358,Bajitpur Bazar,Dhaka,945,Potato (Holland) - White (New),5,2026-03-01,2026-08-02,2026-03,2026-08,6,5,1,3,False,False,False
+358,Bajitpur Bazar,Dhaka,947,Potato (Holland) - Red,1,2026-03-01,2026-03-01,2026-03,2026-03,1,1,0,1,True,False,False
+359,Saturia Bazar,Dhaka,831,Onion (local),5,2026-04-05,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+359,Saturia Bazar,Dhaka,945,Potato (Holland) - White (New),5,2026-04-02,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+359,Saturia Bazar,Dhaka,947,Potato (Holland) - Red,5,2026-04-02,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+360,Singair Bazar,Dhaka,831,Onion (local),6,2026-03-04,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+360,Singair Bazar,Dhaka,945,Potato (Holland) - White (New),6,2026-03-04,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+360,Singair Bazar,Dhaka,947,Potato (Holland) - Red,6,2026-03-04,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+362,Shibpur Bazar,Dhaka,831,Onion (local),3,2026-02-23,2026-04-01,2026-02,2026-04,3,3,0,3,True,False,False
+362,Shibpur Bazar,Dhaka,943,Potato (Local),1,2026-04-05,2026-04-05,2026-04,2026-04,1,1,0,1,True,False,False
+362,Shibpur Bazar,Dhaka,945,Potato (Holland) - White (New),3,2026-02-23,2026-04-01,2026-02,2026-04,3,3,0,3,True,False,False
+364,Chakaria Bazar,Chattogram,831,Onion (local),1,2026-08-04,2026-08-04,2026-08,2026-08,1,1,0,1,True,False,False
+364,Chakaria Bazar,Chattogram,945,Potato (Holland) - White (New),1,2026-08-04,2026-08-04,2026-08,2026-08,1,1,0,1,True,False,False
+366,Lalmai Bazar,Chattogram,831,Onion (local),2,2026-04-07,2026-08-13,2026-04,2026-08,5,2,3,1,False,False,False
+366,Lalmai Bazar,Chattogram,945,Potato (Holland) - White (New),2,2026-04-07,2026-08-13,2026-04,2026-08,5,2,3,1,False,False,False
+367,Raipur Bazar,Chattogram,831,Onion (local),7,2026-02-26,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+367,Raipur Bazar,Chattogram,943,Potato (Local),7,2026-02-26,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+369,Begumganj Bazar,Chattogram,831,Onion (local),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+369,Begumganj Bazar,Chattogram,945,Potato (Holland) - White (New),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+370,Burichong Bazar,Chattogram,831,Onion (local),1,2026-08-02,2026-08-02,2026-08,2026-08,1,1,0,1,True,False,False
+370,Burichong Bazar,Chattogram,945,Potato (Holland) - White (New),1,2026-08-02,2026-08-02,2026-08,2026-08,1,1,0,1,True,False,False
+371,Amtoli Bazar,Chattogram,831,Onion (local),5,2026-04-01,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+371,Amtoli Bazar,Chattogram,945,Potato (Holland) - White (New),5,2026-04-01,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+372,Chagalnaiya Bazar,Chattogram,831,Onion (local),7,2026-02-26,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+372,Chagalnaiya Bazar,Chattogram,945,Potato (Holland) - White (New),7,2026-02-26,2026-08-02,2026-02,2026-08,7,7,0,7,True,True,False
+374,Kaukhali Bazar,Chattogram,831,Onion (local),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+374,Kaukhali Bazar,Chattogram,945,Potato (Holland) - White (New),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+375,Gobindaganj Bazar,Rangpur,831,Onion (local),6,2026-03-02,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+375,Gobindaganj Bazar,Rangpur,943,Potato (Local),6,2026-03-02,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+375,Gobindaganj Bazar,Rangpur,947,Potato (Holland) - Red,6,2026-03-02,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+377,"Kaliganj Bazar,",Rajshahi,833,Onion (New),6,2026-03-29,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+377,"Kaliganj Bazar,",Rajshahi,947,Potato (Holland) - Red,6,2026-03-29,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+379,Kaptai Bazar,Chattogram,831,Onion (local),6,2026-03-01,2026-08-02,2026-03,2026-08,6,6,0,6,True,True,False
+379,Kaptai Bazar,Chattogram,943,Potato (Local),1,2026-03-01,2026-03-01,2026-03,2026-03,1,1,0,1,True,False,False
+380,Lama Bazar,Chattogram,831,Onion (local),5,2026-04-16,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+380,Lama Bazar,Chattogram,832,Onion-imported,5,2026-04-16,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+380,Lama Bazar,Chattogram,945,Potato (Holland) - White (New),5,2026-04-16,2026-08-02,2026-04,2026-08,5,5,0,5,True,False,False
+383,Banyachong Market,Sylhet,831,Onion (local),4,2026-05-18,2026-08-02,2026-05,2026-08,4,4,0,4,True,False,False
+383,Banyachong Market,Sylhet,945,Potato (Holland) - White (New),4,2026-05-18,2026-08-02,2026-05,2026-08,4,4,0,4,True,False,False
+384,Navaron Bazar,Rajshahi,831,Onion (local),1,2026-08-02,2026-08-02,2026-08,2026-08,1,1,0,1,True,False,False
+384,Navaron Bazar,Rajshahi,946,Potato (Holland) - Red (Old),1,2026-08-02,2026-08-02,2026-08,2026-08,1,1,0,1,True,False,False

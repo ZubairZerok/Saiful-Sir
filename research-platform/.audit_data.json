@@ -1,0 +1,180 @@
+{
+  "comments": [
+    {
+      "artifactVersionId": "297a72ce33e733f834b2ae2aa9a140e72cc30e1b10c2f19d80cda9dc0e62218b",
+      "authorId": "user-default",
+      "authorName": "Auditor / Reviewer",
+      "authorRole": "teacher",
+      "anchorType": "csv_cell",
+      "anchorData": {
+        "type": "csv_cell",
+        "rowKey": {
+          "commodity_id": "831"
+        },
+        "columnName": "commodity_name",
+        "rowIndex": 12
+      },
+      "body": "ok",
+      "id": "01ec50e1-a197-49d5-93fa-26e347a52816",
+      "isResolved": false,
+      "createdAt": "2026-08-17T07:29:59.888Z",
+      "updatedAt": "2026-08-17T07:29:59.888Z"
+    },
+    {
+      "artifactVersionId": "2ef0c9fa13eb3fb1a7bcb46b1f8f30264273ec1fee53821987b968a88f443149",
+      "authorId": "user-default",
+      "authorName": "Auditor / Reviewer",
+      "authorRole": "teacher",
+      "anchorType": "markdown_block",
+      "anchorData": {
+        "type": "markdown_block",
+        "headingPath": [
+          "Paragraph"
+        ],
+        "blockHash": "block-4",
+        "blockIndex": 4
+      },
+      "body": "??",
+      "id": "comm-1786949373365-1np3r1",
+      "isResolved": false,
+      "createdAt": "2026-08-17T06:49:33.365Z",
+      "updatedAt": "2026-08-17T06:49:33.365Z"
+    },
+    {
+      "artifactVersionId": "2ef0c9fa13eb3fb1a7bcb46b1f8f30264273ec1fee53821987b968a88f443149",
+      "authorId": "user-default",
+      "authorName": "Auditor / Reviewer",
+      "authorRole": "teacher",
+      "anchorType": "markdown_block",
+      "anchorData": {
+        "type": "markdown_block",
+        "headingPath": [
+          "Paragraph"
+        ],
+        "blockHash": "block-4",
+        "blockIndex": 4
+      },
+      "body": "what",
+      "id": "comm-1786949366406-4vnr2r",
+      "isResolved": false,
+      "createdAt": "2026-08-17T06:49:26.406Z",
+      "updatedAt": "2026-08-17T06:49:26.406Z"
+    },
+    {
+      "artifactVersionId": "ver-test-1",
+      "authorId": "user-default",
+      "authorName": "Prof. S. Ahmed",
+      "authorRole": "teacher",
+      "anchorType": "csv_cell",
+      "anchorData": {
+        "type": "csv_cell",
+        "rowKey": {
+          "market_id": 275
+        },
+        "columnName": "price_wholesale_raw_mid_kg",
+        "rowIndex": 0
+      },
+      "body": "Verified: Raw wholesale mid price conforms to econometric standards.",
+      "id": "comm-1786948242619-i4m5wv",
+      "isResolved": false,
+      "createdAt": "2026-08-17T06:30:42.619Z",
+      "updatedAt": "2026-08-17T06:30:42.619Z"
+    },
+    {
+      "id": "comm-1",
+      "artifactVersionId": "ver-readiness-report",
+      "authorId": "supervisor-1",
+      "authorName": "Prof. S. Ahmed (Advisor)",
+      "authorRole": "teacher",
+      "anchorType": "markdown_block",
+      "anchorData": {
+        "type": "markdown_block",
+        "headingPath": [
+          "Answers to the 16 Mandatory Forensic & Methodological Questions",
+          "6. What is the primary analytical price variable and WHY?"
+        ],
+        "blockHash": "block-p6",
+        "blockIndex": 6
+      },
+      "body": "Excellent econometric rationale for using raw price midpoints (price_wholesale_raw_mid_kg) over DAM adjusted averages to avoid institutional smoothing distortion in Paper 1 and 2.",
+      "isResolved": false,
+      "createdAt": "2026-08-17T02:29:57.500Z",
+      "updatedAt": "2026-08-17T02:29:57.500Z"
+    },
+    {
+      "id": "comm-2",
+      "artifactVersionId": "ver-price-semantics",
+      "authorId": "supervisor-1",
+      "authorName": "Prof. S. Ahmed (Advisor)",
+      "authorRole": "teacher",
+      "anchorType": "csv_cell",
+      "anchorData": {
+        "type": "csv_cell",
+        "rowKey": {
+          "market_id": "275",
+          "commodity_id": "831",
+          "price_date": "2026-02-25"
+        },
+        "columnName": "price_wholesale_raw_mid_kg",
+        "rowIndex": 0
+      },
+      "body": "Note the 7.50 Tk/kg wholesale-retail spread for Chandina Bazar onion. This will serve as a clean baseline for Paper 3 flood shock transmission.",
+      "isResolved": false,
+      "createdAt": "2026-08-17T04:29:57.500Z",
+      "updatedAt": "2026-08-17T04:29:57.500Z"
+    }
+  ],
+  "decisions": [
+    {
+      "stepId": "step-9",
+      "decision": "approved",
+      "rationale": "All 36 output CSV files in FULL_FLAGGED, PRIMARY_ANALYSIS, and STRICT_SENSITIVITY validated.",
+      "decidedBy": "Supervisor",
+      "id": "dec-1786948242646",
+      "decidedAt": "2026-08-17T06:30:42.646Z"
+    },
+    {
+      "id": "dec-step-11",
+      "stepId": "step-11",
+      "decision": "approved",
+      "rationale": "Validated against all 16 mandatory forensic questions. Paper 2 analysis-ready, Papers 1 & 3 ready with conditions.",
+      "decidedBy": "Supervisor / Lead Auditor",
+      "decidedAt": "2026-08-17T06:29:57.500Z"
+    },
+    {
+      "id": "dec-step-9",
+      "stepId": "step-9",
+      "decision": "approved",
+      "rationale": "Three distinct tiers (FULL_FLAGGED, PRIMARY_ANALYSIS, STRICT_SENSITIVITY) generated with 14 boolean quality flags.",
+      "decidedBy": "Supervisor / Lead Auditor",
+      "decidedAt": "2026-08-17T06:29:57.500Z"
+    },
+    {
+      "id": "dec-step-6",
+      "stepId": "step-6",
+      "decision": "approved",
+      "rationale": "Semantic resolution verified: w_avgPrice is mathematically the midpoint of adjusted prices, not raw quotes.",
+      "decidedBy": "Supervisor / Lead Auditor",
+      "decidedAt": "2026-08-17T06:29:57.500Z"
+    }
+  ],
+  "stepStatuses": {
+    "1": "not_started",
+    "2": "not_started",
+    "3": "not_started",
+    "4": "approved",
+    "5": "approved",
+    "6": "approved",
+    "7": "approved",
+    "8": "approved",
+    "9": "approved",
+    "10": "approved",
+    "11": "approved",
+    "12": "not_started",
+    "13": "not_started",
+    "14": "not_started",
+    "15": "not_started",
+    "16": "not_started",
+    "17": "not_started"
+  }
+}

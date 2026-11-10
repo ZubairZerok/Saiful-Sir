@@ -1,0 +1,6 @@
+market_id,market_name,commodity_id,commodity_name_en,price_date,cpi_market_commodity_price_id,wholesale_price_low,wholesale_price_high,wholesale_price_avg,retail_price_low,retail_price_high,retail_price_avg
+379,Kaptai Bazar,831,Onion (local),2026-04-01,205687,350000.0,3600.0,84200.0,40.0,42.0,39.0
+103,Cox's Bazar Sadar,831,Onion (local),2026-03-01,203976,3500.0,4000.0,3288.0,4000.0,45.0,535.0
+232,Chapainawabganj Sadar Bazar,833,Onion (New),2025-12-01,199581,9000.0,9600.0,7328.0,10000.0,105.0,1073.0
+54,Gopaldanj Sadar Boro Bazar,947,Potato (Holland) - Red,2025-06-15,191861,1700.0,1800.0,1585165.0,22.0,25.0,24.0
+54,Gopaldanj Sadar Boro Bazar,947,Potato (Holland) - Red,2025-07-01,192627,19001700.0,2000.0,433706.0,24.0,25.0,24.0

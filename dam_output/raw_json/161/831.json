@@ -1,0 +1,37 @@
+{
+  "http_status": 200,
+  "error": "data Not found!",
+  "response": {
+    "success": false,
+    "message": "data Not found!"
+  },
+  "payload": {
+    "division_id": [
+      3
+    ],
+    "district_id": [
+      24
+    ],
+    "upazila_id": [
+      192
+    ],
+    "market_id": [
+      161
+    ],
+    "commodity_group_id": 32,
+    "commodity_sub_group_id": 217,
+    "commodity_id": 831,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Spices",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Onion",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Onion (local)",
+    "commodity_name_bn": "পেঁয়াজ- দেশীয়",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}

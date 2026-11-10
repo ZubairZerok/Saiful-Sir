@@ -1,0 +1,12 @@
+commodity,filename,total_markets,total_possible_pairs,pairs_with_overlap,pairs_ge12_common_obs,pairs_ge24_common_obs,pairs_ge36_common_obs,pairs_ge60_common_obs
+Onion (local),DAM_ONION_LOCAL_2010_2026.csv,97,4656,4500,990,0,0,0
+Onion-imported,DAM_ONION_IMPORTED_2010_2026.csv,50,1225,1045,1,0,0,0
+Onion (New),DAM_ONION_NEW_2010_2026.csv,29,406,353,78,0,0,0
+Potato (Holland) - White (New),DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,82,3321,2979,378,0,0,0
+Potato (Holland) - Red,DAM_POTATO_HOLLAND_RED_2010_2026.csv,52,1326,1188,153,0,0,0
+Potato (Local),DAM_POTATO_LOCAL_2010_2026.csv,54,1431,1272,55,0,0,0
+Potato (Holland) - White (Old),DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,23,253,222,3,0,0,0
+Potato (Holland) - Red (Old),DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,26,325,229,1,0,0,0
+Potato (Local) - Old,DAM_POTATO_LOCAL_OLD_2010_2026.csv,15,105,63,0,0,0,0
+Potatoes-imported,DAM_POTATOES_IMPORTED_2010_2026.csv,3,3,3,0,0,0,0
+Sweet Potato,DAM_SWEET_POTATO_2010_2026.csv,2,1,0,0,0,0,0

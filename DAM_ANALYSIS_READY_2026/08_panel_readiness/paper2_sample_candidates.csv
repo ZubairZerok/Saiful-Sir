@@ -1,0 +1,1743 @@
+commodity_id,commodity_name,commodity_family,market_id_1,market_name_1,division_1,market_id_2,market_name_2,division_2,is_inter_division,common_months_count
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,13,Rajshahi Sadar Bazar,Khulna,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,15,Pirojpur Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,18,Magura Sadar Bazar,Rajshahi,True,12
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,19,Sunamganj Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,23,Brahmanbaria Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,24,Moulvibazar Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,25,"Sadar Bazar, Madaripur",Dhaka,False,12
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,26,Narsingdi Sadar Bazar,Dhaka,False,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,27,Barisal Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,28,Bhola Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,29,Jamalpur Sadar Bazar,Mymensingh,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,31,"Sadar Bazar, Thakurgaon",Rangpur,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,32,Panchagarh Sadar Bazar,Rangpur,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,33,Nilphamari Sadar Bazar,Rangpur,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,34,Barguna Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,35,Bandarban Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,36,Gaibandha Sadar Bazar,Rangpur,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,37,Khulna Sadar Bazar,Rajshahi,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,38,"City Bazar, Rangpur",Rangpur,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,39,"Sadar Bazar, Lakshmipur",Chattogram,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,43,Lalmonirhat Sadar Bazar,Rangpur,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,47,Rajbari Sadar Bazar,Dhaka,False,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,51,Sylhet Sadar Bazaar,Sylhet,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,58,Meherpur Sadar Bazar,Rajshahi,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,67,Bogra Sadar Bazar,Khulna,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,102,Chandpur Sadaar,Chattogram,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,103,Cox's Bazar Sadar,Chattogram,True,12
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,104,Feni Sadar,Chattogram,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,108,Kishoreganj Bazar,Dhaka,False,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,109,Manikganj Bazar,Dhaka,False,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,110,Shariatpur Bazar,Dhaka,False,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,111,Tangail Bazar,Dhaka,False,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,116,Habiganj Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,125,Rupganj Bazar,Rajshahi,True,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,127,Joydevpur market,Dhaka,False,13
+831,Onion (local),ONION,4,Mohammadpur Krishi Market,Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,15,Pirojpur Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,18,Magura Sadar Bazar,Rajshahi,True,13
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,19,Sunamganj Sadar Bazar,Sylhet,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,13
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,23,Brahmanbaria Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,24,Moulvibazar Sadar Bazar,Sylhet,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,25,"Sadar Bazar, Madaripur",Dhaka,True,14
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,26,Narsingdi Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,27,Barisal Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,28,Bhola Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,29,Jamalpur Sadar Bazar,Mymensingh,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,31,"Sadar Bazar, Thakurgaon",Rangpur,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,32,Panchagarh Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,33,Nilphamari Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,34,Barguna Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,67,Bogra Sadar Bazar,Khulna,False,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,13,Rajshahi Sadar Bazar,Khulna,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,18,Magura Sadar Bazar,Rajshahi,True,13
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,19,Sunamganj Sadar Bazar,Sylhet,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,13
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,23,Brahmanbaria Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,24,Moulvibazar Sadar Bazar,Sylhet,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,25,"Sadar Bazar, Madaripur",Dhaka,True,14
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,26,Narsingdi Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,27,Barisal Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,28,Bhola Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,29,Jamalpur Sadar Bazar,Mymensingh,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,31,"Sadar Bazar, Thakurgaon",Rangpur,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,32,Panchagarh Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,33,Nilphamari Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,34,Barguna Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,101,Jhalakathi Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,15,Pirojpur Sadar Bazar,Barishal,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,19,Sunamganj Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,12
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,23,Brahmanbaria Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,24,Moulvibazar Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,25,"Sadar Bazar, Madaripur",Dhaka,True,12
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,26,Narsingdi Sadar Bazar,Dhaka,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,27,Barisal Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,28,Bhola Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,29,Jamalpur Sadar Bazar,Mymensingh,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,31,"Sadar Bazar, Thakurgaon",Rangpur,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,32,Panchagarh Sadar Bazar,Rangpur,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,33,Nilphamari Sadar Bazar,Rangpur,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,34,Barguna Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,35,Bandarban Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,36,Gaibandha Sadar Bazar,Rangpur,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,37,Khulna Sadar Bazar,Rajshahi,False,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,38,"City Bazar, Rangpur",Rangpur,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,39,"Sadar Bazar, Lakshmipur",Chattogram,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,43,Lalmonirhat Sadar Bazar,Rangpur,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,47,Rajbari Sadar Bazar,Dhaka,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,51,Sylhet Sadar Bazaar,Sylhet,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,58,Meherpur Sadar Bazar,Rajshahi,False,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,68,Sherpur Sadar Bazar,Mymensingh,True,12
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,79,Chittagong Sadar Bazar,Chattogram,True,10
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,81,"Pouro Super Market, Netrokona",Mymensingh,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,101,Jhalakathi Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,102,Chandpur Sadaar,Chattogram,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,103,Cox's Bazar Sadar,Chattogram,True,12
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,104,Feni Sadar,Chattogram,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,106,Noakhali Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,108,Kishoreganj Bazar,Dhaka,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,109,Manikganj Bazar,Dhaka,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,110,Shariatpur Bazar,Dhaka,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,111,Tangail Bazar,Dhaka,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,112,Jessore Sadar Bazar,Rajshahi,False,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,116,Habiganj Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,119,"Sultanpur Bazar, Satkhira",Rajshahi,False,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,125,Rupganj Bazar,Rajshahi,False,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,13
+831,Onion (local),ONION,18,Magura Sadar Bazar,Rajshahi,146,Rangamati Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,13
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,23,Brahmanbaria Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,24,Moulvibazar Sadar Bazar,Sylhet,False,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,25,"Sadar Bazar, Madaripur",Dhaka,True,14
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,26,Narsingdi Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,27,Barisal Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,28,Bhola Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,29,Jamalpur Sadar Bazar,Mymensingh,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,31,"Sadar Bazar, Thakurgaon",Rangpur,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,32,Panchagarh Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,33,Nilphamari Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,34,Barguna Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,51,Sylhet Sadar Bazaar,Sylhet,False,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,116,Habiganj Sadar Bazar,Sylhet,False,14
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,19,Sunamganj Sadar Bazar,Sylhet,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,23,Brahmanbaria Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,24,Moulvibazar Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,25,"Sadar Bazar, Madaripur",Dhaka,True,12
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,26,Narsingdi Sadar Bazar,Dhaka,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,27,Barisal Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,28,Bhola Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,29,Jamalpur Sadar Bazar,Mymensingh,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,31,"Sadar Bazar, Thakurgaon",Rangpur,False,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,32,Panchagarh Sadar Bazar,Rangpur,False,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,33,Nilphamari Sadar Bazar,Rangpur,False,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,34,Barguna Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,35,Bandarban Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,36,Gaibandha Sadar Bazar,Rangpur,False,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,37,Khulna Sadar Bazar,Rajshahi,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,38,"City Bazar, Rangpur",Rangpur,False,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,39,"Sadar Bazar, Lakshmipur",Chattogram,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,47,Rajbari Sadar Bazar,Dhaka,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,51,Sylhet Sadar Bazaar,Sylhet,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,58,Meherpur Sadar Bazar,Rajshahi,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,67,Bogra Sadar Bazar,Khulna,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,68,Sherpur Sadar Bazar,Mymensingh,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,101,Jhalakathi Sadar Bazar,Barishal,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,102,Chandpur Sadaar,Chattogram,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,103,Cox's Bazar Sadar,Chattogram,True,12
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,104,Feni Sadar,Chattogram,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,106,Noakhali Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,108,Kishoreganj Bazar,Dhaka,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,109,Manikganj Bazar,Dhaka,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,110,Shariatpur Bazar,Dhaka,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,111,Tangail Bazar,Dhaka,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,112,Jessore Sadar Bazar,Rajshahi,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,116,Habiganj Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,125,Rupganj Bazar,Rajshahi,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,127,Joydevpur market,Dhaka,True,13
+831,Onion (local),ONION,21,Sadar (Zia Bazar) Kurigram,Rangpur,146,Rangamati Sadar Bazar,Chattogram,True,13
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,24,Moulvibazar Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,25,"Sadar Bazar, Madaripur",Dhaka,True,13
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,26,Narsingdi Sadar Bazar,Dhaka,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,27,Barisal Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,28,Bhola Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,29,Jamalpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,31,"Sadar Bazar, Thakurgaon",Rangpur,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,32,Panchagarh Sadar Bazar,Rangpur,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,33,Nilphamari Sadar Bazar,Rangpur,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,34,Barguna Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,35,Bandarban Sadar Bazar,Chattogram,False,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,36,Gaibandha Sadar Bazar,Rangpur,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,37,Khulna Sadar Bazar,Rajshahi,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,38,"City Bazar, Rangpur",Rangpur,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,39,"Sadar Bazar, Lakshmipur",Chattogram,False,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,43,Lalmonirhat Sadar Bazar,Rangpur,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,47,Rajbari Sadar Bazar,Dhaka,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,51,Sylhet Sadar Bazaar,Sylhet,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,58,Meherpur Sadar Bazar,Rajshahi,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,67,Bogra Sadar Bazar,Khulna,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,68,Sherpur Sadar Bazar,Mymensingh,True,13
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,79,Chittagong Sadar Bazar,Chattogram,False,10
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,101,Jhalakathi Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,102,Chandpur Sadaar,Chattogram,False,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,103,Cox's Bazar Sadar,Chattogram,False,13
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,104,Feni Sadar,Chattogram,False,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,109,Manikganj Bazar,Dhaka,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,110,Shariatpur Bazar,Dhaka,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,111,Tangail Bazar,Dhaka,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,125,Rupganj Bazar,Rajshahi,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,127,Joydevpur market,Dhaka,True,14
+831,Onion (local),ONION,23,Brahmanbaria Sadar Bazar,Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,14
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,25,"Sadar Bazar, Madaripur",Dhaka,True,14
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,26,Narsingdi Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,27,Barisal Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,28,Bhola Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,29,Jamalpur Sadar Bazar,Mymensingh,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,31,"Sadar Bazar, Thakurgaon",Rangpur,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,32,Panchagarh Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,33,Nilphamari Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,34,Barguna Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,51,Sylhet Sadar Bazaar,Sylhet,False,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,116,Habiganj Sadar Bazar,Sylhet,False,14
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,24,Moulvibazar Sadar Bazar,Sylhet,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,26,Narsingdi Sadar Bazar,Dhaka,False,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,27,Barisal Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,28,Bhola Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,29,Jamalpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,31,"Sadar Bazar, Thakurgaon",Rangpur,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,32,Panchagarh Sadar Bazar,Rangpur,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,33,Nilphamari Sadar Bazar,Rangpur,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,34,Barguna Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,35,Bandarban Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,36,Gaibandha Sadar Bazar,Rangpur,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,37,Khulna Sadar Bazar,Rajshahi,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,38,"City Bazar, Rangpur",Rangpur,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,39,"Sadar Bazar, Lakshmipur",Chattogram,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,43,Lalmonirhat Sadar Bazar,Rangpur,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,47,Rajbari Sadar Bazar,Dhaka,False,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,51,Sylhet Sadar Bazaar,Sylhet,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,58,Meherpur Sadar Bazar,Rajshahi,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,67,Bogra Sadar Bazar,Khulna,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,13
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,102,Chandpur Sadaar,Chattogram,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,103,Cox's Bazar Sadar,Chattogram,True,13
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,104,Feni Sadar,Chattogram,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,108,Kishoreganj Bazar,Dhaka,False,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,109,Manikganj Bazar,Dhaka,False,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,110,Shariatpur Bazar,Dhaka,False,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,111,Tangail Bazar,Dhaka,False,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,116,Habiganj Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,125,Rupganj Bazar,Rajshahi,True,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,127,Joydevpur market,Dhaka,False,14
+831,Onion (local),ONION,25,"Sadar Bazar, Madaripur",Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,27,Barisal Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,28,Bhola Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,29,Jamalpur Sadar Bazar,Mymensingh,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,31,"Sadar Bazar, Thakurgaon",Rangpur,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,32,Panchagarh Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,33,Nilphamari Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,34,Barguna Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,47,Rajbari Sadar Bazar,Dhaka,False,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,108,Kishoreganj Bazar,Dhaka,False,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,109,Manikganj Bazar,Dhaka,False,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,110,Shariatpur Bazar,Dhaka,False,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,111,Tangail Bazar,Dhaka,False,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+831,Onion (local),ONION,26,Narsingdi Sadar Bazar,Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,28,Bhola Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,29,Jamalpur Sadar Bazar,Mymensingh,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,31,"Sadar Bazar, Thakurgaon",Rangpur,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,32,Panchagarh Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,33,Nilphamari Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,34,Barguna Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,101,Jhalakathi Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,27,Barisal Sadar Bazar,Barishal,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,29,Jamalpur Sadar Bazar,Mymensingh,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,31,"Sadar Bazar, Thakurgaon",Rangpur,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,32,Panchagarh Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,33,Nilphamari Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,34,Barguna Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,101,Jhalakathi Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,28,Bhola Sadar Bazar,Barishal,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,31,"Sadar Bazar, Thakurgaon",Rangpur,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,32,Panchagarh Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,33,Nilphamari Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,34,Barguna Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,68,Sherpur Sadar Bazar,Mymensingh,False,14
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,81,"Pouro Super Market, Netrokona",Mymensingh,False,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,29,Jamalpur Sadar Bazar,Mymensingh,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,32,Panchagarh Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,33,Nilphamari Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,34,Barguna Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,36,Gaibandha Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,38,"City Bazar, Rangpur",Rangpur,False,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,31,"Sadar Bazar, Thakurgaon",Rangpur,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,33,Nilphamari Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,34,Barguna Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,36,Gaibandha Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,38,"City Bazar, Rangpur",Rangpur,False,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,32,Panchagarh Sadar Bazar,Rangpur,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,34,Barguna Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,36,Gaibandha Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,38,"City Bazar, Rangpur",Rangpur,False,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,33,Nilphamari Sadar Bazar,Rangpur,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,35,Bandarban Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,101,Jhalakathi Sadar Bazar,Barishal,False,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,34,Barguna Sadar Bazar,Barishal,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,36,Gaibandha Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,39,"Sadar Bazar, Lakshmipur",Chattogram,False,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,79,Chittagong Sadar Bazar,Chattogram,False,11
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,102,Chandpur Sadaar,Chattogram,False,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,103,Cox's Bazar Sadar,Chattogram,False,14
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,104,Feni Sadar,Chattogram,False,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,35,Bandarban Sadar Bazar,Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,37,Khulna Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,38,"City Bazar, Rangpur",Rangpur,False,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,36,Gaibandha Sadar Bazar,Rangpur,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,38,"City Bazar, Rangpur",Rangpur,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,58,Meherpur Sadar Bazar,Rajshahi,False,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,112,Jessore Sadar Bazar,Rajshahi,False,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,119,"Sultanpur Bazar, Satkhira",Rajshahi,False,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,125,Rupganj Bazar,Rajshahi,False,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,37,Khulna Sadar Bazar,Rajshahi,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,39,"Sadar Bazar, Lakshmipur",Chattogram,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,38,"City Bazar, Rangpur",Rangpur,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,79,Chittagong Sadar Bazar,Chattogram,False,11
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,102,Chandpur Sadaar,Chattogram,False,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,103,Cox's Bazar Sadar,Chattogram,False,14
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,104,Feni Sadar,Chattogram,False,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,39,"Sadar Bazar, Lakshmipur",Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,47,Rajbari Sadar Bazar,Dhaka,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,43,Lalmonirhat Sadar Bazar,Rangpur,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,51,Sylhet Sadar Bazaar,Sylhet,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,108,Kishoreganj Bazar,Dhaka,False,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,109,Manikganj Bazar,Dhaka,False,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,110,Shariatpur Bazar,Dhaka,False,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,111,Tangail Bazar,Dhaka,False,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+831,Onion (local),ONION,47,Rajbari Sadar Bazar,Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,58,Meherpur Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,116,Habiganj Sadar Bazar,Sylhet,False,14
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,51,Sylhet Sadar Bazaar,Sylhet,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,112,Jessore Sadar Bazar,Rajshahi,False,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,119,"Sultanpur Bazar, Satkhira",Rajshahi,False,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,125,Rupganj Bazar,Rajshahi,False,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,58,Meherpur Sadar Bazar,Rajshahi,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,68,Sherpur Sadar Bazar,Mymensingh,True,14
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,79,Chittagong Sadar Bazar,Chattogram,True,11
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,67,Bogra Sadar Bazar,Khulna,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,79,Chittagong Sadar Bazar,Chattogram,True,10
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,81,"Pouro Super Market, Netrokona",Mymensingh,False,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,101,Jhalakathi Sadar Bazar,Barishal,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,102,Chandpur Sadaar,Chattogram,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,103,Cox's Bazar Sadar,Chattogram,True,13
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,104,Feni Sadar,Chattogram,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,106,Noakhali Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,108,Kishoreganj Bazar,Dhaka,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,109,Manikganj Bazar,Dhaka,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,110,Shariatpur Bazar,Dhaka,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,111,Tangail Bazar,Dhaka,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,112,Jessore Sadar Bazar,Rajshahi,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,116,Habiganj Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,125,Rupganj Bazar,Rajshahi,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,127,Joydevpur market,Dhaka,True,14
+831,Onion (local),ONION,68,Sherpur Sadar Bazar,Mymensingh,146,Rangamati Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,81,"Pouro Super Market, Netrokona",Mymensingh,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,101,Jhalakathi Sadar Bazar,Barishal,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,102,Chandpur Sadaar,Chattogram,False,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,103,Cox's Bazar Sadar,Chattogram,False,10
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,104,Feni Sadar,Chattogram,False,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,109,Manikganj Bazar,Dhaka,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,110,Shariatpur Bazar,Dhaka,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,111,Tangail Bazar,Dhaka,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,10
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,125,Rupganj Bazar,Rajshahi,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,127,Joydevpur market,Dhaka,True,11
+831,Onion (local),ONION,79,Chittagong Sadar Bazar,Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,11
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,101,Jhalakathi Sadar Bazar,Barishal,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,81,"Pouro Super Market, Netrokona",Mymensingh,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,102,Chandpur Sadaar,Chattogram,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,103,Cox's Bazar Sadar,Chattogram,True,14
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,104,Feni Sadar,Chattogram,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,106,Noakhali Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,101,Jhalakathi Sadar Bazar,Barishal,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,103,Cox's Bazar Sadar,Chattogram,False,14
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,104,Feni Sadar,Chattogram,False,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,102,Chandpur Sadaar,Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,104,Feni Sadar,Chattogram,False,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,109,Manikganj Bazar,Dhaka,True,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,110,Shariatpur Bazar,Dhaka,True,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,111,Tangail Bazar,Dhaka,True,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,13
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,125,Rupganj Bazar,Rajshahi,True,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,127,Joydevpur market,Dhaka,True,14
+831,Onion (local),ONION,103,Cox's Bazar Sadar,Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,14
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,104,Feni Sadar,Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,105,Khagrachari Sadar Pouro Bazar,Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,109,Manikganj Bazar,Dhaka,True,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,110,Shariatpur Bazar,Dhaka,True,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,111,Tangail Bazar,Dhaka,True,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,106,Noakhali Sadar Bazar,Chattogram,146,Rangamati Sadar Bazar,Chattogram,False,15
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,109,Manikganj Bazar,Dhaka,False,15
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,110,Shariatpur Bazar,Dhaka,False,15
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,111,Tangail Bazar,Dhaka,False,15
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+831,Onion (local),ONION,108,Kishoreganj Bazar,Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,110,Shariatpur Bazar,Dhaka,False,15
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,111,Tangail Bazar,Dhaka,False,15
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+831,Onion (local),ONION,109,Manikganj Bazar,Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,110,Shariatpur Bazar,Dhaka,111,Tangail Bazar,Dhaka,False,15
+831,Onion (local),ONION,110,Shariatpur Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,110,Shariatpur Bazar,Dhaka,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,110,Shariatpur Bazar,Dhaka,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,110,Shariatpur Bazar,Dhaka,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,110,Shariatpur Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+831,Onion (local),ONION,110,Shariatpur Bazar,Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,111,Tangail Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+831,Onion (local),ONION,111,Tangail Bazar,Dhaka,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,111,Tangail Bazar,Dhaka,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,15
+831,Onion (local),ONION,111,Tangail Bazar,Dhaka,125,Rupganj Bazar,Rajshahi,True,15
+831,Onion (local),ONION,111,Tangail Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+831,Onion (local),ONION,111,Tangail Bazar,Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,112,Jessore Sadar Bazar,Rajshahi,116,Habiganj Sadar Bazar,Sylhet,True,14
+831,Onion (local),ONION,112,Jessore Sadar Bazar,Rajshahi,119,"Sultanpur Bazar, Satkhira",Rajshahi,False,15
+831,Onion (local),ONION,112,Jessore Sadar Bazar,Rajshahi,125,Rupganj Bazar,Rajshahi,False,15
+831,Onion (local),ONION,112,Jessore Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,112,Jessore Sadar Bazar,Rajshahi,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,116,Habiganj Sadar Bazar,Sylhet,119,"Sultanpur Bazar, Satkhira",Rajshahi,True,14
+831,Onion (local),ONION,116,Habiganj Sadar Bazar,Sylhet,125,Rupganj Bazar,Rajshahi,True,14
+831,Onion (local),ONION,116,Habiganj Sadar Bazar,Sylhet,127,Joydevpur market,Dhaka,True,14
+831,Onion (local),ONION,116,Habiganj Sadar Bazar,Sylhet,146,Rangamati Sadar Bazar,Chattogram,True,14
+831,Onion (local),ONION,119,"Sultanpur Bazar, Satkhira",Rajshahi,125,Rupganj Bazar,Rajshahi,False,15
+831,Onion (local),ONION,119,"Sultanpur Bazar, Satkhira",Rajshahi,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,119,"Sultanpur Bazar, Satkhira",Rajshahi,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,125,Rupganj Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+831,Onion (local),ONION,125,Rupganj Bazar,Rajshahi,146,Rangamati Sadar Bazar,Chattogram,True,15
+831,Onion (local),ONION,127,Joydevpur market,Dhaka,146,Rangamati Sadar Bazar,Chattogram,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,30,Naogaon Sadar Bazar,Khulna,False,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,52,Faridpur Sadar Bazar,Dhaka,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,65,Kushtia Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,66,Joypurhat Sadar Bazar,Khulna,False,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,114,Nator Bazar,Khulna,False,15
+833,Onion (New),ONION,20,"Sadar Bazar, Pabna",Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,14
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,52,Faridpur Sadar Bazar,Dhaka,True,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,65,Kushtia Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,66,Joypurhat Sadar Bazar,Khulna,False,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,114,Nator Bazar,Khulna,False,15
+833,Onion (New),ONION,30,Naogaon Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,14
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,52,Faridpur Sadar Bazar,Dhaka,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,65,Kushtia Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,66,Joypurhat Sadar Bazar,Khulna,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,114,Nator Bazar,Khulna,True,15
+833,Onion (New),ONION,44,"Mechua Bazar, Mymensingh",Mymensingh,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,52,Faridpur Sadar Bazar,Dhaka,True,15
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,False,15
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,62,Bagerhat Sadar Bazar,Rajshahi,False,15
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,65,Kushtia Sadar Bazar,Rajshahi,False,15
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,66,Joypurhat Sadar Bazar,Khulna,True,15
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,114,Nator Bazar,Khulna,True,15
+833,Onion (New),ONION,50,Chuadanga Sadar Bazaar,Rajshahi,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,54,Gopaldanj Sadar Boro Bazar,Dhaka,False,15
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,65,Kushtia Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,66,Joypurhat Sadar Bazar,Khulna,True,15
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,114,Nator Bazar,Khulna,True,15
+833,Onion (New),ONION,52,Faridpur Sadar Bazar,Dhaka,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+833,Onion (New),ONION,53,"Bahadur Bazar, Dinajpur",Rangpur,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+833,Onion (New),ONION,53,"Bahadur Bazar, Dinajpur",Rangpur,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+833,Onion (New),ONION,53,"Bahadur Bazar, Dinajpur",Rangpur,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,53,"Bahadur Bazar, Dinajpur",Rangpur,65,Kushtia Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,53,"Bahadur Bazar, Dinajpur",Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+833,Onion (New),ONION,53,"Bahadur Bazar, Dinajpur",Rangpur,114,Nator Bazar,Khulna,True,15
+833,Onion (New),ONION,53,"Bahadur Bazar, Dinajpur",Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+833,Onion (New),ONION,54,Gopaldanj Sadar Boro Bazar,Dhaka,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+833,Onion (New),ONION,54,Gopaldanj Sadar Boro Bazar,Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,54,Gopaldanj Sadar Boro Bazar,Dhaka,65,Kushtia Sadar Bazar,Rajshahi,True,15
+833,Onion (New),ONION,54,Gopaldanj Sadar Boro Bazar,Dhaka,66,Joypurhat Sadar Bazar,Khulna,True,15
+833,Onion (New),ONION,54,Gopaldanj Sadar Boro Bazar,Dhaka,114,Nator Bazar,Khulna,True,15
+833,Onion (New),ONION,54,Gopaldanj Sadar Boro Bazar,Dhaka,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+833,Onion (New),ONION,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,62,Bagerhat Sadar Bazar,Rajshahi,False,15
+833,Onion (New),ONION,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,65,Kushtia Sadar Bazar,Rajshahi,False,15
+833,Onion (New),ONION,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,66,Joypurhat Sadar Bazar,Khulna,True,15
+833,Onion (New),ONION,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,114,Nator Bazar,Khulna,True,15
+833,Onion (New),ONION,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+833,Onion (New),ONION,62,Bagerhat Sadar Bazar,Rajshahi,65,Kushtia Sadar Bazar,Rajshahi,False,15
+833,Onion (New),ONION,62,Bagerhat Sadar Bazar,Rajshahi,66,Joypurhat Sadar Bazar,Khulna,True,15
+833,Onion (New),ONION,62,Bagerhat Sadar Bazar,Rajshahi,114,Nator Bazar,Khulna,True,15
+833,Onion (New),ONION,62,Bagerhat Sadar Bazar,Rajshahi,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+833,Onion (New),ONION,65,Kushtia Sadar Bazar,Rajshahi,66,Joypurhat Sadar Bazar,Khulna,True,15
+833,Onion (New),ONION,65,Kushtia Sadar Bazar,Rajshahi,114,Nator Bazar,Khulna,True,15
+833,Onion (New),ONION,65,Kushtia Sadar Bazar,Rajshahi,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+833,Onion (New),ONION,66,Joypurhat Sadar Bazar,Khulna,114,Nator Bazar,Khulna,False,15
+833,Onion (New),ONION,66,Joypurhat Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,14
+833,Onion (New),ONION,114,Nator Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,14
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,17,Narayanganj Sadar Bazar,Dhaka,True,15
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,15
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,26,Narsingdi Sadar Bazar,Dhaka,True,10
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,28,Bhola Sadar Bazar,Barishal,True,15
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,30,Naogaon Sadar Bazar,Khulna,False,11
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,36,Gaibandha Sadar Bazar,Rangpur,True,15
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,66,Joypurhat Sadar Bazar,Khulna,False,15
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,67,Bogra Sadar Bazar,Khulna,False,15
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,110,Shariatpur Bazar,Dhaka,True,15
+943,Potato (Local),POTATO,13,Rajshahi Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,15
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,15
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,26,Narsingdi Sadar Bazar,Dhaka,False,10
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,28,Bhola Sadar Bazar,Barishal,True,15
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,30,Naogaon Sadar Bazar,Khulna,True,11
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,36,Gaibandha Sadar Bazar,Rangpur,True,15
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,66,Joypurhat Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,110,Shariatpur Bazar,Dhaka,False,15
+943,Potato (Local),POTATO,17,Narayanganj Sadar Bazar,Dhaka,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,26,Narsingdi Sadar Bazar,Dhaka,True,10
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,28,Bhola Sadar Bazar,Barishal,True,15
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,30,Naogaon Sadar Bazar,Khulna,True,11
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,36,Gaibandha Sadar Bazar,Rangpur,False,15
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+943,Potato (Local),POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,28,Bhola Sadar Bazar,Barishal,True,10
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,36,Gaibandha Sadar Bazar,Rangpur,True,10
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,43,Lalmonirhat Sadar Bazar,Rangpur,True,10
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,66,Joypurhat Sadar Bazar,Khulna,True,10
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,10
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,10
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,110,Shariatpur Bazar,Dhaka,False,10
+943,Potato (Local),POTATO,26,Narsingdi Sadar Bazar,Dhaka,232,Chapainawabganj Sadar Bazar,Khulna,True,10
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,30,Naogaon Sadar Bazar,Khulna,True,11
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,36,Gaibandha Sadar Bazar,Rangpur,True,15
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,66,Joypurhat Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,67,Bogra Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,110,Shariatpur Bazar,Dhaka,True,15
+943,Potato (Local),POTATO,28,Bhola Sadar Bazar,Barishal,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,30,Naogaon Sadar Bazar,Khulna,36,Gaibandha Sadar Bazar,Rangpur,True,11
+943,Potato (Local),POTATO,30,Naogaon Sadar Bazar,Khulna,43,Lalmonirhat Sadar Bazar,Rangpur,True,11
+943,Potato (Local),POTATO,30,Naogaon Sadar Bazar,Khulna,66,Joypurhat Sadar Bazar,Khulna,False,11
+943,Potato (Local),POTATO,30,Naogaon Sadar Bazar,Khulna,67,Bogra Sadar Bazar,Khulna,False,11
+943,Potato (Local),POTATO,30,Naogaon Sadar Bazar,Khulna,81,"Pouro Super Market, Netrokona",Mymensingh,True,10
+943,Potato (Local),POTATO,30,Naogaon Sadar Bazar,Khulna,110,Shariatpur Bazar,Dhaka,True,11
+943,Potato (Local),POTATO,30,Naogaon Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,11
+943,Potato (Local),POTATO,36,Gaibandha Sadar Bazar,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+943,Potato (Local),POTATO,36,Gaibandha Sadar Bazar,Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,36,Gaibandha Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,36,Gaibandha Sadar Bazar,Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+943,Potato (Local),POTATO,36,Gaibandha Sadar Bazar,Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+943,Potato (Local),POTATO,36,Gaibandha Sadar Bazar,Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+943,Potato (Local),POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,110,Shariatpur Bazar,Dhaka,True,15
+943,Potato (Local),POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+943,Potato (Local),POTATO,66,Joypurhat Sadar Bazar,Khulna,67,Bogra Sadar Bazar,Khulna,False,15
+943,Potato (Local),POTATO,66,Joypurhat Sadar Bazar,Khulna,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+943,Potato (Local),POTATO,66,Joypurhat Sadar Bazar,Khulna,110,Shariatpur Bazar,Dhaka,True,15
+943,Potato (Local),POTATO,66,Joypurhat Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,15
+943,Potato (Local),POTATO,67,Bogra Sadar Bazar,Khulna,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+943,Potato (Local),POTATO,67,Bogra Sadar Bazar,Khulna,110,Shariatpur Bazar,Dhaka,True,15
+943,Potato (Local),POTATO,67,Bogra Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,15
+943,Potato (Local),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,110,Shariatpur Bazar,Dhaka,True,14
+943,Potato (Local),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,232,Chapainawabganj Sadar Bazar,Khulna,True,14
+943,Potato (Local),POTATO,110,Shariatpur Bazar,Dhaka,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+944,Potato (Holland) - White (Old),POTATO,51,Sylhet Sadar Bazaar,Sylhet,65,Kushtia Sadar Bazar,Rajshahi,True,10
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,24,Moulvibazar Sadar Bazar,Sylhet,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,25,"Sadar Bazar, Madaripur",Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,26,Narsingdi Sadar Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,30,Naogaon Sadar Bazar,Khulna,True,11
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,34,Barguna Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,35,Bandarban Sadar Bazar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,37,Khulna Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,39,"Sadar Bazar, Lakshmipur",Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,47,Rajbari Sadar Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,56,Comilla Sadar Bazar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,59,Munshiganj Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,102,Chandpur Sadaar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,103,Cox's Bazar Sadar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,104,Feni Sadar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,10
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,23,Brahmanbaria Sadar Bazar,Chattogram,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,25,"Sadar Bazar, Madaripur",Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,26,Narsingdi Sadar Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,30,Naogaon Sadar Bazar,Khulna,True,11
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,34,Barguna Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,35,Bandarban Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,37,Khulna Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,39,"Sadar Bazar, Lakshmipur",Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,47,Rajbari Sadar Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,51,Sylhet Sadar Bazaar,Sylhet,False,10
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,59,Munshiganj Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,24,Moulvibazar Sadar Bazar,Sylhet,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,26,Narsingdi Sadar Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,30,Naogaon Sadar Bazar,Khulna,True,11
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,34,Barguna Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,35,Bandarban Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,37,Khulna Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,39,"Sadar Bazar, Lakshmipur",Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,47,Rajbari Sadar Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,54,Gopaldanj Sadar Boro Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,59,Munshiganj Sadar Bazar,Dhaka,False,14
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,108,Kishoreganj Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,25,"Sadar Bazar, Madaripur",Dhaka,127,Joydevpur market,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,30,Naogaon Sadar Bazar,Khulna,True,11
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,34,Barguna Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,35,Bandarban Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,37,Khulna Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,39,"Sadar Bazar, Lakshmipur",Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,47,Rajbari Sadar Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,54,Gopaldanj Sadar Boro Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,59,Munshiganj Sadar Bazar,Dhaka,False,14
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,108,Kishoreganj Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,26,Narsingdi Sadar Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,34,Barguna Sadar Bazar,Barishal,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,35,Bandarban Sadar Bazar,Chattogram,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,37,Khulna Sadar Bazar,Rajshahi,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,39,"Sadar Bazar, Lakshmipur",Chattogram,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,44,"Mechua Bazar, Mymensingh",Mymensingh,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,47,Rajbari Sadar Bazar,Dhaka,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,53,"Bahadur Bazar, Dinajpur",Rangpur,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,56,Comilla Sadar Bazar,Chattogram,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,59,Munshiganj Sadar Bazar,Dhaka,True,10
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,62,Bagerhat Sadar Bazar,Rajshahi,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,67,Bogra Sadar Bazar,Khulna,False,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,68,Sherpur Sadar Bazar,Mymensingh,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,81,"Pouro Super Market, Netrokona",Mymensingh,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,101,Jhalakathi Sadar Bazar,Barishal,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,102,Chandpur Sadaar,Chattogram,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,103,Cox's Bazar Sadar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,104,Feni Sadar,Chattogram,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,106,Noakhali Sadar Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,108,Kishoreganj Bazar,Dhaka,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,112,Jessore Sadar Bazar,Rajshahi,True,11
+945,Potato (Holland) - White (New),POTATO,30,Naogaon Sadar Bazar,Khulna,127,Joydevpur market,Dhaka,True,11
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,35,Bandarban Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,37,Khulna Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,39,"Sadar Bazar, Lakshmipur",Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,47,Rajbari Sadar Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,59,Munshiganj Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,101,Jhalakathi Sadar Bazar,Barishal,False,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,34,Barguna Sadar Bazar,Barishal,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,37,Khulna Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,39,"Sadar Bazar, Lakshmipur",Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,47,Rajbari Sadar Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,56,Comilla Sadar Bazar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,59,Munshiganj Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,102,Chandpur Sadaar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,103,Cox's Bazar Sadar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,104,Feni Sadar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,10
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,35,Bandarban Sadar Bazar,Chattogram,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,39,"Sadar Bazar, Lakshmipur",Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,44,"Mechua Bazar, Mymensingh",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,47,Rajbari Sadar Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,59,Munshiganj Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,62,Bagerhat Sadar Bazar,Rajshahi,False,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,112,Jessore Sadar Bazar,Rajshahi,False,15
+945,Potato (Holland) - White (New),POTATO,37,Khulna Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,44,"Mechua Bazar, Mymensingh",Mymensingh,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,47,Rajbari Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,53,"Bahadur Bazar, Dinajpur",Rangpur,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,56,Comilla Sadar Bazar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,59,Munshiganj Sadar Bazar,Dhaka,True,13
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,62,Bagerhat Sadar Bazar,Rajshahi,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,67,Bogra Sadar Bazar,Khulna,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,68,Sherpur Sadar Bazar,Mymensingh,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,101,Jhalakathi Sadar Bazar,Barishal,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,102,Chandpur Sadaar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,103,Cox's Bazar Sadar,Chattogram,False,13
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,104,Feni Sadar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,10
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,13
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,108,Kishoreganj Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,14
+945,Potato (Holland) - White (New),POTATO,39,"Sadar Bazar, Lakshmipur",Chattogram,127,Joydevpur market,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,47,Rajbari Sadar Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,59,Munshiganj Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,68,Sherpur Sadar Bazar,Mymensingh,False,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,81,"Pouro Super Market, Netrokona",Mymensingh,False,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,44,"Mechua Bazar, Mymensingh",Mymensingh,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,51,Sylhet Sadar Bazaar,Sylhet,True,10
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,54,Gopaldanj Sadar Boro Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,59,Munshiganj Sadar Bazar,Dhaka,False,14
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,108,Kishoreganj Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,47,Rajbari Sadar Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,53,"Bahadur Bazar, Dinajpur",Rangpur,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,56,Comilla Sadar Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,62,Bagerhat Sadar Bazar,Rajshahi,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,67,Bogra Sadar Bazar,Khulna,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,68,Sherpur Sadar Bazar,Mymensingh,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,81,"Pouro Super Market, Netrokona",Mymensingh,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,101,Jhalakathi Sadar Bazar,Barishal,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,102,Chandpur Sadaar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,104,Feni Sadar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,106,Noakhali Sadar Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,108,Kishoreganj Bazar,Dhaka,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,112,Jessore Sadar Bazar,Rajshahi,True,10
+945,Potato (Holland) - White (New),POTATO,51,Sylhet Sadar Bazaar,Sylhet,127,Joydevpur market,Dhaka,True,10
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,59,Munshiganj Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,56,Comilla Sadar Bazar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,59,Munshiganj Sadar Bazar,Dhaka,False,14
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,108,Kishoreganj Bazar,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,59,Munshiganj Sadar Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,102,Chandpur Sadaar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,103,Cox's Bazar Sadar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,104,Feni Sadar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,10
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,56,Comilla Sadar Bazar,Chattogram,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,68,Sherpur Sadar Bazar,Mymensingh,True,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,81,"Pouro Super Market, Netrokona",Mymensingh,True,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,101,Jhalakathi Sadar Bazar,Barishal,True,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,102,Chandpur Sadaar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,103,Cox's Bazar Sadar,Chattogram,True,13
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,104,Feni Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,106,Noakhali Sadar Bazar,Chattogram,True,13
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,108,Kishoreganj Bazar,Dhaka,False,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,14
+945,Potato (Holland) - White (New),POTATO,59,Munshiganj Sadar Bazar,Dhaka,127,Joydevpur market,Dhaka,False,14
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,15
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,112,Jessore Sadar Bazar,Rajshahi,False,15
+945,Potato (Holland) - White (New),POTATO,62,Bagerhat Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,68,Sherpur Sadar Bazar,Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,81,"Pouro Super Market, Netrokona",Mymensingh,True,15
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,67,Bogra Sadar Bazar,Khulna,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,81,"Pouro Super Market, Netrokona",Mymensingh,False,15
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,68,Sherpur Sadar Bazar,Mymensingh,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,101,Jhalakathi Sadar Bazar,Barishal,True,15
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,81,"Pouro Super Market, Netrokona",Mymensingh,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,102,Chandpur Sadaar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,103,Cox's Bazar Sadar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,104,Feni Sadar,Chattogram,True,15
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,105,Khagrachari Sadar Pouro Bazar,Chattogram,True,10
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,106,Noakhali Sadar Bazar,Chattogram,True,14
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,101,Jhalakathi Sadar Bazar,Barishal,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,102,Chandpur Sadaar,Chattogram,103,Cox's Bazar Sadar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,102,Chandpur Sadaar,Chattogram,104,Feni Sadar,Chattogram,False,15
+945,Potato (Holland) - White (New),POTATO,102,Chandpur Sadaar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,10
+945,Potato (Holland) - White (New),POTATO,102,Chandpur Sadaar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,102,Chandpur Sadaar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,102,Chandpur Sadaar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,102,Chandpur Sadaar,Chattogram,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,103,Cox's Bazar Sadar,Chattogram,104,Feni Sadar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,103,Cox's Bazar Sadar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,13
+945,Potato (Holland) - White (New),POTATO,103,Cox's Bazar Sadar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,103,Cox's Bazar Sadar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,14
+945,Potato (Holland) - White (New),POTATO,103,Cox's Bazar Sadar,Chattogram,127,Joydevpur market,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,104,Feni Sadar,Chattogram,105,Khagrachari Sadar Pouro Bazar,Chattogram,False,10
+945,Potato (Holland) - White (New),POTATO,104,Feni Sadar,Chattogram,106,Noakhali Sadar Bazar,Chattogram,False,14
+945,Potato (Holland) - White (New),POTATO,104,Feni Sadar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,104,Feni Sadar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,104,Feni Sadar,Chattogram,127,Joydevpur market,Dhaka,True,15
+945,Potato (Holland) - White (New),POTATO,105,Khagrachari Sadar Pouro Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,10
+945,Potato (Holland) - White (New),POTATO,105,Khagrachari Sadar Pouro Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,10
+945,Potato (Holland) - White (New),POTATO,105,Khagrachari Sadar Pouro Bazar,Chattogram,127,Joydevpur market,Dhaka,True,10
+945,Potato (Holland) - White (New),POTATO,106,Noakhali Sadar Bazar,Chattogram,108,Kishoreganj Bazar,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,106,Noakhali Sadar Bazar,Chattogram,112,Jessore Sadar Bazar,Rajshahi,True,14
+945,Potato (Holland) - White (New),POTATO,106,Noakhali Sadar Bazar,Chattogram,127,Joydevpur market,Dhaka,True,14
+945,Potato (Holland) - White (New),POTATO,108,Kishoreganj Bazar,Dhaka,112,Jessore Sadar Bazar,Rajshahi,True,15
+945,Potato (Holland) - White (New),POTATO,108,Kishoreganj Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+945,Potato (Holland) - White (New),POTATO,112,Jessore Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+946,Potato (Holland) - Red (Old),POTATO,19,Sunamganj Sadar Bazar,Sylhet,65,Kushtia Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,18,Magura Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,20,"Sadar Bazar, Pabna",Khulna,False,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,33,Nilphamari Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,36,Gaibandha Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,38,"City Bazar, Rangpur",Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,66,Joypurhat Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,67,Bogra Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,13,Rajshahi Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,20,"Sadar Bazar, Pabna",Khulna,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,33,Nilphamari Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,36,Gaibandha Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,38,"City Bazar, Rangpur",Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,50,Chuadanga Sadar Bazaar,Rajshahi,False,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,False,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,62,Bagerhat Sadar Bazar,Rajshahi,False,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,18,Magura Sadar Bazar,Rajshahi,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,21,Sadar (Zia Bazar) Kurigram,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,33,Nilphamari Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,36,Gaibandha Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,38,"City Bazar, Rangpur",Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,43,Lalmonirhat Sadar Bazar,Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,66,Joypurhat Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,67,Bogra Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,20,"Sadar Bazar, Pabna",Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,33,Nilphamari Sadar Bazar,Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,36,Gaibandha Sadar Bazar,Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,38,"City Bazar, Rangpur",Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,53,"Bahadur Bazar, Dinajpur",Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,21,Sadar (Zia Bazar) Kurigram,Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,36,Gaibandha Sadar Bazar,Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,38,"City Bazar, Rangpur",Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,53,"Bahadur Bazar, Dinajpur",Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,33,Nilphamari Sadar Bazar,Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,38,"City Bazar, Rangpur",Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,53,"Bahadur Bazar, Dinajpur",Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,36,Gaibandha Sadar Bazar,Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,43,Lalmonirhat Sadar Bazar,Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,53,"Bahadur Bazar, Dinajpur",Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,38,"City Bazar, Rangpur",Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,50,Chuadanga Sadar Bazaar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,53,"Bahadur Bazar, Dinajpur",Rangpur,False,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,43,Lalmonirhat Sadar Bazar,Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,52,Faridpur Sadar Bazar,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,False,15
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,62,Bagerhat Sadar Bazar,Rajshahi,False,15
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,50,Chuadanga Sadar Bazaar,Rajshahi,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,53,"Bahadur Bazar, Dinajpur",Rangpur,True,15
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,54,Gopaldanj Sadar Boro Bazar,Dhaka,False,13
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,127,Joydevpur market,Dhaka,False,15
+947,Potato (Holland) - Red,POTATO,52,Faridpur Sadar Bazar,Dhaka,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,54,Gopaldanj Sadar Boro Bazar,Dhaka,True,13
+947,Potato (Holland) - Red,POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,62,Bagerhat Sadar Bazar,Rajshahi,True,15
+947,Potato (Holland) - Red,POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,53,"Bahadur Bazar, Dinajpur",Rangpur,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,True,13
+947,Potato (Holland) - Red,POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,62,Bagerhat Sadar Bazar,Rajshahi,True,13
+947,Potato (Holland) - Red,POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,66,Joypurhat Sadar Bazar,Khulna,True,13
+947,Potato (Holland) - Red,POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,67,Bogra Sadar Bazar,Khulna,True,13
+947,Potato (Holland) - Red,POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,127,Joydevpur market,Dhaka,False,13
+947,Potato (Holland) - Red,POTATO,54,Gopaldanj Sadar Boro Bazar,Dhaka,232,Chapainawabganj Sadar Bazar,Khulna,True,13
+947,Potato (Holland) - Red,POTATO,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,62,Bagerhat Sadar Bazar,Rajshahi,False,15
+947,Potato (Holland) - Red,POTATO,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,57,Jhenaidah Sadar Paura Boro Bazar,Rajshahi,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,62,Bagerhat Sadar Bazar,Rajshahi,66,Joypurhat Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,62,Bagerhat Sadar Bazar,Rajshahi,67,Bogra Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,62,Bagerhat Sadar Bazar,Rajshahi,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,62,Bagerhat Sadar Bazar,Rajshahi,232,Chapainawabganj Sadar Bazar,Khulna,True,15
+947,Potato (Holland) - Red,POTATO,66,Joypurhat Sadar Bazar,Khulna,67,Bogra Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,66,Joypurhat Sadar Bazar,Khulna,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,66,Joypurhat Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,67,Bogra Sadar Bazar,Khulna,127,Joydevpur market,Dhaka,True,15
+947,Potato (Holland) - Red,POTATO,67,Bogra Sadar Bazar,Khulna,232,Chapainawabganj Sadar Bazar,Khulna,False,15
+947,Potato (Holland) - Red,POTATO,127,Joydevpur market,Dhaka,232,Chapainawabganj Sadar Bazar,Khulna,True,15

@@ -1,0 +1,13 @@
+filename,is_combined_file,row_count,column_count,unique_markets,unique_commodities,commodity_ids,commodity_names,unique_dates,first_date,last_date,unique_years,unique_months,exact_duplicate_rows,duplicate_market_commodity_date,duplicate_market_commodity_cpi_id
+DAM_ONION_LOCAL_2010_2026.csv,False,911,39,97,1,831,Onion (local),85,2025-06-04,2026-08-13,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_ONION_IMPORTED_2010_2026.csv,False,201,39,50,1,832,Onion-imported,50,2025-06-15,2026-08-02,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_ONION_NEW_2010_2026.csv,False,266,39,29,1,833,Onion (New),40,2025-06-14,2026-08-02,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,False,75,39,15,1,942,Potato (Local) - Old,27,2025-06-04,2026-08-03,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_POTATO_LOCAL_2010_2026.csv,False,416,39,54,1,943,Potato (Local),76,2025-06-04,2026-08-04,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,False,160,39,23,1,944,Potato (Holland) - White (Old),26,2025-06-14,2026-08-02,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,False,688,39,82,1,945,Potato (Holland) - White (New),76,2025-06-15,2026-08-13,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,False,145,39,26,1,946,Potato (Holland) - Red (Old),33,2025-06-04,2026-08-11,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,False,452,39,52,1,947,Potato (Holland) - Red,61,2025-06-15,2026-08-03,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_SWEET_POTATO_2010_2026.csv,False,10,39,2,1,948,Sweet Potato,10,2025-06-15,2026-07-02,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8,0,0,0
+DAM_POTATOES_IMPORTED_2010_2026.csv,False,24,39,3,1,21014,Potatoes-imported,18,2025-06-15,2026-08-02,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0
+DAM_ALL_11_COMMODITIES_2010_2026.csv,True,3348,39,117,11,831; 832; 833; 942; 943; 944; 945; 946; 947; 948; 21014,Onion (New); Onion (local); Onion-imported; Potato (Holland) - Red; Potato (Holland) - Red (Old); Potato (Holland) - White (New); Potato (Holland) - White (Old); Potato (Local); Potato (Local) - Old; Potatoes-imported; Sweet Potato,144,2025-06-04,2026-08-13,2025; 2026,1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12,0,0,0

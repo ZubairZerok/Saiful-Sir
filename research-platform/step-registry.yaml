@@ -1,0 +1,192 @@
+steps:
+  - number: 1
+    id: "research-questions"
+    name: "Research Question & Hypotheses"
+    description: "Define Papers 1-3 core research questions, sub-questions, primary and null hypotheses, and cross-paper matrix."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: []
+    artifact_patterns:
+      - "Step123/step1_research_questions_and_hypotheses.md"
+      - "Step123/*.docx"
+    artifact_root: "d:/datamain/research-platform/Step123"
+
+  - number: 2
+    id: "literature-review"
+    name: "Literature Review"
+    description: "4-layer executive literature review, methodology matrix, identification strategies, and positioning comparison."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [1]
+    artifact_patterns:
+      - "Step123/step2_literature_review_and_matrix.md"
+    artifact_root: "d:/datamain/research-platform/Step123"
+
+  - number: 3
+    id: "data-source-identification"
+    name: "Data Source Identification"
+    description: "25+ data source inventory covering DAM prices, ERA5-Land gridded weather, CHIRPS, BMD stations, BBS census, and GIS networks."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [1]
+    artifact_patterns:
+      - "Step123/step3_data_sources_and_registry.md"
+    artifact_root: "d:/datamain/research-platform/Step123"
+
+  - number: 4
+    id: "data-extraction"
+    name: "Data Extraction"
+    description: "Execute DAM API extraction pipeline for 11 commodity varieties across 117 markets (3,348 observations)."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [3]
+    artifact_patterns:
+      - "dam_output/master/*.csv"
+      - "dam_output/extraction_log.csv"
+      - "dam_output/market_master.csv"
+      - "dam_output/commodity_master_11.csv"
+    artifact_root: "d:/datamain/dam_output"
+
+  - number: 5
+    id: "data-inventory"
+    name: "Data Inventory & Structural Audit"
+    description: "Validate CSV structure, check duplicates (0 duplicates found), column types, and missingness reports."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [4]
+    artifact_patterns:
+      - "DAM_ANALYSIS_READY_2026/01_inventory/*.csv"
+    artifact_root: "d:/datamain/DAM_ANALYSIS_READY_2026/01_inventory"
+
+  - number: 6
+    id: "price-semantics"
+    name: "Price Field Semantics & Forensics"
+    description: "Mathematical proof that w_avgPrice is the midpoint of adjusted quotes (not raw quotes), unit standardization to BDT/kg."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [5]
+    artifact_patterns:
+      - "DAM_ANALYSIS_READY_2026/02_price_semantics/*"
+    artifact_root: "d:/datamain/DAM_ANALYSIS_READY_2026/02_price_semantics"
+
+  - number: 7
+    id: "quality-audit"
+    name: "Quality Audit & Anomaly Detection"
+    description: "Zero-price, outlier, inverted-range, and extreme value forensics on all 3,348 observations with 14 boolean quality flags."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [5]
+    artifact_patterns:
+      - "DAM_ANALYSIS_READY_2026/03_quality_audit/*"
+    artifact_root: "d:/datamain/DAM_ANALYSIS_READY_2026/03_quality_audit"
+
+  - number: 8
+    id: "geo-temporal-validation"
+    name: "Geographic & Temporal Validation"
+    description: "Market directory validation across all 8 divisions, 15-month temporal continuity (June 2025 – August 2026)."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [5]
+    artifact_patterns:
+      - "DAM_ANALYSIS_READY_2026/04_geography/*"
+      - "DAM_ANALYSIS_READY_2026/05_temporal/*"
+    artifact_root: "d:/datamain/DAM_ANALYSIS_READY_2026"
+
+  - number: 9
+    id: "cleaning-protocol"
+    name: "Cleaning Protocol & Dataset Tiers"
+    description: "Stratification into 3 tiers (FULL_FLAGGED, PRIMARY_ANALYSIS, STRICT_SENSITIVITY) and creation of 36 standardized CSVs."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [7, 8]
+    artifact_patterns:
+      - "DAM_ANALYSIS_READY_2026/06_cleaning_rules/*"
+      - "DAM_ANALYSIS_READY_2026/07_outputs/**/*.csv"
+    artifact_root: "d:/datamain/DAM_ANALYSIS_READY_2026"
+
+  - number: 10
+    id: "panel-readiness"
+    name: "Panel Readiness & Sample Construction"
+    description: "Market-pair overlap matrices (5,500+ bilateral pairs for Paper 2), paper candidate samples, balanced panel verification."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [9]
+    artifact_patterns:
+      - "DAM_ANALYSIS_READY_2026/08_panel_readiness/*"
+    artifact_root: "d:/datamain/DAM_ANALYSIS_READY_2026/08_panel_readiness"
+
+  - number: 11
+    id: "research-readiness"
+    name: "Research Readiness Evaluation"
+    description: "16 mandatory forensic questions answered, cryptographic SHA-256 manifest, and AI audit guide."
+    status: "approved"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [10]
+    artifact_patterns:
+      - "DAM_ANALYSIS_READY_2026/09_research_readiness/*"
+      - "DAM_ANALYSIS_READY_2026/STEPS_4_TO_11_AI_AUDIT_GUIDE.md"
+      - "DAM_ANALYSIS_READY_2026/FINAL_DATA_READINESS_REPORT.md"
+      - "DAM_ANALYSIS_READY_2026/11_manifest/*"
+    artifact_root: "d:/datamain/DAM_ANALYSIS_READY_2026"
+
+  - number: 12
+    id: "weather-data"
+    name: "Weather Data Acquisition & Merge"
+    description: "ERA5/CHIRPS gridded ingestion, district polygon aggregation, temperature anomalies and SPEI index."
+    status: "not_started"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [11]
+    artifact_patterns: []
+
+  - number: 13
+    id: "econometric-specification"
+    name: "Econometric Specification"
+    description: "Panel fixed-effects specification, spatial dyadic price dispersion modeling, and flood event-study identification."
+    status: "not_started"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [12]
+    artifact_patterns: []
+
+  - number: 14
+    id: "estimation-results"
+    name: "Estimation & Results"
+    description: "Regression tables, point estimates, standard error clustering, marginal response curves."
+    status: "not_started"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [13]
+    artifact_patterns: []
+
+  - number: 15
+    id: "robustness-checks"
+    name: "Robustness & Sensitivity Checks"
+    description: "STRICT_SENSITIVITY sample validation, alternative weather cutoff thresholds, placebo permutation tests."
+    status: "not_started"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [14]
+    artifact_patterns: []
+
+  - number: 16
+    id: "figures-tables"
+    name: "Figures, Tables & Visualization"
+    description: "Publication-ready spatial maps, seasonal price impulse response plots, LaTeX regression tables."
+    status: "not_started"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [14]
+    artifact_patterns: []
+
+  - number: 17
+    id: "manuscript-draft"
+    name: "Manuscript Draft & Submission"
+    description: "Complete article manuscripts for Papers 1, 2, and 3, submission packages, replication archives."
+    status: "not_started"
+    papers: ["paper-1", "paper-2", "paper-3"]
+    depends_on: [15, 16]
+    artifact_patterns: []
+
+status_enum:
+  - not_started
+  - in_progress
+  - review_requested
+  - changes_requested
+  - approved
+  - locked

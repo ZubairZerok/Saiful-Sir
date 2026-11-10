@@ -1,0 +1,41 @@
+market_id,market_name,commodity_id,commodity_name,first_month,last_month,missing_months_count,missing_months_list
+21,Sadar (Zia Bazar) Kurigram,832,Onion-imported,2025-08,2026-03,1,2025-11
+24,Moulvibazar Sadar Bazar,832,Onion-imported,2025-06,2026-02,3,2025-07; 2025-10; 2025-11
+26,Narsingdi Sadar Bazar,943,Potato (Local),2025-06,2026-06,3,2025-07; 2025-08; 2025-09
+30,Naogaon Sadar Bazar,943,Potato (Local),2025-06,2026-08,4,2025-08; 2025-09; 2025-10; 2025-11
+30,Naogaon Sadar Bazar,945,Potato (Holland) - White (New),2025-06,2026-08,4,2025-08; 2025-09; 2025-10; 2025-11
+31,"Sadar Bazar, Thakurgaon",943,Potato (Local),2025-06,2026-08,6,2025-08; 2025-09; 2025-10; 2025-11; 2025-12; 2026-01
+31,"Sadar Bazar, Thakurgaon",945,Potato (Holland) - White (New),2025-06,2026-08,6,2025-08; 2025-09; 2025-10; 2025-11; 2025-12; 2026-01
+31,"Sadar Bazar, Thakurgaon",947,Potato (Holland) - Red,2025-06,2026-08,6,2025-08; 2025-09; 2025-10; 2025-11; 2025-12; 2026-01
+32,Panchagarh Sadar Bazar,832,Onion-imported,2025-08,2026-02,2,2025-10; 2025-11
+34,Barguna Sadar Bazar,832,Onion-imported,2025-06,2026-01,3,2025-09; 2025-10; 2025-11
+35,Bandarban Sadar Bazar,832,Onion-imported,2025-08,2026-02,2,2025-10; 2025-11
+38,"City Bazar, Rangpur",832,Onion-imported,2025-08,2026-01,2,2025-10; 2025-11
+39,"Sadar Bazar, Lakshmipur",832,Onion-imported,2025-08,2026-02,2,2025-10; 2025-11
+42,"Goshala Bazar, Lalmonirhat",831,Onion (local),2025-09,2025-12,2,2025-10; 2025-11
+42,"Goshala Bazar, Lalmonirhat",832,Onion-imported,2025-09,2025-12,2,2025-10; 2025-11
+42,"Goshala Bazar, Lalmonirhat",946,Potato (Holland) - Red (Old),2025-09,2025-12,2,2025-10; 2025-11
+43,Lalmonirhat Sadar Bazar,832,Onion-imported,2025-08,2026-01,2,2025-10; 2025-11
+44,"Mechua Bazar, Mymensingh",832,Onion-imported,2025-08,2026-01,2,2025-10; 2025-11
+51,Sylhet Sadar Bazaar,832,Onion-imported,2025-06,2026-03,1,2025-07
+53,"Bahadur Bazar, Dinajpur",832,Onion-imported,2025-08,2026-01,2,2025-10; 2025-11
+79,Chittagong Sadar Bazar,831,Onion (local),2025-06,2026-08,4,2025-08; 2025-09; 2025-10; 2025-11
+79,Chittagong Sadar Bazar,832,Onion-imported,2025-06,2026-02,4,2025-08; 2025-09; 2025-10; 2025-11
+79,Chittagong Sadar Bazar,943,Potato (Local),2025-06,2026-03,4,2025-08; 2025-09; 2025-10; 2025-11
+105,Khagrachari Sadar Pouro Bazar,945,Potato (Holland) - White (New),2025-06,2026-08,5,2025-08; 2025-09; 2025-10; 2025-11; 2025-12
+108,Kishoreganj Bazar,832,Onion-imported,2025-08,2026-01,2,2025-10; 2025-11
+115,Sirajganj Sadar Bazar,833,Onion (New),2025-06,2026-07,7,2025-07; 2025-09; 2025-12; 2026-02; 2026-03; 2026-04; 2026-05
+115,Sirajganj Sadar Bazar,943,Potato (Local),2025-06,2026-07,7,2025-07; 2025-09; 2025-12; 2026-02; 2026-03; 2026-04; 2026-05
+115,Sirajganj Sadar Bazar,947,Potato (Holland) - Red,2025-06,2026-07,7,2025-07; 2025-09; 2025-12; 2026-02; 2026-03; 2026-04; 2026-05
+119,"Sultanpur Bazar, Satkhira",832,Onion-imported,2025-08,2026-02,3,2025-09; 2025-10; 2025-11
+119,"Sultanpur Bazar, Satkhira",945,Potato (Holland) - White (New),2025-12,2026-08,1,2026-01
+146,Rangamati Sadar Bazar,832,Onion-imported,2025-08,2026-02,2,2025-10; 2025-11
+146,Rangamati Sadar Bazar,945,Potato (Holland) - White (New),2025-06,2026-08,10,2025-08; 2025-09; 2025-10; 2025-11; 2025-12; 2026-01; 2026-02; 2026-03; 2026-04; 2026-05
+179,Trisal Bazar,831,Onion (local),2026-02,2026-08,2,2026-04; 2026-06
+179,Trisal Bazar,943,Potato (Local),2026-02,2026-08,2,2026-04; 2026-06
+232,Chapainawabganj Sadar Bazar,832,Onion-imported,2025-08,2026-01,2,2025-10; 2025-11
+241,Baneshor Bazar,831,Onion (local),2025-12,2026-08,3,2026-02; 2026-03; 2026-04
+358,Bajitpur Bazar,831,Onion (local),2026-03,2026-08,1,2026-06
+358,Bajitpur Bazar,945,Potato (Holland) - White (New),2026-03,2026-08,1,2026-06
+366,Lalmai Bazar,831,Onion (local),2026-04,2026-08,3,2026-05; 2026-06; 2026-07
+366,Lalmai Bazar,945,Potato (Holland) - White (New),2026-04,2026-08,3,2026-05; 2026-06; 2026-07

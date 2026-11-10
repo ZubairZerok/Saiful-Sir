@@ -1,0 +1,98 @@
+{
+  "http_status": 200,
+  "response": {
+    "success": true,
+    "message": "data found!",
+    "data": [
+      {
+        "commodity_id": 946,
+        "w_lowestPrice": "1400.00",
+        "w_highestPrice": "1700.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "20.00",
+        "r_highestPrice": "22.00",
+        "created_at": "2025-12-14T07:45:05.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "1318",
+        "a_w_highestPrice": "1545",
+        "a_r_lowestPrice": "18",
+        "a_r_howestPrice": "20",
+        "r_avgPrice": "19",
+        "w_avgPrice": "1432",
+        "cpi_market_commodity_price_id": 200337,
+        "price_date": "2025-12-14"
+      },
+      {
+        "commodity_id": 946,
+        "w_lowestPrice": "1200.00",
+        "w_highestPrice": "1400.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "15.00",
+        "r_highestPrice": "17.00",
+        "created_at": "2026-01-01T08:08:24.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "1171",
+        "a_w_highestPrice": "1290",
+        "a_r_lowestPrice": "15",
+        "a_r_howestPrice": "17",
+        "r_avgPrice": "16",
+        "w_avgPrice": "1231",
+        "cpi_market_commodity_price_id": 201050,
+        "price_date": "2026-01-01"
+      },
+      {
+        "commodity_id": 946,
+        "w_lowestPrice": "1100.00",
+        "w_highestPrice": "1200.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "14.00",
+        "r_highestPrice": "15.00",
+        "created_at": "2026-02-01T07:18:36.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "1100",
+        "a_w_highestPrice": "1200",
+        "a_r_lowestPrice": "14",
+        "a_r_howestPrice": "15",
+        "r_avgPrice": "15",
+        "w_avgPrice": "1150",
+        "cpi_market_commodity_price_id": 202557,
+        "price_date": "2026-02-01"
+      }
+    ]
+  },
+  "payload": {
+    "division_id": [
+      7
+    ],
+    "district_id": [
+      59
+    ],
+    "upazila_id": [
+      502
+    ],
+    "market_id": [
+      38
+    ],
+    "commodity_group_id": 43,
+    "commodity_sub_group_id": 265,
+    "commodity_id": 946,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Vegetable",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Potato",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Potato (Holland) - Red (Old)",
+    "commodity_name_bn": "আলু (হল্যান্ড) - লাল (পুরানো)",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}

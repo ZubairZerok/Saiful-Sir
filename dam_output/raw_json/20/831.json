@@ -1,0 +1,78 @@
+{
+  "http_status": 200,
+  "response": {
+    "success": true,
+    "message": "data found!",
+    "data": [
+      {
+        "commodity_id": 831,
+        "w_lowestPrice": "11500.00",
+        "w_highestPrice": "12000.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "125.00",
+        "r_highestPrice": "130.00",
+        "created_at": "2025-12-04T04:14:11.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "9976",
+        "a_w_highestPrice": "11118",
+        "a_r_lowestPrice": "114",
+        "a_r_howestPrice": "119",
+        "r_avgPrice": "117",
+        "w_avgPrice": "10547",
+        "cpi_market_commodity_price_id": 199794,
+        "price_date": "2025-12-04"
+      },
+      {
+        "commodity_id": 831,
+        "w_lowestPrice": "8500.00",
+        "w_highestPrice": "9000.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "95.00",
+        "r_highestPrice": "100.00",
+        "created_at": "2026-01-01T04:58:07.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "8500",
+        "a_w_highestPrice": "9000",
+        "a_r_lowestPrice": "95",
+        "a_r_howestPrice": "100",
+        "r_avgPrice": "98",
+        "w_avgPrice": "8750",
+        "cpi_market_commodity_price_id": 201007,
+        "price_date": "2026-01-01"
+      }
+    ]
+  },
+  "payload": {
+    "division_id": [
+      2
+    ],
+    "district_id": [
+      13
+    ],
+    "upazila_id": [
+      116
+    ],
+    "market_id": [
+      20
+    ],
+    "commodity_group_id": 32,
+    "commodity_sub_group_id": 217,
+    "commodity_id": 831,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Spices",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Onion",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Onion (local)",
+    "commodity_name_bn": "পেঁয়াজ- দেশীয়",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}

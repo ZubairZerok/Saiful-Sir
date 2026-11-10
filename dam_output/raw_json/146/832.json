@@ -1,0 +1,138 @@
+{
+  "http_status": 200,
+  "response": {
+    "success": true,
+    "message": "data found!",
+    "data": [
+      {
+        "commodity_id": 832,
+        "w_lowestPrice": "7000.00",
+        "w_highestPrice": "7100.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "74.00",
+        "r_highestPrice": "76.00",
+        "created_at": "2025-08-27T06:44:38.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "7000",
+        "a_w_highestPrice": "7250",
+        "a_r_lowestPrice": "75",
+        "a_r_howestPrice": "78",
+        "r_avgPrice": "76",
+        "w_avgPrice": "7125",
+        "cpi_market_commodity_price_id": 195137,
+        "price_date": "2025-08-27"
+      },
+      {
+        "commodity_id": 832,
+        "w_lowestPrice": "7200.00",
+        "w_highestPrice": "7500.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "78.00",
+        "r_highestPrice": "82.00",
+        "created_at": "2025-09-01T07:14:39.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "7018",
+        "a_w_highestPrice": "7227",
+        "a_r_lowestPrice": "75",
+        "a_r_howestPrice": "80",
+        "r_avgPrice": "78",
+        "w_avgPrice": "7123",
+        "cpi_market_commodity_price_id": 195324,
+        "price_date": "2025-09-01"
+      },
+      {
+        "commodity_id": 832,
+        "w_lowestPrice": "6000.00",
+        "w_highestPrice": "7000.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "70.00",
+        "r_highestPrice": "80.00",
+        "created_at": "2025-12-24T06:26:42.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "5300",
+        "a_w_highestPrice": "6300",
+        "a_r_lowestPrice": "63",
+        "a_r_howestPrice": "70",
+        "r_avgPrice": "66",
+        "w_avgPrice": "5800",
+        "cpi_market_commodity_price_id": 200784,
+        "price_date": "2025-12-24"
+      },
+      {
+        "commodity_id": 832,
+        "w_lowestPrice": "5200.00",
+        "w_highestPrice": "6200.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "60.00",
+        "r_highestPrice": "70.00",
+        "created_at": "2026-01-01T05:44:50.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "5762",
+        "a_w_highestPrice": "6543",
+        "a_r_lowestPrice": "64",
+        "a_r_howestPrice": "73",
+        "r_avgPrice": "69",
+        "w_avgPrice": "6152",
+        "cpi_market_commodity_price_id": 201023,
+        "price_date": "2026-01-01"
+      },
+      {
+        "commodity_id": 832,
+        "w_lowestPrice": "6000.00",
+        "w_highestPrice": "6500.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "65.00",
+        "r_highestPrice": "75.00",
+        "created_at": "2026-02-01T08:42:44.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "5200",
+        "a_w_highestPrice": "6100",
+        "a_r_lowestPrice": "58",
+        "a_r_howestPrice": "65",
+        "r_avgPrice": "61",
+        "w_avgPrice": "5650",
+        "cpi_market_commodity_price_id": 202571,
+        "price_date": "2026-02-01"
+      }
+    ]
+  },
+  "payload": {
+    "division_id": [
+      1
+    ],
+    "district_id": [
+      4
+    ],
+    "upazila_id": [
+      33
+    ],
+    "market_id": [
+      146
+    ],
+    "commodity_group_id": 32,
+    "commodity_sub_group_id": 217,
+    "commodity_id": 832,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Spices",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Onion",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Onion-imported",
+    "commodity_name_bn": "পেঁয়াজ- আমদানীকৃত",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}

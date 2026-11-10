@@ -1,0 +1,434 @@
+filename,commodity,market_name,obs_count,first_date,last_date,months_covered,longest_continuous_months
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Amtali Bazar,6,2026-03-10,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Amtoli Bazar,5,2026-04-01,2026-08-02,5,5
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Bajitpur Bazar,5,2026-03-01,2026-08-02,5,3
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Bandarban Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Baneshor Bazar,6,2025-12-22,2026-08-02,6,4
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Banyachong Market,4,2026-05-18,2026-08-02,4,4
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Barguna Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Barisal Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Beanibazar Market,4,2026-02-22,2026-05-03,4,4
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Begumganj Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Bhola Sadar Bazar,15,2025-06-04,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Bogra Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Brahmanbaria Sadar Bazar,14,2025-07-23,2026-08-02,14,14
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Burichong Bazar,1,2026-08-02,2026-08-02,1,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Chagalnaiya Bazar,7,2026-02-26,2026-08-02,7,7
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Chakaria Bazar,1,2026-08-04,2026-08-04,1,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Chandina Bazar,7,2026-02-25,2026-08-02,7,7
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Chandpur Sadaar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Chittagong Sadar Bazar,11,2025-06-15,2026-08-03,11,9
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"City Bazar, Rangpur",15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Comilla Sadar Bazar,7,2026-02-18,2026-08-02,7,7
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Cox's Bazar Sadar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Dhanbari Bazar,7,2026-02-19,2026-08-02,7,7
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Domar Bazar,1,2026-08-03,2026-08-03,1,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Feni Sadar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Fulbaria Bazar,2,2026-07-16,2026-08-02,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Gaibandha Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Gangni Bazar,2,2026-07-23,2026-08-02,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Gobindaganj Bazar,6,2026-03-02,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Godagari Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Golapganj Bazar,6,2026-03-10,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"Goshala Bazar, Lalmonirhat",2,2025-09-18,2025-12-04,2,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Habiganj Sadar Bazar,14,2025-07-10,2026-08-02,14,14
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Jamalpur Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Jessore Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Jhalakathi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Joydevpur market,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Kalaroa Bazar,1,2026-08-06,2026-08-06,1,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Kaliganj Bazar,1,2026-08-03,2026-08-03,1,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Kamalganj Bazar,2,2026-07-08,2026-08-02,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Kangshanagar Bazar,6,2026-02-23,2026-07-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Kaptai Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Kaukhali Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Khagrachari Sadar Pouro Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Khulna Sadar Bazar,15,2025-06-16,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Kishoreganj Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Lalmai Bazar,2,2026-04-07,2026-08-13,2,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Lalmonirhat Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Lama Bazar,5,2026-04-16,2026-08-02,5,5
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Madhupur Bazar,7,2026-02-22,2026-08-02,7,7
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Magura Sadar Bazar,14,2025-07-07,2026-08-02,14,14
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Manikganj Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"Manirampur Bazar, Jessore",2,2026-07-28,2026-08-02,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Meherpur Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Mirpur 1 no. Bazar,8,2026-01-28,2026-08-02,8,8
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Mithapukur Bazar,4,2026-05-07,2026-08-02,4,4
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Mohammadpur Krishi Market,13,2025-08-07,2026-08-02,13,13
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Mohanganj Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Moulvibazar Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Munshiganj Sadar Bazar,9,2025-12-23,2026-08-02,9,9
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Nageshwari Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Narayanganj Sadar Bazar,8,2026-01-21,2026-08-04,8,8
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Narsingdi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Navaron Bazar,1,2026-08-02,2026-08-02,1,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Nazirpur Bazar,2,2026-07-26,2026-08-02,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Nilphamari Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Noakhali Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Panchagarh Sadar Bazar,15,2025-06-04,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Parbatipur Bazar,5,2026-04-28,2026-08-02,5,5
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Pirojpur Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"Pouro Super Market, Netrokona",15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Raipur Bazar,7,2026-02-26,2026-08-02,7,7
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Rajbari Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Rajshahi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Rangamati Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Rupganj Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Sadar (Zia Bazar) Kurigram,13,2025-08-21,2026-08-02,13,13
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"Sadar Bazar, Lakshmipur",15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"Sadar Bazar, Madaripur",15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"Sadar Bazar, Pabna",2,2025-12-04,2026-01-01,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"Sadar Bazar, Thakurgaon",15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Saidpur Bazar,1,2026-08-01,2026-08-01,1,1
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Sapahar Market,9,2025-12-23,2026-08-02,9,9
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Saturia Bazar,5,2026-04-05,2026-08-02,5,5
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Savar Bazar,2,2026-07-27,2026-08-03,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Shariatpur Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Sherpur Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Sherpur Sadar Bazar (Baroduari Bazar),2,2026-01-07,2026-02-01,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Shibpur Bazar,3,2026-02-23,2026-04-01,3,3
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Singair Bazar,6,2026-03-04,2026-08-02,6,6
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),"Sultanpur Bazar, Satkhira",15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Sunamganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Sylhet Sadar Bazaar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Tangail Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Trisal Bazar,5,2026-02-22,2026-08-02,5,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),Tungipara Bazar,2,2026-07-26,2026-08-02,2,2
+DAM_ONION_LOCAL_2010_2026.csv,Onion (local),kawran Bazar,8,2026-01-25,2026-08-02,8,8
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Bagerhat Sadar Bazar,1,2025-12-17,2025-12-17,1,1
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,"Bahadur Bazar, Dinajpur",4,2025-08-19,2026-01-01,4,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Bandarban Sadar Bazar,5,2025-08-21,2026-02-01,5,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Barguna Sadar Bazar,5,2025-06-15,2026-01-01,5,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Beanibazar Market,2,2026-02-22,2026-03-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Bhola Sadar Bazar,3,2025-12-21,2026-02-01,3,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Brahmanbaria Sadar Bazar,2,2025-12-17,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Chandpur Sadaar,3,2025-12-28,2026-02-01,3,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Chapainawabganj Sadar Bazar,4,2025-08-19,2026-01-01,4,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Chittagong Sadar Bazar,5,2025-06-15,2026-02-01,5,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Chuadanga Sadar Bazaar,2,2025-12-21,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,"City Bazar, Rangpur",4,2025-08-27,2026-01-01,4,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Comilla Sadar Bazar,10,2025-06-15,2026-03-01,10,10
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Cox's Bazar Sadar,9,2025-06-15,2026-02-01,9,9
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Feni Sadar,3,2025-12-10,2026-02-01,3,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Gaibandha Sadar Bazar,1,2025-08-25,2025-08-25,1,1
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Godagari Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Golapganj Bazar,3,2026-03-10,2026-05-03,3,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,"Goshala Bazar, Lalmonirhat",2,2025-09-18,2025-12-04,2,1
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Habiganj Sadar Bazar,2,2025-12-17,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Jhalakathi Sadar Bazar,2,2025-12-18,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Joydevpur market,2,2025-12-17,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Joypurhat Sadar Bazar,1,2025-12-18,2025-12-18,1,1
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Khagrachari Sadar Pouro Bazar,3,2025-12-17,2026-02-01,3,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Kishoreganj Bazar,4,2025-08-18,2026-01-01,4,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Lalmonirhat Sadar Bazar,4,2025-08-24,2026-01-01,4,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Lama Bazar,5,2026-04-16,2026-08-02,5,5
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,"Mechua Bazar, Mymensingh",4,2025-08-19,2026-01-01,4,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Mohammadpur Krishi Market,2,2025-12-30,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Moulvibazar Sadar Bazar,6,2025-06-15,2026-02-01,6,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Munshiganj Sadar Bazar,4,2025-12-17,2026-03-02,4,4
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Narsingdi Sadar Bazar,2,2025-12-18,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Nilphamari Sadar Bazar,2,2025-12-21,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Noakhali Sadar Bazar,2,2026-01-25,2026-02-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Panchagarh Sadar Bazar,5,2025-08-19,2026-02-09,5,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Pirojpur Sadar Bazar,2,2025-12-22,2026-01-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,"Pouro Super Market, Netrokona",2,2025-08-28,2025-09-01,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Rajshahi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Rangamati Sadar Bazar,5,2025-08-27,2026-02-01,5,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Rupganj Bazar,1,2025-12-21,2025-12-21,1,1
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Sadar (Zia Bazar) Kurigram,7,2025-08-21,2026-03-01,7,4
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,"Sadar Bazar, Lakshmipur",5,2025-08-28,2026-02-01,5,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,"Sadar Bazar, Thakurgaon",3,2025-12-17,2026-02-01,3,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Shariatpur Bazar,1,2025-12-17,2025-12-17,1,1
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Sherpur Sadar Bazar,3,2025-10-05,2025-12-18,3,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Shibgonj Sadar Bazar,2,2025-12-24,2026-01-04,2,2
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,"Sultanpur Bazar, Satkhira",4,2025-08-24,2026-02-01,4,3
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Sunamganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,Sylhet Sadar Bazaar,9,2025-06-15,2026-03-01,9,8
+DAM_ONION_IMPORTED_2010_2026.csv,Onion-imported,kawran Bazar,1,2026-01-25,2026-01-25,1,1
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Bagerhat Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),"Bahadur Bazar, Dinajpur",15,2025-06-16,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Brahmanbaria Sadar Bazar,2,2025-06-15,2025-07-01,2,2
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Chapainawabganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Chuadanga Sadar Bazaar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Comilla Sadar Bazar,7,2025-06-15,2025-12-01,7,7
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Damurhuda Bazar,2,2026-07-07,2026-08-02,2,2
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Dumuria Bazar,3,2026-06-25,2026-08-02,3,3
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Faridpur Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Gopaldanj Sadar Boro Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Habiganj Sadar Bazar,2,2025-06-15,2025-07-01,2,2
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Jhenaidah Sadar Paura Boro Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Joypurhat Sadar Bazar,15,2025-06-16,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),"Kaliganj Bazar,",6,2026-03-29,2026-08-02,6,6
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Kushtia Sadar Bazar,15,2025-06-14,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Magura Sadar Bazar,2,2025-06-15,2025-07-01,2,2
+DAM_ONION_NEW_2010_2026.csv,Onion (New),"Mechua Bazar, Mymensingh",15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Mohammadpur Krishi Market,3,2025-06-15,2025-08-03,3,3
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Munshiganj Sadar Bazar,7,2025-06-15,2025-12-01,7,7
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Naogaon Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Narayanganj Sadar Bazar,8,2025-06-18,2026-01-04,8,8
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Nator Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Patuakhali Sadar Bazar,6,2025-06-15,2025-11-04,6,6
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Sadar (Zia Bazar) Kurigram,3,2025-06-15,2025-08-03,3,3
+DAM_ONION_NEW_2010_2026.csv,Onion (New),"Sadar Bazar, Pabna",15,2025-06-15,2026-08-02,15,15
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Sherpur Sadar Bazar,1,2025-12-01,2025-12-01,1,1
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Shibgonj Sadar Bazar,9,2025-12-24,2026-08-02,9,9
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Sirajganj Sadar Bazar,7,2025-06-18,2026-07-02,7,2
+DAM_ONION_NEW_2010_2026.csv,Onion (New),Srimangal Bazar,3,2026-06-25,2026-08-02,3,3
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Beanibazar Market,4,2026-02-22,2026-05-03,4,4
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Bhola Sadar Bazar,15,2025-06-04,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Bogra Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Brahmanbaria Sadar Bazar,3,2026-06-29,2026-08-02,3,3
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Chapainawabganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Chittagong Sadar Bazar,6,2025-06-15,2026-03-01,6,4
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Chuadanga Sadar Bazaar,9,2025-12-08,2026-08-02,9,9
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Damurhuda Bazar,2,2026-07-07,2026-08-02,2,2
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Dhanbari Bazar,7,2026-02-19,2026-08-02,7,7
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Fulbaria Bazar,2,2026-07-16,2026-08-02,2,2
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Gaibandha Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Gobindaganj Bazar,6,2026-03-02,2026-08-02,6,6
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Godagari Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Golapganj Bazar,6,2026-03-10,2026-08-02,6,6
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Habiganj Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Joypurhat Sadar Bazar,15,2025-06-16,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Kaptai Bazar,1,2026-03-01,2026-03-01,1,1
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Khagrachari Sadar Pouro Bazar,8,2025-12-30,2026-07-01,8,8
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Lalmonirhat Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),"Mechua Bazar, Mymensingh",5,2026-04-22,2026-08-02,5,5
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Mirpur 1 no. Bazar,8,2026-01-28,2026-08-02,8,8
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Mithapukur Bazar,6,2026-03-31,2026-08-02,6,6
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Mohammadpur Krishi Market,9,2025-12-22,2026-08-02,9,9
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Mohanganj Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Moulvibazar Sadar Bazar,5,2025-11-30,2026-03-01,5,5
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Nageshwari Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Naogaon Sadar Bazar,11,2025-06-15,2026-08-02,11,9
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Narayanganj Sadar Bazar,15,2025-06-18,2026-08-04,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Narsingdi Sadar Bazar,10,2025-06-15,2026-06-01,10,9
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Nator Bazar,8,2025-12-23,2026-07-01,8,8
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Panchagarh Sadar Bazar,9,2025-12-17,2026-08-02,9,9
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Patuakhali Sadar Bazar,6,2025-06-15,2025-11-04,6,6
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Pirojpur Sadar Bazar,2,2025-12-17,2026-01-01,2,2
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),"Pouro Super Market, Netrokona",15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Raipur Bazar,7,2026-02-26,2026-08-02,7,7
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Rajshahi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Rangamati Sadar Bazar,8,2025-12-30,2026-07-02,8,8
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Rupganj Bazar,2,2025-12-07,2026-01-01,2,2
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Sadar (Zia Bazar) Kurigram,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),"Sadar Bazar, Pabna",6,2025-12-08,2026-05-03,6,6
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),"Sadar Bazar, Thakurgaon",9,2025-06-15,2026-08-02,9,7
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Saidpur Bazar,1,2026-08-03,2026-08-03,1,1
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Sapahar Market,9,2025-12-24,2026-08-02,9,9
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Savar Bazar,2,2026-07-27,2026-08-03,2,2
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Shariatpur Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Sherpur Sadar Bazar (Baroduari Bazar),2,2026-01-07,2026-02-01,2,2
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Shibgonj Sadar Bazar,3,2025-12-24,2026-02-02,3,3
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Shibpur Bazar,1,2026-04-05,2026-04-05,1,1
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Sirajganj Sadar Bazar,7,2025-06-18,2026-07-02,7,2
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),"Sultanpur Bazar, Satkhira",3,2025-12-23,2026-02-01,3,3
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Sylhet Sadar Bazaar,8,2026-01-20,2026-08-02,8,8
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Tangail Bazar,9,2025-12-23,2026-08-02,9,9
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),Trisal Bazar,5,2026-02-22,2026-08-02,5,2
+DAM_POTATO_LOCAL_2010_2026.csv,Potato (Local),kawran Bazar,8,2026-01-25,2026-08-02,8,8
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Godagari Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Habiganj Sadar Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Kaliganj Bazar,1,2026-08-03,2026-08-03,1,1
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Kushtia Sadar Bazar,1,2025-06-16,2025-06-16,1,1
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Madhupur Bazar,1,2026-02-22,2026-02-22,1,1
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Mohammadpur Krishi Market,5,2025-08-07,2025-12-01,5,5
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Naogaon Sadar Bazar,7,2025-07-27,2026-01-01,7,7
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Narsingdi Sadar Bazar,2,2025-11-30,2025-12-01,2,2
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Nator Bazar,3,2025-06-15,2025-08-03,3,3
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Panchagarh Sadar Bazar,1,2025-06-04,2025-06-04,1,1
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Rajshahi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,"Sadar Bazar, Pabna",1,2025-12-08,2025-12-08,1,1
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,"Sadar Bazar, Thakurgaon",7,2025-07-08,2026-01-01,7,7
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Sylhet Sadar Bazaar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_LOCAL_OLD_2010_2026.csv,Potato (Local) - Old,Tangail Bazar,7,2025-06-15,2025-12-01,7,7
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Amtali Bazar,6,2026-03-10,2026-08-02,6,6
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Amtoli Bazar,5,2026-04-01,2026-08-02,5,5
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Bagerhat Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Bahadur Bazar, Dinajpur",15,2025-06-16,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Bajitpur Bazar,5,2026-03-01,2026-08-02,5,3
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Bandarban Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Banyachong Market,4,2026-05-18,2026-08-02,4,4
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Barguna Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Beanibazar Market,4,2026-02-22,2026-05-03,4,4
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Begumganj Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Bogra Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Brahmanbaria Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Burichong Bazar,1,2026-08-02,2026-08-02,1,1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Chagalnaiya Bazar,7,2026-02-26,2026-08-02,7,7
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Chakaria Bazar,1,2026-08-04,2026-08-04,1,1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Chandina Bazar,7,2026-02-25,2026-08-02,7,7
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Chandpur Sadaar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Chittagong Sadar Bazar,9,2025-12-21,2026-08-03,9,9
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Comilla Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Cox's Bazar Sadar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Dumuria Bazar,3,2026-06-15,2026-08-02,3,3
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Feni Sadar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Fulbaria Bazar,2,2026-07-15,2026-08-02,2,2
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Gaibandha Sadar Bazar,2,2025-12-18,2026-01-01,2,2
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Gangni Bazar,2,2026-07-23,2026-08-02,2,2
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Godagari Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Gopaldanj Sadar Boro Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Habiganj Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Jamalpur Sadar Bazar,9,2025-12-18,2026-08-02,9,9
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Jessore Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Jhalakathi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Jhenaidah Sadar Paura Boro Bazar,4,2025-12-15,2026-03-01,4,4
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Joydevpur market,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Kalaroa Bazar,7,2026-02-24,2026-08-02,7,7
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Kangshanagar Bazar,6,2026-02-23,2026-07-02,6,6
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Kaukhali Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Khagrachari Sadar Pouro Bazar,10,2025-06-15,2026-08-02,10,8
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Khulna Sadar Bazar,15,2025-06-16,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Kishoreganj Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Lalmai Bazar,2,2026-04-07,2026-08-13,2,1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Lama Bazar,5,2026-04-16,2026-08-02,5,5
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Madhupur Bazar,1,2026-02-22,2026-02-22,1,1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Magura Sadar Bazar,3,2025-12-17,2026-02-01,3,3
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Manikganj Bazar,9,2025-12-28,2026-08-02,9,9
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Manirampur Bazar, Jessore",2,2026-07-28,2026-08-02,2,2
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Mechua Bazar, Mymensingh",15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Meherpur Sadar Bazar,9,2025-12-11,2026-08-02,9,9
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Mohammadpur Krishi Market,3,2025-06-15,2025-08-03,3,3
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Mohanganj Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Moulvibazar Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Munshiganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Naogaon Sadar Bazar,11,2025-06-15,2026-08-02,11,9
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Narsingdi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Nator Bazar,1,2025-12-14,2025-12-14,1,1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Nazirpur Bazar,2,2026-07-26,2026-08-02,2,2
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Noakhali Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Panchagarh Sadar Bazar,2,2026-01-01,2026-02-01,2,2
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Parbatipur Bazar,5,2026-04-28,2026-08-02,5,5
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Pirojpur Sadar Bazar,8,2026-01-05,2026-08-02,8,8
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Pouro Super Market, Netrokona",15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Rajbari Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Rajshahi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Rangamati Sadar Bazar,5,2025-06-15,2026-08-02,5,3
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Rupganj Bazar,7,2026-02-01,2026-08-02,7,7
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Sadar (Zia Bazar) Kurigram,1,2025-12-10,2025-12-10,1,1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Sadar Bazar, Lakshmipur",15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Sadar Bazar, Madaripur",15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Sadar Bazar, Pabna",5,2025-12-17,2026-04-01,5,5
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Sadar Bazar, Thakurgaon",9,2025-06-15,2026-08-02,9,7
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Sapahar Market,1,2025-12-23,2025-12-23,1,1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Saturia Bazar,5,2026-04-02,2026-08-02,5,5
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Sherpur Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Sherpur Sadar Bazar (Baroduari Bazar),2,2026-01-07,2026-02-01,2,2
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Shibpur Bazar,3,2026-02-23,2026-04-01,3,3
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Singair Bazar,6,2026-03-04,2026-08-02,6,6
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Srimangal Bazar,3,2026-06-25,2026-08-02,3,3
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),"Sultanpur Bazar, Satkhira",8,2025-12-17,2026-08-02,8,7
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Sunamganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Sylhet Sadar Bazaar,10,2025-11-30,2026-08-02,10,10
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Tangail Bazar,9,2025-12-23,2026-08-02,9,9
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Trisal Bazar,1,2026-08-12,2026-08-12,1,1
+DAM_POTATO_HOLLAND_WHITE_NEW_2010_2026.csv,Potato (Holland) - White (New),Tungipara Bazar,2,2026-07-26,2026-08-02,2,2
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Barguna Sadar Bazar,2,2026-01-07,2026-02-01,2,2
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Beanibazar Market,2,2026-02-22,2026-03-01,2,2
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Brahmanbaria Sadar Bazar,1,2026-01-04,2026-01-04,1,1
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Cox's Bazar Sadar,2,2026-01-12,2026-02-01,2,2
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Godagari Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Habiganj Sadar Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Jamalpur Sadar Bazar,9,2025-06-15,2026-02-01,9,9
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Kamalganj Bazar,2,2026-07-08,2026-08-02,2,2
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Khagrachari Sadar Pouro Bazar,8,2025-07-27,2026-02-01,8,8
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Kushtia Sadar Bazar,15,2025-06-14,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Manikganj Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Munshiganj Sadar Bazar,2,2026-01-14,2026-02-01,2,2
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Naogaon Sadar Bazar,7,2025-07-27,2026-01-01,7,7
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Narsingdi Sadar Bazar,4,2025-11-30,2026-02-01,4,4
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Noakhali Sadar Bazar,2,2026-01-14,2026-02-01,2,2
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Rajshahi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Rangamati Sadar Bazar,9,2025-07-20,2026-03-01,9,9
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Rupganj Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),"Sadar Bazar, Thakurgaon",7,2025-07-16,2026-01-01,7,7
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),"Sultanpur Bazar, Satkhira",9,2025-06-15,2026-02-01,9,9
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Sunamganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Sylhet Sadar Bazaar,10,2025-06-15,2026-03-01,10,10
+DAM_POTATO_HOLLAND_WHITE_OLD_2010_2026.csv,Potato (Holland) - White (Old),Tangail Bazar,7,2025-06-15,2025-12-01,7,7
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Bagerhat Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,"Bahadur Bazar, Dinajpur",15,2025-06-16,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Bajitpur Bazar,1,2026-03-01,2026-03-01,1,1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Baneshor Bazar,4,2026-05-14,2026-08-02,4,4
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Barguna Sadar Bazar,2,2025-12-28,2026-01-01,2,2
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Bogra Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Chapainawabganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Chuadanga Sadar Bazaar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,"City Bazar, Rangpur",15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Dhanbari Bazar,7,2026-02-19,2026-08-02,7,7
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Domar Bazar,1,2026-08-03,2026-08-03,1,1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Faridpur Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Fulbaria Bazar,1,2026-07-16,2026-07-16,1,1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Gaibandha Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Gobindaganj Bazar,6,2026-03-02,2026-08-02,6,6
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Godagari Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Gopaldanj Sadar Boro Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Jhenaidah Sadar Paura Boro Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Joydevpur market,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Joypurhat Sadar Bazar,15,2025-06-16,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Kalaroa Bazar,7,2026-02-24,2026-08-02,7,7
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,"Kaliganj Bazar,",6,2026-03-29,2026-08-02,6,6
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Khulna Sadar Bazar,8,2026-01-28,2026-08-02,8,8
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Lalmonirhat Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Madhupur Bazar,7,2026-02-23,2026-08-02,7,7
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Magura Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Manikganj Bazar,8,2026-01-26,2026-08-02,8,8
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Meherpur Sadar Bazar,9,2025-06-15,2026-02-01,9,9
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Mithapukur Bazar,6,2026-03-12,2026-08-02,6,6
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Nageshwari Bazar,6,2026-03-01,2026-08-02,6,6
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Naogaon Sadar Bazar,1,2025-12-14,2025-12-14,1,1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Nator Bazar,8,2026-01-01,2026-08-02,8,8
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Nilphamari Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Noakhali Sadar Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Panchagarh Sadar Bazar,7,2026-02-05,2026-08-02,7,7
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Parbatipur Bazar,5,2026-04-28,2026-08-02,5,5
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Rajshahi Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Rupganj Bazar,7,2026-02-01,2026-08-02,7,7
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Sadar (Zia Bazar) Kurigram,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,"Sadar Bazar, Pabna",15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,"Sadar Bazar, Thakurgaon",9,2025-06-15,2026-08-02,9,7
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Saidpur Bazar,1,2026-08-01,2026-08-01,1,1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Sapahar Market,1,2025-12-23,2025-12-23,1,1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Saturia Bazar,5,2026-04-02,2026-08-02,5,5
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Sharsha Bazar,1,2026-07-26,2026-07-26,1,1
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Sherpur Sadar Bazar (Baroduari Bazar),2,2026-01-07,2026-02-01,2,2
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Shibgonj Sadar Bazar,9,2025-12-24,2026-08-02,9,9
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Singair Bazar,6,2026-03-04,2026-08-02,6,6
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Sirajganj Sadar Bazar,7,2025-06-18,2026-07-02,7,2
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,"Sultanpur Bazar, Satkhira",7,2026-02-05,2026-08-02,7,7
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Tangail Bazar,9,2025-12-23,2026-08-02,9,9
+DAM_POTATO_HOLLAND_RED_2010_2026.csv,Potato (Holland) - Red,Tungipara Bazar,2,2026-07-26,2026-08-02,2,2
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Baneshor Bazar,4,2026-05-14,2026-08-02,4,4
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),"City Bazar, Rangpur",3,2025-12-14,2026-02-01,3,3
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Gaibandha Sadar Bazar,2,2025-12-11,2026-01-01,2,2
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Godagari Sadar Bazar,8,2026-01-04,2026-08-02,8,8
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),"Goshala Bazar, Lalmonirhat",2,2025-09-18,2025-12-04,2,1
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Jhenaidah Sadar Paura Boro Bazar,3,2025-12-15,2026-02-01,3,3
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Kaliganj Bazar,1,2026-08-03,2026-08-03,1,1
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Kushtia Sadar Bazar,15,2025-06-14,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Madhupur Bazar,1,2026-02-22,2026-02-22,1,1
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Magura Sadar Bazar,3,2025-12-17,2026-02-01,3,3
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Manikganj Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Nator Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Navaron Bazar,1,2026-08-02,2026-08-02,1,1
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Nilphamari Sadar Bazar,3,2025-12-15,2026-02-01,3,3
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Panchagarh Sadar Bazar,7,2025-06-04,2025-12-02,7,7
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Rajshahi Sadar Bazar,9,2025-12-11,2026-08-02,9,9
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Rupganj Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),"Sadar Bazar, Pabna",2,2025-12-23,2026-01-01,2,2
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),"Sadar Bazar, Thakurgaon",7,2025-07-08,2026-01-01,7,7
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Sapahar Market,9,2025-12-23,2026-08-02,9,9
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Sharsha Bazar,1,2026-07-26,2026-07-26,1,1
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),"Sultanpur Bazar, Satkhira",9,2025-06-15,2026-02-01,9,9
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Sunamganj Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Sylhet Sadar Bazaar,8,2025-06-15,2026-01-01,8,8
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Tangail Bazar,7,2025-06-15,2025-12-01,7,7
+DAM_POTATO_HOLLAND_RED_OLD_2010_2026.csv,Potato (Holland) - Red (Old),Trisal Bazar,1,2026-08-11,2026-08-11,1,1
+DAM_POTATOES_IMPORTED_2010_2026.csv,Potatoes-imported,Barisal Sadar Bazar,15,2025-06-15,2026-08-02,15,15
+DAM_POTATOES_IMPORTED_2010_2026.csv,Potatoes-imported,Chuadanga Sadar Bazaar,1,2025-12-18,2025-12-18,1,1
+DAM_POTATOES_IMPORTED_2010_2026.csv,Potatoes-imported,Pirojpur Sadar Bazar,8,2025-06-15,2026-01-01,8,8
+DAM_SWEET_POTATO_2010_2026.csv,Sweet Potato,Munshiganj Sadar Bazar,3,2025-06-15,2025-08-03,3,3
+DAM_SWEET_POTATO_2010_2026.csv,Sweet Potato,Rangamati Sadar Bazar,7,2026-01-27,2026-07-02,7,7

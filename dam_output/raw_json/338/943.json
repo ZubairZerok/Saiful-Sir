@@ -1,0 +1,78 @@
+{
+  "http_status": 200,
+  "response": {
+    "success": true,
+    "message": "data found!",
+    "data": [
+      {
+        "commodity_id": 943,
+        "w_lowestPrice": "2000.00",
+        "w_highestPrice": "2200.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "0.00",
+        "r_highestPrice": "0.00",
+        "created_at": "2026-07-07T04:17:52.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "2085",
+        "a_w_highestPrice": "2285",
+        "a_r_lowestPrice": "21",
+        "a_r_howestPrice": "24",
+        "r_avgPrice": "22",
+        "w_avgPrice": "2185",
+        "cpi_market_commodity_price_id": 211749,
+        "price_date": "2026-07-07"
+      },
+      {
+        "commodity_id": 943,
+        "w_lowestPrice": "2100.00",
+        "w_highestPrice": "2300.00",
+        "w_supply": "0.00",
+        "r_lowestPrice": "25.00",
+        "r_highestPrice": "28.00",
+        "created_at": "2026-08-02T04:45:38.000000Z",
+        "unit_grower": 1,
+        "unit_whole_sale": 1,
+        "unit_retail": 2,
+        "a_w_lowestPrice": "2100",
+        "a_w_highestPrice": "2300",
+        "a_r_lowestPrice": "25",
+        "a_r_howestPrice": "28",
+        "r_avgPrice": "27",
+        "w_avgPrice": "2200",
+        "cpi_market_commodity_price_id": 213580,
+        "price_date": "2026-08-02"
+      }
+    ]
+  },
+  "payload": {
+    "division_id": [
+      3
+    ],
+    "district_id": [
+      24
+    ],
+    "upazila_id": [
+      194
+    ],
+    "market_id": [
+      338
+    ],
+    "commodity_group_id": 43,
+    "commodity_sub_group_id": 265,
+    "commodity_id": 943,
+    "year_from": 2010,
+    "year_to": 2026,
+    "commodity_group_name_en": "Vegetable",
+    "commodity_group_name_bn": "",
+    "commodity_sub_group_name_en": "Potato",
+    "commodity_sub_group_name_bn": "",
+    "commodity_name_en": "Potato (Local)",
+    "commodity_name_bn": "আলু (দেশীয়)",
+    "year_from_en": 2010,
+    "year_from_bn": "২০১০",
+    "year_to_en": 2026,
+    "year_to_bn": "২০২৬"
+  }
+}
