@@ -1,0 +1,29 @@
+\begin{table}[htbp]\centering\small
+\caption{Table 1. Descriptive statistics: weather and exposure}\label{tab:table1b_descriptives_weather}
+\begin{tabular}{lcccccccc}
+\toprule
+Variable & Mean & SD & Min & P25 & Median & P75 & Max & N \\
+\midrule
+Precipitation, mm/month (ERA5) & 172.720 & 180.181 & 0.000 & 10.723 & 128.577 & 283.939 & 1,418.889 & 20,672 \\
+Precipitation, mm/month (CHIRPS) & 191.325 & 206.088 & 0.933 & 12.918 & 128.978 & 311.112 & 1,603.076 & 20,672 \\
+Mean temperature, C (ERA5-Land) & 25.107 & 3.523 & 15.962 & 22.391 & 26.515 & 27.795 & 32.080 & 20,672 \\
+Minimum temperature, C & 21.237 & 4.707 & 9.491 & 17.144 & 23.047 & 25.367 & 28.433 & 20,672 \\
+Maximum temperature, C & 29.502 & 2.888 & 21.613 & 27.797 & 30.160 & 31.396 & 38.400 & 20,672 \\
+Precipitation z-score & -0.063 & 0.994 & -2.984 & -0.694 & -0.340 & 0.393 & 5.681 & 20,672 \\
+Temperature z-score & 0.250 & 1.042 & -2.523 & -0.453 & 0.198 & 0.904 & 5.577 & 20,672 \\
+SPEI-1 & -0.047 & 0.986 & -3.719 & -0.813 & -0.140 & 0.670 & 3.409 & 20,672 \\
+Excess-rain shock (z > 1.5) & 0.078 & 0.268 & 0.000 & 0.000 & 0.000 & 0.000 & 1.000 & 20,672 \\
+Drought shock (z < -1.5) & 0.022 & 0.146 & 0.000 & 0.000 & 0.000 & 0.000 & 1.000 & 20,672 \\
+Heat shock (z > 1.5) & 0.116 & 0.320 & 0.000 & 0.000 & 0.000 & 0.000 & 1.000 & 20,672 \\
+Cold shock (z < -1.5) & 0.042 & 0.201 & 0.000 & 0.000 & 0.000 & 0.000 & 1.000 & 20,672 \\
+Any shock & 0.227 & 0.419 & 0.000 & 0.000 & 0.000 & 0.000 & 1.000 & 20,672 \\
+Pre-harvest shocked months, any (baseline sample) & 1.073 & 0.957 & 0.000 & 0.000 & 1.000 & 2.000 & 4.000 & 34,586 \\
+  excess rain & 0.452 & 0.634 & 0.000 & 0.000 & 0.000 & 1.000 & 3.000 & 34,586 \\
+  drought & 0.007 & 0.085 & 0.000 & 0.000 & 0.000 & 0.000 & 1.000 & 34,586 \\
+  heat & 0.393 & 0.616 & 0.000 & 0.000 & 0.000 & 1.000 & 4.000 & 34,586 \\
+  cold & 0.281 & 0.542 & 0.000 & 0.000 & 0.000 & 0.000 & 3.000 & 34,586 \\
+Distance to Dhaka, km (baseline sample) & 157.989 & 78.682 & 16.680 & 98.380 & 149.490 & 205.720 & 330.840 & 34,586 \\
+\bottomrule
+\end{tabular}
+\begin{minipage}{0.95\linewidth}\footnotesize \textit{Notes:} Prices are PRIMARY\_ANALYSIS-tier wholesale midpoints (low+high)/2 in BDT per kg. Weather statistics cover district-months 1999-10 to 2026-08. Shock indicators are defined relative to 1991-2020 district-by-calendar-month normals.\end{minipage}
+\end{table}

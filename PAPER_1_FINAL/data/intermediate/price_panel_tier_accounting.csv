@@ -1,0 +1,4 @@
+source,rows,primary,strict,markets,districts,first,last
+dam_web_historical,39400,38620,30020,127,64,2000-01,2023-07
+moa_api,3348,3177,2721,117,64,2025-06,2026-08
+TOTAL,42748,41797,32741,244,64,2000-01,2026-08

@@ -1,0 +1,13 @@
+Specification,Term,Coef.,SE (district),p,p (two-way),N,Share non-zero,Notes
+P1_lead_full,ph_any,-0.0023,0.0019,0.242,0.354,"33,002",0.671,next season's exposure; all marketing-year months
+P1_lead_full,ph_any_lead,-0.0028,0.0020,0.174,0.265,"33,002",0.680,next season's exposure; all marketing-year months
+P1_lead_clean,ph_any,-0.0011,0.0022,0.631,0.702,"18,389",0.663,months before the next pre-harvest window opens (next season's weather entirely in the future)
+P1_lead_clean,ph_any_lead,0.0008,0.0027,0.758,0.773,"18,389",0.666,months before the next pre-harvest window opens (next season's weather entirely in the future)
+P1_lead_only_clean,ph_any_lead,0.0010,0.0026,0.709,0.732,"18,389",0.666,"lead only, clean months"
+P2_imported_all,ph_any,0.0057*,0.0032,0.078,0.144,"7,178",0.719,imported onion (832) + imported potato (21014)
+P2_imported_onion_832,ph_any,0.0057*,0.0032,0.078,0.144,"7,164",0.718,
+P2_onion_imported_differential,ph_any,-0.0004,0.0022,0.864,0.899,"19,141",0.711,
+P2_onion_imported_differential,ph_x_imported,0.0061*,0.0034,0.081,0.138,"19,141",0.269,
+P3_off_window,ph_any_off,-0.0029,0.0019,0.147,0.207,"34,341",0.772,shocks in Apr-Sep before planting (crop not in the ground)
+P3_off_window_joint,ph_any,-0.0011,0.0017,0.526,0.636,"34,341",0.681,
+P3_off_window_joint,ph_any_off,-0.0028,0.0020,0.161,0.223,"34,341",0.772,

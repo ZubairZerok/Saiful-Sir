@@ -1,0 +1,34 @@
+Specification,Term,Coef.,SE (district),p,p (two-way),N,Share non-zero,Notes
+R01_alt_price_dam_avg,ph_any,-0.0003,0.0017,0.845,0.886,"34,341",0.681,DAM headline average (identical to midpoint before 2025)
+R02_strict_tier,ph_any,-0.0016,0.0017,0.346,0.466,"26,711",0.689,STRICT_SENSITIVITY: runs >= 6 consecutive months
+R03_threshold_1.0sd,ph_any_10,-0.0026*,0.0014,0.078,0.115,"34,341",0.930,
+R04_threshold_2.0sd,ph_any_20,-0.0009,0.0029,0.768,0.793,"34,341",0.426,
+R05_chirps_rainfall,ph_any_chirps,0.0031,0.0027,0.257,0.327,"34,341",0.740,CHIRPS rain shocks + ERA5-Land temperature shocks
+R05b_rain_only_era5,ph_excess_rain,-0.0035,0.0022,0.126,0.195,"34,341",0.382,
+R05b_rain_only_era5,ph_drought,0.0137,0.0098,0.169,0.269,"34,341",0.007,
+R05c_rain_only_chirps,ph_excess_rain_chirps,0.0030,0.0032,0.350,0.423,"34,341",0.438,
+R05c_rain_only_chirps,ph_drought_chirps,0.0611***,0.0082,0.000,0.000,"34,341",0.000,
+R06_incl_imported,ph_any,0.0002,0.0016,0.919,0.938,"41,519",0.688,
+R07_spei,ph_any_spei,-0.0004,0.0016,0.804,0.850,"34,341",0.703,SPEI-1 moisture shocks (|SPEI|>1.5) + temperature shocks
+R07b_spei_decomposed,ph_wet_spei,-0.0009,0.0024,0.725,0.752,"34,341",0.397,
+R07b_spei_decomposed,ph_dry_spei,0.0052,0.0052,0.323,0.338,"34,341",0.076,
+R07b_spei_decomposed,ph_heatwave,0.0086**,0.0033,0.012,0.037,"34,341",0.333,
+R07b_spei_decomposed,ph_cold,-0.0035,0.0055,0.527,0.583,"34,341",0.239,
+R08_percentile_shocks,ph_any_pct,-0.0002,0.0015,0.878,0.896,"34,341",0.859,outside 10-90th percentile of 1991-2020
+R09_max_abs_z,ph_max_abs_z_precip,0.0024,0.0020,0.235,0.304,"34,341",1.000,Option B
+R09_max_abs_z,ph_max_abs_z_temp,-0.0001,0.0055,0.984,0.987,"34,341",1.000,Option B
+R10_mean_z,ph_mean_z_precip,0.0075,0.0073,0.304,0.398,"34,341",1.000,continuous window-mean anomalies
+R10_mean_z,ph_mean_z_temp,0.0102,0.0096,0.292,0.386,"34,341",1.000,continuous window-mean anomalies
+R11_winsorized,ph_any,-0.0015,0.0020,0.467,0.566,"34,924",0.681,no outlier trimming; prices winsorised at p1/p99 within commodity-year
+R12_level_iqr_trim,ph_any,-0.0012,0.0017,0.464,0.585,"34,128",0.682,literal pooled 3xIQR rule applied in addition
+R13_excl_near_gap,ph_any,-0.0016,0.0018,0.393,0.510,"32,413",0.690,drops 6 months on each side of the 2023-08..2025-05 gap
+R14_historical_only,ph_any,-0.0020,0.0019,0.289,0.410,"31,390",0.673,2000-2023 web-portal segment
+R14b_api_only,ph_any,0.0085,0.0060,0.164,0.314,"2,951",0.769,2025-2026 API segment
+R15_excl_sweet_potato,ph_any,-0.0014,0.0017,0.415,0.542,"33,667",0.681,
+R16_lagged_season,ph_any,-0.0016,0.0019,0.401,0.505,"34,341",0.681,adds previous season's exposure
+R16_lagged_season,ph_any_lag,-0.0022,0.0031,0.487,0.514,"34,341",0.661,adds previous season's exposure
+R17_first_difference,d_ph_any,-0.0060***,0.0021,0.005,0.148,"29,274",0.060,month-to-month differences; FE: district + commodity x month
+R18_macro_controls,ph_any,-0.0030,0.0062,0.626,0.804,"32,606",0.672,commodity x calendar-month FE + commodity trends + annual macro controls; uses national time-series variation
+R18_macro_controls,ln_exchange_rate,1.3542***,0.0665,0.000,0.000,"32,606",1.000,commodity x calendar-month FE + commodity trends + annual macro controls; uses national time-series variation
+R18_macro_controls,ln_cpi,-0.3337*,0.1874,0.080,0.423,"32,606",1.000,commodity x calendar-month FE + commodity trends + annual macro controls; uses national time-series variation
+R19_seasonal_fe,ph_any,-0.0017,0.0018,0.362,0.425,"30,815",0.678,market x commodity x calendar-month FE

@@ -1,0 +1,20 @@
+,(1),(2),(3),(4)
+Pre-harvest shocked months,-0.0013,0.0150***,0.0148***,
+,(0.0017),(0.0052),(0.0052),
+Shocked months x ln distance to Dhaka (centred),0.0021,,0.0010,
+,(0.0021),,(0.0019),
+Shocked months squared,,-0.0060***,-0.0059***,
+,,(0.0018),(0.0018),
+1 shocked month,,,,0.0075*
+,,,,(0.0040)
+2 shocked months,,,,0.0036
+,,,,(0.0051)
+3+ shocked months,,,,-0.0058
+,,,,(0.0063)
+--,,,,
+Observations,"34,341","34,341","34,341","34,341"
+R2 within,0.0001,0.0019,0.0019,0.0007
+R2 overall,0.9650,0.9650,0.9650,0.9650
+Market x commodity FE groups,"1,000","1,000","1,000","1,000"
+Commodity x year-month FE groups,"1,759","1,759","1,759","1,759"
+Clusters (districts),64,64,64,64

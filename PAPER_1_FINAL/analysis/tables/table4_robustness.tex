@@ -1,0 +1,43 @@
+\begin{table}[htbp]\centering\small
+\caption{Table 4. Robustness checks}\label{tab:table4_robustness}
+\begin{tabular}{lccccccc}
+\toprule
+Specification & Term & Coef. & SE (district) & p & p (two-way) & N & Share non-zero \\
+\midrule
+R01\_alt\_price\_dam\_avg & ph\_any & -0.0003 & 0.0017 & 0.845 & 0.886 & 34,341 & 0.681 \\
+R02\_strict\_tier & ph\_any & -0.0016 & 0.0017 & 0.346 & 0.466 & 26,711 & 0.689 \\
+R03\_threshold\_1.0sd & ph\_any\_10 & -0.0026* & 0.0014 & 0.078 & 0.115 & 34,341 & 0.930 \\
+R04\_threshold\_2.0sd & ph\_any\_20 & -0.0009 & 0.0029 & 0.768 & 0.793 & 34,341 & 0.426 \\
+R05\_chirps\_rainfall & ph\_any\_chirps & 0.0031 & 0.0027 & 0.257 & 0.327 & 34,341 & 0.740 \\
+R05b\_rain\_only\_era5 & ph\_excess\_rain & -0.0035 & 0.0022 & 0.126 & 0.195 & 34,341 & 0.382 \\
+R05b\_rain\_only\_era5 & ph\_drought & 0.0137 & 0.0098 & 0.169 & 0.269 & 34,341 & 0.007 \\
+R05c\_rain\_only\_chirps & ph\_excess\_rain\_chirps & 0.0030 & 0.0032 & 0.350 & 0.423 & 34,341 & 0.438 \\
+R05c\_rain\_only\_chirps & ph\_drought\_chirps & 0.0611*** & 0.0082 & 0.000 & 0.000 & 34,341 & 0.000 \\
+R06\_incl\_imported & ph\_any & 0.0002 & 0.0016 & 0.919 & 0.938 & 41,519 & 0.688 \\
+R07\_spei & ph\_any\_spei & -0.0004 & 0.0016 & 0.804 & 0.850 & 34,341 & 0.703 \\
+R07b\_spei\_decomposed & ph\_wet\_spei & -0.0009 & 0.0024 & 0.725 & 0.752 & 34,341 & 0.397 \\
+R07b\_spei\_decomposed & ph\_dry\_spei & 0.0052 & 0.0052 & 0.323 & 0.338 & 34,341 & 0.076 \\
+R07b\_spei\_decomposed & ph\_heatwave & 0.0086** & 0.0033 & 0.012 & 0.037 & 34,341 & 0.333 \\
+R07b\_spei\_decomposed & ph\_cold & -0.0035 & 0.0055 & 0.527 & 0.583 & 34,341 & 0.239 \\
+R08\_percentile\_shocks & ph\_any\_pct & -0.0002 & 0.0015 & 0.878 & 0.896 & 34,341 & 0.859 \\
+R09\_max\_abs\_z & ph\_max\_abs\_z\_precip & 0.0024 & 0.0020 & 0.235 & 0.304 & 34,341 & 1.000 \\
+R09\_max\_abs\_z & ph\_max\_abs\_z\_temp & -0.0001 & 0.0055 & 0.984 & 0.987 & 34,341 & 1.000 \\
+R10\_mean\_z & ph\_mean\_z\_precip & 0.0075 & 0.0073 & 0.304 & 0.398 & 34,341 & 1.000 \\
+R10\_mean\_z & ph\_mean\_z\_temp & 0.0102 & 0.0096 & 0.292 & 0.386 & 34,341 & 1.000 \\
+R11\_winsorized & ph\_any & -0.0015 & 0.0020 & 0.467 & 0.566 & 34,924 & 0.681 \\
+R12\_level\_iqr\_trim & ph\_any & -0.0012 & 0.0017 & 0.464 & 0.585 & 34,128 & 0.682 \\
+R13\_excl\_near\_gap & ph\_any & -0.0016 & 0.0018 & 0.393 & 0.510 & 32,413 & 0.690 \\
+R14\_historical\_only & ph\_any & -0.0020 & 0.0019 & 0.289 & 0.410 & 31,390 & 0.673 \\
+R14b\_api\_only & ph\_any & 0.0085 & 0.0060 & 0.164 & 0.314 & 2,951 & 0.769 \\
+R15\_excl\_sweet\_potato & ph\_any & -0.0014 & 0.0017 & 0.415 & 0.542 & 33,667 & 0.681 \\
+R16\_lagged\_season & ph\_any & -0.0016 & 0.0019 & 0.401 & 0.505 & 34,341 & 0.681 \\
+R16\_lagged\_season & ph\_any\_lag & -0.0022 & 0.0031 & 0.487 & 0.514 & 34,341 & 0.661 \\
+R17\_first\_difference & d\_ph\_any & -0.0060*** & 0.0021 & 0.005 & 0.148 & 29,274 & 0.060 \\
+R18\_macro\_controls & ph\_any & -0.0030 & 0.0062 & 0.626 & 0.804 & 32,606 & 0.672 \\
+R18\_macro\_controls & ln\_exchange\_rate & 1.3542*** & 0.0665 & 0.000 & 0.000 & 32,606 & 1.000 \\
+R18\_macro\_controls & ln\_cpi & -0.3337* & 0.1874 & 0.080 & 0.423 & 32,606 & 1.000 \\
+R19\_seasonal\_fe & ph\_any & -0.0017 & 0.0018 & 0.362 & 0.425 & 30,815 & 0.678 \\
+\bottomrule
+\end{tabular}
+\begin{minipage}{0.95\linewidth}\footnotesize \textit{Notes:} Baseline (Table 2, col. 1): coefficient -0.0014, SE 0.0017, N 34,341. Each row is a separate regression of ln wholesale price with market x commodity and commodity x year-month fixed effects unless stated in the replication notes; standard errors clustered by district. 'Share non-zero' is the share of observations with a non-zero regressor.\end{minipage}
+\end{table}

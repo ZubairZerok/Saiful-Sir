@@ -1,0 +1,40 @@
+\begin{table}[htbp]\centering\small
+\caption{Table 7. Monthly event study around in-season shocks}\label{tab:table7_event_study}
+\begin{tabular}{lccccc}
+\toprule
+ & (1) Brief FE & (2) Seasonal FE & (3) District-season FE & (4) Onion & (5) Potato \\
+\midrule
+Shock at t+3 (lead, placebo) & -0.0073 & -0.0032 & -0.0025 & 0.0011 & -0.0067 \\
+ & (0.0047) & (0.0037) & (0.0039) & (0.0045) & (0.0056) \\
+Shock at t+2 (lead, placebo) & -0.0030 & 0.0002 & 0.0039 & 0.0010 & 0.0000 \\
+ & (0.0047) & (0.0039) & (0.0046) & (0.0049) & (0.0056) \\
+Shock at t+1 (lead, placebo) & -0.0131*** & -0.0029 & -0.0024 & -0.0024 & -0.0034 \\
+ & (0.0038) & (0.0039) & (0.0039) & (0.0057) & (0.0058) \\
+Shock at t & -0.0141*** & -0.0055 & -0.0056 & -0.0058 & -0.0053 \\
+ & (0.0044) & (0.0048) & (0.0050) & (0.0054) & (0.0071) \\
+Shock at t-1 & -0.0092 & -0.0117** & -0.0094* & -0.0012 & -0.0189*** \\
+ & (0.0060) & (0.0053) & (0.0053) & (0.0068) & (0.0066) \\
+Shock at t-2 & 0.0008 & -0.0072 & -0.0056 & -0.0052 & -0.0083 \\
+ & (0.0044) & (0.0047) & (0.0049) & (0.0070) & (0.0063) \\
+Shock at t-3 & 0.0052 & -0.0012 & -0.0021 & 0.0022 & -0.0037 \\
+ & (0.0045) & (0.0045) & (0.0044) & (0.0065) & (0.0057) \\
+Shock at t-4 & 0.0102** & 0.0011 & 0.0004 & -0.0043 & 0.0051 \\
+ & (0.0043) & (0.0046) & (0.0047) & (0.0055) & (0.0063) \\
+Shock at t-5 & 0.0044 & 0.0015 & 0.0025 & -0.0054 & 0.0061 \\
+ & (0.0037) & (0.0035) & (0.0039) & (0.0053) & (0.0057) \\
+Shock at t-6 & 0.0065* & 0.0044 & 0.0043 & 0.0023 & 0.0062 \\
+ & (0.0036) & (0.0036) & (0.0033) & (0.0054) & (0.0043) \\
+\midrule
+Observations & 34,085 & 30,585 & 34,085 & 10,787 & 19,798 \\
+R2 within & 0.0018 & 0.0008 & 0.0005 & 0.0004 & 0.0015 \\
+R2 overall & 0.9651 & 0.9731 & 0.9686 & 0.9752 & 0.9561 \\
+Market x commodity FE groups & 984 & 4,871 & 984 & 1,258 & 3,613 \\
+Commodity x year-month FE groups & 1,751 & 1,626 & 1,751 & 340 & 1,286 \\
+Clusters (districts) & 64 & 64 & 64 & 64 & 64 \\
+Pre-trend F-test p-value (leads 1-3) & 0.010 & 0.738 & 0.575 & 0.943 & 0.592 \\
+All lags = 0, p-value & 0.001 & 0.107 & 0.220 & 0.758 & 0.021 \\
+Sample & All & All & All & Onion & Potato \\
+\bottomrule
+\end{tabular}
+\begin{minipage}{0.95\linewidth}\footnotesize \textit{Notes:} Dependent variable: ln wholesale price. Regressors are indicators for an in-window shock month in the district k months before (lags) or after (leads) the price month. Col. (1): fixed effects of the brief. Col. (2), (4), (5): market x commodity x calendar-month and commodity x year-month FE. Col. (3): brief FE plus district x crop x calendar-month FE. SE clustered by district.\end{minipage}
+\end{table}
